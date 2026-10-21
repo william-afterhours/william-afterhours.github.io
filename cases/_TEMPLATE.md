@@ -15,7 +15,7 @@ cap: ""                        # 적용된 상한 규칙 번호. 예: "①". 없
 unfavorable: []                # '불리'인 가설 코드 목록. 예: [H5, H6] (8절 결과)
 links: []                      # 연결 대상 id 목록. 예: [M-taken-by-mistake-returned, O-SPR] (10절)
 counter: unsearched            # 반박 최고 R등급(A~D) / none(탐색했으나 없음) / unsearched
-countable: no                  # yes = R≥B ∧ I2 ∧ counter≠unsearched ∧ cap 없음
+countable: no                  # no / S / V / SV. S = R≥B ∧ I2 ∧ counter≠unsearched ∧ cap 없음 ∧ 구조 요소 2개 이상. V = V1 이상 ∧ counter≠unsearched ∧ cap 없음 (METHOD 1절 v0.2)
 status: draft                  # draft / reviewed / final
 updated: YYYY-MM-DD
 ---
