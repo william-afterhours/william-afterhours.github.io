@@ -1,0 +1,59 @@
+# main에 push될 때 Quartz로 사이트를 만들어 GitHub Pages에 올린다.
+# 저장소 Settings → Pages → Source를 "GitHub Actions"로 한 번 바꿔야 돈다.
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Quartz 소스 (4.5.2, 커밋 고정)
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: d25a6eabf96751ffca56f8a8139272def7a65041
+          path: quartz-src
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 콘텐츠·설정 복사
+        run: bash site/assemble.sh . quartz-src
+
+      - name: 빌드
+        working-directory: quartz-src
+        run: |
+          npm ci
+          npx quartz build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz-src/public
+
+  deploy:
+    # 무료 계정의 Pages는 공개 저장소에서만 된다. 비공개 동안은 build만 돌려 빌드가 깨지지 않는지 확인한다.
+    if: ${{ !github.event.repository.private }}
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

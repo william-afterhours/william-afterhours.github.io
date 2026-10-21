@@ -6,7 +6,7 @@ alive: ""
 role: O-Merkawah
 cluster: EU-W
 dates: "1988-"
-aliases: ["Merkawah Foundation", "IANDS Nederland", "Merkawah/IANDS The Netherlands"]
+aliases: ["Merkawah Foundation", "IANDS Nederland", "Stichting Merkawah"]
 links: [NDE-NL-1979-dentures, P-TG-witness-1979, P-Woerlee-GM]
 status: draft
 updated: 2026-10-21
