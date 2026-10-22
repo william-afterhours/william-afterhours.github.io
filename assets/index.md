@@ -24,6 +24,10 @@ updated: 2026-10-22
 | `NDE-NL-1979-dentures--ooij-waal-winter.jpg` | [[NDE-NL-1979-dentures]] | ② 장소(참고) | 오이(Ooij) 근처 발(Waal)강 범람원의 겨울 풍경. **사건 장소가 아닌 지역 참고 사진** | [Commons](https://commons.wikimedia.org/wiki/File:Typical_Dutch_winter_riverscape_of_the_Waal.jpg) | Lendskaip · 2021-02-11 | CC0 | 2026-10-22 열람. 눈 덮인 제방과 언 범람원 |
 | `NDE-NL-1979-dentures--crash-cart-example.jpg` | [[NDE-NL-1979-dentures]] | ② 물건(참고) | 오늘날의 크래시 카트(심정지 카트) 예, 스페인. **1979년 카니시우스의 카트는 병원 기술진이 그 방을 위해 만든 것으로 사진이 없다** | [Commons](https://commons.wikimedia.org/wiki/File:Carro_de_paradas.jpeg) | Manuel Ramallo · 2014-06-12 | CC0 | 2026-10-22 열람. 서랍 3단, 위에 제세동기 |
 | `NDE-NL-1979-dentures--sequence.svg` | [[NDE-NL-1979-dentures]] | ④ 도해 | 사건 순서 6단계, 확인된 정보 4가지, "이렇게도 설명된다" 3가지와 등급 | 카드 3·6·7절 | William · 2026-10-22 | 이 저장소와 같음 | 생성 코드 `tools/diagrams/NDE-NL-1979-dentures.py` |
+| `DBV-GB-1924-doris--timeline.svg` | [[DBV-GB-1924-doris]] | ④ 도해 | 연표(혼인→비다 사망→숨김→출산·환시·사망→진술서→책), 발화 ①~⑦을 누가 들었나, 비다의 죽음을 알던 사람, 기록의 사슬과 등급 | 카드 3·4·6절 | William · 2026-10-22 | 이 저장소와 같음 | 생성 코드 `tools/diagrams/DBV-GB-1924-doris.py` |
+| `DBV-GB-1924-doris--florence-barrett.jpg` | [[DBV-GB-1924-doris]] · [[P-Barrett-Florence]] | ③ 인물 | 레이디 플로렌스 바렛(1867–1945), 첫 기록자·증인. 좌상 초상, 촬영 연도 미상 | [Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Florence_Barrett_Wellcome_L0004411.jpg) · Wellcome Collection L0004411 | Wellcome Images · 연도 미상 | CC BY 4.0 | 2026-10-22 William 열람. 검은 드레스, 레이스 소매, 앉은 자세. 1400px·q70으로 축소(원본 1600px은 400KB 초과) |
+| `DBV-GB-1924-doris--william-barrett-1907.png` | [[DBV-GB-1924-doris]] · [[P-Barrett-WF]] | ③ 인물 | 윌리엄 F. 바렛 경(1844–1925), 수집·출판자. 1907년 출판물 초상 | [Commons](https://commons.wikimedia.org/wiki/File:William_F._Barrett_the_psychical_researcher.png) | James Creelman · 1907 | 퍼블릭 도메인 | 2026-10-22 열람. 흰 수염의 흉상 초상(311×373, 원본 크기 그대로) |
+| `DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg` | [[DBV-GB-1924-doris]] · [[L-Mothers-Hospital-Clapton]] | ② 장소 | Mothers' Hospital(런던 Lower Clapton Rd) 정면 건물, 2018년. 1824년 주택을 병원 정면으로 썼고 병동은 뒤편. 1986년 폐원 후 주거 단지(Mothers' Square). **1924년 당시 사진이 아님** | [Commons](https://commons.wikimedia.org/wiki/File:The_Salvation_Army_Mothers%27_Hospital,_Front_Buildings,_Lower_Clapton_Rd.jpg) | Paul the Archivist · 2018-05-05 | CC BY-SA 4.0 | 2026-10-22 열람. 아치에 "THE MOTHERS' SQUARE AND MAITLAND HOUSE" |
 
 ## 찾았으나 쓰지 않은 것
 
@@ -34,3 +38,8 @@ updated: 2026-10-22
 | NDE-NL-1979-dentures | Commons "Nieuwbouw St.Canisius-ziekenhuis F70524"(1971) | 열어 보니 건축 모형 사진. 사건과 무관 |
 | NDE-NL-1979-dentures | Thumper(기계식 심장마사지기) 사진 | Commons에 없음(2026-10-22 검색 "Michigan Instruments Thumper", "mechanical chest compression device") |
 | NDE-NL-1979-dentures | 1979년 지역 신문 보도 | Delpher에 De Gelderlander 1979년치 없음. 카드 13절 탐색 기록 참조 |
+| DBV-GB-1924-doris | Barrett 1926 『Death-bed Visions』 pp.10–14 쪽 스캔(Wellcome b29813992) | 저자 1925년 사망으로 본문은 PD이나 Wellcome 메타데이터가 저작권 표시·열람 전용. 카드 4절에서 IIIF 쪽 주소로 링크만 |
+| DBV-GB-1924-doris | archive.org `b29813992` 사본 | printdisabled 컬렉션, 파일 내려받기 403 |
+| DBV-GB-1924-doris | 1924년 1~2월 신문 보도·전재 기사 | BNA(영국)는 유료. Papers Past·Chronicling America(loc.gov)·HathiTrust는 봇 차단, Trove는 API 키 필요 → **미확인**. 카드 13절 탐색 기록 |
+| DBV-GB-1924-doris | 1920년대 Mothers' Hospital 사진 | Commons에 없음(2026-10-22 검색). 2018년 정면 사진으로 대신하고 캡션에 명시 |
+| DBV-GB-1924-doris | BMJ 1945-08-18 레이디 바렛 부고(PMC2059597) | PMC·Europe PMC 봇 차단으로 본문 미열람. 저작권도 BMJ |

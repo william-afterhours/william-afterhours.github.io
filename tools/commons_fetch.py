@@ -67,6 +67,8 @@ def main():
         url = ii.get("thumburl") or ii["url"]
         url = url.replace("https://thumb.wikimedia.org", "https://upload.wikimedia.org").split("?")[0]
         ext = {"image/jpeg": "jpg", "image/png": "png", "image/svg+xml": "svg"}.get(ii.get("mime"), "jpg")
+        if local.lower().endswith((".jpg", ".jpeg", ".png", ".svg")):
+            local = local.rsplit(".", 1)[0]
         dest = out / f"{local}.{ext}"
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         with urllib.request.urlopen(req, timeout=120) as r, open(dest, "wb") as f:
