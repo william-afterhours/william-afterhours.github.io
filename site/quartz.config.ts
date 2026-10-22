@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
-    // GitHub 저장소가 생기면 "<owner>.github.io/<repo>"로 바꾼다 (RSS·사이트맵·절대 링크에만 쓰인다).
-    baseUrl: "example.invalid",
+    // 사용자 사이트 저장소(william-afterhours.github.io)라 루트에 뜬다. RSS·사이트맵·절대 링크에 쓰인다.
+    baseUrl: "william-afterhours.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "**/_TEMPLATE.md"],
     defaultDateType: "modified",
     theme: {

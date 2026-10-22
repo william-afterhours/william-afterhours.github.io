@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// 모든 페이지에 공통. 저장소가 생기면 OWNER/REPO를 바꾼다.
+// 모든 페이지에 공통. 저장소가 생기면 william-afterhours/william-afterhours.github.io를 바꾼다.
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     // Component.Comments({
     //   provider: "giscus",
     //   options: {
-    //     repo: "OWNER/REPO",
+    //     repo: "william-afterhours/william-afterhours.github.io",
     //     repoId: "",
     //     category: "카드 토론",
     //     categoryId: "",
@@ -24,8 +24,8 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      저장소: "https://github.com/OWNER/REPO",
-      토론: "https://github.com/OWNER/REPO/discussions",
+      저장소: "https://github.com/william-afterhours/william-afterhours.github.io",
+      토론: "https://github.com/william-afterhours/william-afterhours.github.io/discussions",
     },
   }),
 }
