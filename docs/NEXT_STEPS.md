@@ -11,7 +11,7 @@
 - **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 지금은 **비공개**로 올리고 **공개 전환은 SYNTHESIS v1(10건) 시점에 대표님 확인**(되돌릴 수 없는 공개 발언). 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
   - 준비 완료: `site/quartz.config.ts`·`quartz.layout.ts`·`assemble.sh`, `.github/workflows/deploy.yml`(Quartz 4.5.2 커밋 고정, 비공개 동안 deploy 단계 생략), `README.md`(= 사이트 첫 페이지), `.gitignore`. **로컬 빌드 확인함**(Node 26, 10개 문서 → 41 파일, 위키링크·백링크 정상).
   - **저장소 개설 완료(2026-10-22)**: https://github.com/william-afterhours/william-afterhours.github.io (비공개, Discussions 켜짐, main 추적). 계정 `william-afterhours`, 이메일 `williamafterhours@proton.me`. 커밋 이메일은 GitHub noreply 주소(로컬 git config).
-  - 첫 push의 Actions `Deploy site`(build만) 런 39784436279 **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
+  - Actions `Deploy site`(build만) 런 39784436279·39787305222(자료 층 커밋 7eb7bf1) **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
   - 공개 전환 때 할 것: Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
 
 ## 다음 세션에 할 일
