@@ -10,7 +10,7 @@ cp "$REPO/site/quartz.config.ts" "$REPO/site/quartz.layout.ts" "$Q/"
 
 rm -rf "$Q/content"
 mkdir -p "$Q/content"
-for d in cases entities docs sources; do
+for d in cases entities docs sources assets; do
   [ -d "$REPO/$d" ] && cp -R "$REPO/$d" "$Q/content/$d"
 done
 { printf -- '---\ntitle: "William · 초자연 현상 기록"\n---\n'; cat "$REPO/README.md"; } > "$Q/content/index.md"

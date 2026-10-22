@@ -1,0 +1,36 @@
+---
+title: 자료 (사진·기록 사본·삽화·도해)
+updated: 2026-10-22
+---
+
+# 자료 목록
+
+사건 카드와 항목에 붙는 사진·기록 사본·신문·삽화·도해를 모아 둔다. 규칙은 [[METHOD]] 9절 "시각 자료 규칙". 핵심만 다시 적으면:
+
+- **사진은 이해를 돕는 것이지 증거가 아니다.** 등급(R·V·I)에 영향이 없다. 예외는 1차 문서의 스캔(기록 사본)으로, 그것은 출처의 '열람 확인' 근거가 된다.
+- **공개 저장소에 올라가므로 퍼블릭 도메인·CC0·CC BY·CC BY-SA·정부 저작물만.** 저작권이 있는 논문·책·사진은 넣지 않고 링크한다. 저작권 있는 그림을 "다시 그려서" 넣지도 않는다 — 표현을 베끼면 여전히 2차 저작물이고, 무엇보다 그렇게 만든 그림은 기록이 아니라 지어낸 그림이다. 대신 **사실**(순서·배치·수치·지도)은 도해로 다시 그린다. 그것은 합법이고 이 연구에 쓸모가 있다.
+- **모든 자료는 열어서 보고 넣는다.** 캡션은 사진이 실제로 보여주는 것만. 사건 장소·당사자가 아닌 것은 "참고".
+- **신문**은 가장 좋은 기록 사본이다(사건 직후 기록). 아카이브·신문명·날짜·면·기사 URL을 다 적는다. 찾았으나 없으면 그것도 카드 13절에 적는다.
+- 쓰지 않는 것: 생성형 이미지, 재연 사진, 출처 불명 이미지, 살아 있거나 생사 불명인 목격자·당사자의 얼굴.
+- 파일명 `<카드 또는 항목 id>--<slug>.<ext>`, 긴 변 1600px 이하·400KB 이하.
+
+도구: `tools/commons_fetch.py`(Wikimedia Commons에서 라이선스 확인·메타데이터·축소본 받기), `tools/diagrams/<id>.py`(도해 생성 코드, SVG 출력).
+
+## 목록
+
+| 파일 | 카드·항목 | 종류 | 무엇 | 출처 | 저자·연도 | 라이선스 | 열람·확인 |
+|---|---|---|---|---|---|---|---|
+| `NDE-NL-1979-dentures--canisius-hospital-1960.jpg` | [[NDE-NL-1979-dentures]] | ② 장소 | 네이메헌 성 카니시우스 병원 본관과 정문. 1926~1992년 St. Annastraat에 있던 건물로, 1979년 소생이 이뤄진 병원(건물 이력은 nl.wikipedia "Canisius-Wilhelmina Ziekenhuis") | [Commons](https://commons.wikimedia.org/wiki/File:Het_hoofdgebouw_met_hoofdingang_van_het_St._Canisius_Ziekenhuis_F12159.jpeg) · Regionaal Archief Nijmegen F12159 | Fotopersbureau Gelderland · 1960 | CC BY-SA 4.0 | 2026-10-22 William 열람. 정면 간판 "ST. CANISIUS ZIEKENHUIS" 확인 |
+| `NDE-NL-1979-dentures--ooij-waal-winter.jpg` | [[NDE-NL-1979-dentures]] | ② 장소(참고) | 오이(Ooij) 근처 발(Waal)강 범람원의 겨울 풍경. **사건 장소가 아닌 지역 참고 사진** | [Commons](https://commons.wikimedia.org/wiki/File:Typical_Dutch_winter_riverscape_of_the_Waal.jpg) | Lendskaip · 2021-02-11 | CC0 | 2026-10-22 열람. 눈 덮인 제방과 언 범람원 |
+| `NDE-NL-1979-dentures--crash-cart-example.jpg` | [[NDE-NL-1979-dentures]] | ② 물건(참고) | 오늘날의 크래시 카트(심정지 카트) 예, 스페인. **1979년 카니시우스의 카트는 병원 기술진이 그 방을 위해 만든 것으로 사진이 없다** | [Commons](https://commons.wikimedia.org/wiki/File:Carro_de_paradas.jpeg) | Manuel Ramallo · 2014-06-12 | CC0 | 2026-10-22 열람. 서랍 3단, 위에 제세동기 |
+| `NDE-NL-1979-dentures--sequence.svg` | [[NDE-NL-1979-dentures]] | ④ 도해 | 사건 순서 6단계, 확인된 정보 4가지, "이렇게도 설명된다" 3가지와 등급 | 카드 3·6·7절 | William · 2026-10-22 | 이 저장소와 같음 | 생성 코드 `tools/diagrams/NDE-NL-1979-dentures.py` |
+
+## 찾았으나 쓰지 않은 것
+
+| 카드 | 무엇 | 이유 |
+|---|---|---|
+| NDE-NL-1979-dentures | JNDS 논문 쪽(UNT 디지털 도서관, Smit 2008 등 4편) | ⓒ IANDS(UNT 메타데이터 `rights: (c) 2008 IANDS`). 카드 4절에서 링크만 |
+| NDE-NL-1979-dentures | Lancet 2001 van Lommel 논문 쪽 | ⓒ Elsevier, 전문 유료. 링크만 |
+| NDE-NL-1979-dentures | Commons "Nieuwbouw St.Canisius-ziekenhuis F70524"(1971) | 열어 보니 건축 모형 사진. 사건과 무관 |
+| NDE-NL-1979-dentures | Thumper(기계식 심장마사지기) 사진 | Commons에 없음(2026-10-22 검색 "Michigan Instruments Thumper", "mechanical chest compression device") |
+| NDE-NL-1979-dentures | 1979년 지역 신문 보도 | Delpher에 De Gelderlander 1979년치 없음. 카드 13절 탐색 기록 참조 |

@@ -17,7 +17,7 @@ links: [O-Merkawah, P-TG-witness-1979, P-Woerlee-GM, M-obe-veridical-resuscitati
 counter: C
 countable: V
 status: reviewed
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # 네이메헌 "틀니의 남자" — 심정지 소생 중 체외 시점에서 틀니를 치운 간호사와 카트를 묘사한 환자 (1979, 네덜란드)
@@ -161,3 +161,23 @@ T.G.는 그 밤 근무를 끝으로 5일 쉬었고 복귀 후 다른 부서에 �
 - 미해결: ② 1977년 전후 네덜란드어 NDE 대중서(Moody 번역) 유통 — 확인되면 ④와 함께 '확인'으로 바뀔 수 있으나 S층 미집계라 영향 작음. ② "상·하 틀니"(1994) vs "상악"(Lancet) 불일치. ③ 틀니 제거 시 순환 유무 — Lancet판(마사지 중)과 T.G. 2008판(기계 가동 전) 차이의 원인이 Lancet 저자들의 재구성인지 T.G. 기억 변화인지 불명. ④ 1979 연도의 출처가 Woerlee 2010뿐(Rivas 2008 면담에서 나온 것으로 추정). ⑤ ICU 직원 경유 정보 전달 가능성(L)은 어느 조사자도 묻지 않음.
 - 다음에 열어볼 것: Rivas·Dirven·Smit 『The Self Does Not Die』(2016) 영역본의 이 사건 항목(Anny Dirven의 B. 추적 결과가 있을 수 있음) — 무료 사본 없으면 미확인 유지. Woerlee 2005 편지(metadc799324, metadc938056). Lancet 2001 전문(유료; 저자 사이트 사본 미발견).
 - 도구: UNT PDF는 봇 차단이지만 IIIF `manifest/`와 `m1/<p>/annotations/ocr/`는 열린다 → `tools/unt_ocr.py`. JNDS 전체 색인은 `sources/unt-jnds-index.tsv`.
+
+## 13. 자료
+
+규칙은 METHOD 9절. 사진은 이해를 돕는 것이지 증거가 아니고 등급에 영향이 없다. 목록과 라이선스는 `assets/index.md`.
+
+![[NDE-NL-1979-dentures--sequence.svg]]
+*도해 · 사건 순서와 검증 정보가 놓인 자리. 이 카드의 3·6·7절을 그림으로 옮긴 것으로 **기록이 아니다** · William 작성, 생성 코드 `tools/diagrams/NDE-NL-1979-dentures.py`*
+
+![[NDE-NL-1979-dentures--canisius-hospital-1960.jpg]]
+*네이메헌 성 카니시우스 병원 본관과 정문, 1960년. 1926~1992년 St. Annastraat에 있던 건물로 1979년 소생이 이뤄진 병원이다(CCU는 3층이었다는 T.G.의 말 외에 소생실이 어느 동인지는 기록 없음) · Regionaal Archief Nijmegen F12159, Fotopersbureau Gelderland, Wikimedia Commons · CC BY-SA 4.0*
+
+![[NDE-NL-1979-dentures--ooij-waal-winter.jpg]]
+*참고 · 오이(Ooij) 근처 발(Waal)강 범람원의 겨울 풍경, 2021년 2월. B.가 발견된 초원이 어디인지는 기록에 없다. 지역 참고 사진 · Lendskaip, Wikimedia Commons · CC0*
+
+![[NDE-NL-1979-dentures--crash-cart-example.jpg]]
+*참고 · 오늘날의 크래시 카트 예(스페인, 2014). 1979년 카니시우스 소생실의 카트는 병원 기술진이 그 방을 위해 만든 것으로 병원 어디에도 같은 것이 없었고(#2 #4) 사진은 없다 · Manuel Ramallo, Wikimedia Commons · CC0*
+
+- 저작권으로 넣지 않은 것: JNDS 4편의 쪽(ⓒ IANDS, UNT 메타데이터), Lancet 2001 쪽. 4절 링크로 본다.
+- 신문·기록 탐색(2026-10-22): Delpher(네덜란드 왕립도서관 신문 아카이브, DDD) 1979-09-01~1980-03-31 범위에서 `Ooij AND weiland AND reanimatie`, `Ooij AND onderkoeld`, `Ooij AND Canisius AND reanimatie`, `(Ooij OR Ooy) AND (weiland OR wei OR polder) AND (gevonden OR bewusteloos OR onderkoeling)` → **0건**. 같은 기간 전국지는 'Nijmegen'으로 1,345건이 나오지만 지역지 De Gelderlander는 1979년치가 Delpher에 없다(`papertitle="De Gelderlander"` 0건). 따라서 지역 보도 유무는 **미확인**이지 '없음'이 아니다. 1991년 Cordiaal 기사는 디지털 아카이브가 없다.
+- 다음에 찾을 것: Regionaal Archief Nijmegen의 De Gelderlander 디지털판(있으면 1979년 11~12월 "Ooij" 검색), 1979년 카니시우스 병원 CCU·소생실 사진(같은 아카이브).

@@ -1,7 +1,11 @@
 # NEXT_STEPS — 재개할 때 이것부터
 
-## 현재 상태 (2026-10-21, 세션 2)
+## 현재 상태 (2026-10-22, 세션 3)
 
+- **자료 층 신설(2026-10-22, 대표님 지시 "자료 사진 그림 삽화 등으로 잘 모아서 같이 정리", "신문 등은 이용하고 출처 확실히 남기고")**: `assets/`(파일 + `index.md` 목록·규칙), METHOD 9절 "시각 자료 규칙"(13절 "자료" 칸 추가), 카드·템플릿 13절, `tools/commons_fetch.py`(Commons 라이선스 확인·받기), `tools/diagrams/<id>.py`(도해 생성). 카드 1에 4건 적용(병원 1960 사진 CC BY-SA, 오이 범람원 참고 CC0, 크래시 카트 참고 CC0, 사건 순서 도해 SVG). 로컬 Quartz 빌드로 이미지·자료 페이지 확인됨.
+  - 대표님의 "저작권 걸리면 다시 그리거나 다른 AI로 변경" 지시는 이렇게 처리: 저작권 있는 사진·쪽은 링크만, **사실(순서·배치·수치·지도)만 도해로 다시 그림**. 원본 표현을 베낀 그림은 2차 저작물이고 기록도 아니라서 쓰지 않는다(`assets/index.md`에 적음).
+  - 신문: Delpher(KB) SRU API `https://jsru.kb.nl/sru/sru?x-collection=DDD_artikel&query=…`가 열린다(무료, 키 없음). 1979년 지역지 De Gelderlander는 미수록. 다음 카드부터 사건 직후 신문을 먼저 찾는다(Chronicling America·Trove·Papers Past·Delpher는 전부 무료·PD).
+  - Wikimedia 축소본 URL은 API가 주는 폭(예 960·1280)만 받아들인다(임의 폭은 400). `commons_fetch.py`가 처리.
 - **단계**: 조사 진행 중. 카드 1 `cases/NDE-NL-1979-dentures.md` 완료(**C/V1**, `countable: V`). 엔티티 4건(`O-Merkawah`, `P-TG-witness-1979`, `P-Woerlee-GM`, `M-obe-veridical-resuscitation`), 출처 요약 `sources/jnds-dentures-2004-2010.md`, JNDS 전체 색인 `sources/unt-jnds-index.tsv`(1081건), 도구 `tools/unt_ocr.py`·`tools/unt_oai.py`.
 - **METHOD v0.2**(이번 세션, 내 결정, 대표님께 보고·거부 가능): NDE "요소 2개 이상"은 S층 집계에만. V층 입장 = 생명 위기 + 체외 시점 + V요소. `countable: no/S/V/SV`. 거부되면 v0.1로 되돌리고 카드 1은 "유사 사례"로 둔다(10절에 기록).
 - **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 지금은 **비공개**로 올리고 **공개 전환은 SYNTHESIS v1(10건) 시점에 대표님 확인**(되돌릴 수 없는 공개 발언). 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
@@ -13,7 +17,7 @@
 ## 다음 세션에 할 일
 
 1. 대표님 답을 반영: METHOD v0.2 유지/복귀(기록 장소는 확정·개설 완료).
-2. 카드 2 `DBV-GB-1924-doris`(archive.org `b29813992`, Barrett 1926). 엔티티 Barrett, 모티프 "잘못 데려감"은 그때.
+2. 카드 2 `DBV-GB-1924-doris`(archive.org `b29813992`, Barrett 1926). 엔티티 Barrett, 모티프 "잘못 데려감"은 그때. **자료**: Barrett 1926은 PD → 해당 쪽 스캔(기록 사본 ①), Barrett 부부 초상(Commons, 사망 확인), Mothers' Hospital Clapton 사진, 1924년 신문(영국지는 유료 BNA라 Trove·Papers Past의 전재 기사로).
 3. 카드 3 후보: `NDE-INTL-2014-aware`(V층 대조군; Resuscitation 2014 저자 사본 탐색) 또는 `NDE-US-1991-reynolds`(Sabom 1998; Woerlee 2011 반박 UNT metadc461684·461715).
 4. `tools/build_index.py` — 프론트매터 → `docs/TIMELINE.md` + 깨진 `[[링크]]` 목록. 지금 깨진 링크: `NDE-INTL-2014-aware`(카드 미작성, 의도적).
 5. 매체 기준 연도(NDE 1975) 근거 문헌: Moody 『Life After Life』 1975 초판·네덜란드어판 연도 확인(카드 1 독립성 ②·④가 '불명'인 이유).
@@ -44,6 +48,7 @@
 ## 토큰
 
 - 세션 1: 약 35만 추정 — 등급표 설계 서브에이전트 12.3만(집계값) + 본 세션 약 20만(추정).
+- 세션 3(2026-10-22): 저장소 개설 마무리 + 자료 층. 추정 입력 누적 약 15–25만(이미지 열람 5장 포함), 출력 약 2만.
 - 세션 2: `/cost`를 직접 볼 수 없어 추정. 컨텍스트가 한 번 가득 차 요약됐으므로 본 세션 입력 누적 약 25–35만(웹·OCR 본문 읽기가 대부분, Woerlee 2010·Smit&Rivas 2010·Smit 2008·Woerlee 2004 전문 4편), 출력 약 3만. 대표님이 `/cost`를 치면 정확한 수치가 나온다.
 - 비용 절감 메모: JNDS 색인(OAI)을 받아 두어 다음 NDE 카드는 검색 토큰이 거의 들지 않는다. 전문은 스크래치패드에만 두고 저장소에는 요약만(저작권).
 - 등급표의 잠정값(1회차 조사에서 확정할 것): 매체 확산 기준 연도(NDE 1975 / CORT 1956 / CA·DBV 1900)는 근거 문헌 미확인. 수렴 판정 숫자(4클러스터·V2 3건)는 William의 판단이라 대표님이 조정 가능.
