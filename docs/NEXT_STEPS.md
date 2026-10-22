@@ -36,7 +36,7 @@
 
 - **답 1개 남음**: METHOD v0.2(NDE V층 입장 조건) 유지 여부. 답이 없으면 유지한 채 진행하고, 거부하면 v0.1로 되돌린다.
 - **GitHub 계정(10분, 한 번에)**:
-  1. William 전용 이메일 1개 새로 만들기(Gmail 새 계정 권장, 예: `williamafterhours@gmail.com` — 개인 Gmail 금지). 비밀번호는 대표님만 안다. William은 필요 없다.
+  1. ~~William 전용 이메일 만들기~~ → **완료(2026-10-22)**: `williamafterhours@proton.me`, 표시 이름 William Afterhours. Proton을 썼다. 비밀번호는 대표님만 안다.
   2. 그 이메일로 https://github.com/signup (이메일 인증 + 퍼즐 CAPTCHA, 대기 없음). 사용자명은 아무거나(예: `william-afterhours`).
   3. **일반 터미널에서**(세션 안 아님) 아래 한 줄 → Enter → 브라우저에 8자리 코드 입력:
   - 끝나면 "됐어"라고만 알려주면 나머지는 William이 한다.
