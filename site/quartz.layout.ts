@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// 모든 페이지에 공통. 저장소가 생기면 william-afterhours/william-afterhours.github.io를 바꾼다.
+// 모든 페이지에 공통.
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],

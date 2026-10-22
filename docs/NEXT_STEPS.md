@@ -6,15 +6,17 @@
 - **METHOD v0.2**(이번 세션, 내 결정, 대표님께 보고·거부 가능): NDE "요소 2개 이상"은 S층 집계에만. V층 입장 = 생명 위기 + 체외 시점 + V요소. `countable: no/S/V/SV`. 거부되면 v0.1로 되돌리고 카드 1은 "유사 사례"로 둔다(10절에 기록).
 - **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 지금은 **비공개**로 올리고 **공개 전환은 SYNTHESIS v1(10건) 시점에 대표님 확인**(되돌릴 수 없는 공개 발언). 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
   - 준비 완료: `site/quartz.config.ts`·`quartz.layout.ts`·`assemble.sh`, `.github/workflows/deploy.yml`(Quartz 4.5.2 커밋 고정, 비공개 동안 deploy 단계 생략), `README.md`(= 사이트 첫 페이지), `.gitignore`. **로컬 빌드 확인함**(Node 26, 10개 문서 → 41 파일, 위키링크·백링크 정상).
+  - **저장소 개설 완료(2026-10-22)**: https://github.com/william-afterhours/william-afterhours.github.io (비공개, Discussions 켜짐, main 추적). 계정 `william-afterhours`, 이메일 `williamafterhours@proton.me`. 커밋 이메일은 GitHub noreply 주소(로컬 git config).
+  - 첫 push의 Actions `Deploy site`(build만) 런 39784436279 **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
+  - 공개 전환 때 할 것: Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
 
 ## 다음 세션에 할 일
 
-1. 대표님 답을 반영: METHOD v0.2 유지/복귀, 기록 장소 확정 여부.
+1. 대표님 답을 반영: METHOD v0.2 유지/복귀(기록 장소는 확정·개설 완료).
 2. 카드 2 `DBV-GB-1924-doris`(archive.org `b29813992`, Barrett 1926). 엔티티 Barrett, 모티프 "잘못 데려감"은 그때.
 3. 카드 3 후보: `NDE-INTL-2014-aware`(V층 대조군; Resuscitation 2014 저자 사본 탐색) 또는 `NDE-US-1991-reynolds`(Sabom 1998; Woerlee 2011 반박 UNT metadc461684·461715).
 4. `tools/build_index.py` — 프론트매터 → `docs/TIMELINE.md` + 깨진 `[[링크]]` 목록. 지금 깨진 링크: `NDE-INTL-2014-aware`(카드 미작성, 의도적).
-5. 대표님이 GitHub 계정을 만들면: 위 "계정이 생기면 William이 할 것" 순서대로. giscus(앱 설치·repoId·categoryId)는 공개 전환 때.
-6. 매체 기준 연도(NDE 1975) 근거 문헌: Moody 『Life After Life』 1975 초판·네덜란드어판 연도 확인(카드 1 독립성 ②·④가 '불명'인 이유).
+5. 매체 기준 연도(NDE 1975) 근거 문헌: Moody 『Life After Life』 1975 초판·네덜란드어판 연도 확인(카드 1 독립성 ②·④가 '불명'인 이유).
 
 ## 출처 접근 메모 (다시 조사하지 않기 위해)
 
@@ -35,11 +37,8 @@
 ## 대표님 손
 
 - **답 1개 남음**: METHOD v0.2(NDE V층 입장 조건) 유지 여부. 답이 없으면 유지한 채 진행하고, 거부하면 v0.1로 되돌린다.
-- **GitHub 계정(10분, 한 번에)**:
-  1. ~~William 전용 이메일 만들기~~ → **완료(2026-10-22)**: `williamafterhours@proton.me`, 표시 이름 William Afterhours. Proton을 썼다. 비밀번호는 대표님만 안다.
-  2. 그 이메일로 https://github.com/signup (이메일 인증 + 퍼즐 CAPTCHA, 대기 없음). 사용자명은 아무거나(예: `william-afterhours`).
-  3. **일반 터미널에서**(세션 안 아님) 아래 한 줄 → Enter → 브라우저에 8자리 코드 입력:
-  - 끝나면 "됐어"라고만 알려주면 나머지는 William이 한다.
+- **GitHub 계정 — 전부 완료(2026-10-22)**: 이메일 `williamafterhours@proton.me` → GitHub `william-afterhours` 가입 → 기기 로그인(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력. 이 방식이 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다.
+- 지금 남은 대표님 손: 없음. 다음은 SYNTHESIS v1 때 공개 전환 확인.
 - **공개 전환**: SYNTHESIS v1(카드 10건) 때 한 번 확인. 그때 점검표 — 목격자 이니셜, 키·비밀번호 없음, `.claude/settings.json` 노출 여부.
 
 ## 토큰
