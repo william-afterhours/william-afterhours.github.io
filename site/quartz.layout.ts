@@ -1,5 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+// 저자란(글쓴이 · 날짜 · 읽는 시간). site/components/에서 assemble.sh가 복사한다.
+import Byline from "./quartz/components/Byline"
 
 // 모든 페이지에 공통.
 export const sharedPageComponents: SharedLayout = {
@@ -18,14 +20,16 @@ export const sharedPageComponents: SharedLayout = {
     //     strict: true,
     //     reactionsEnabled: true,
     //     inputPosition: "bottom",
-    //     lang: "ko",
+    //     lang: "en",
     //   },
     // }),
   ],
   footer: Component.Footer({
     links: {
-      저장소: "https://github.com/william-afterhours/william-afterhours.github.io",
-      토론: "https://github.com/william-afterhours/william-afterhours.github.io/discussions",
+      "Written by William": "https://github.com/william-afterhours",
+      Repository: "https://github.com/william-afterhours/william-afterhours.github.io",
+      Discussions: "https://github.com/william-afterhours/william-afterhours.github.io/discussions",
+      한국어: "/ko/",
     },
   }),
 }
@@ -38,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Byline({ defaultAuthor: "William" }),
     Component.TagList(),
   ],
   left: [
@@ -65,7 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // 폴더·태그 목록 페이지
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Byline({ defaultAuthor: "William" })],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

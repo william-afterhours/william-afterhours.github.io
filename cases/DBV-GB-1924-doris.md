@@ -1,5 +1,6 @@
 ---
 id: DBV-GB-1924-doris
+title: "Doris sees Vida (London, 1924)"
 code: DBV
 variant: V
 cluster: EU-W
@@ -17,170 +18,225 @@ links: [P-Barrett-WF, P-Barrett-Florence, L-Mothers-Hospital-Clapton, M-dbv-visi
 counter: none
 countable: V
 status: reviewed
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
-# 런던 클랩턴 "도리스" — 임종 직전 아버지와, 죽음을 숨겨 둔 언니 비다를 본 산모 (1924, 영국)
+# Doris sees Vida — a dying mother at the Mothers' Hospital, Clapton, sees her father and the sister whose death had been kept from her (London, 1924)
 
-## 1. 한 줄 요약
+> January 1924, a maternity hospital in north-east London. A twenty-two-year-old mother, dying after giving birth, looked towards one part of the ward and said, "Why, it's Father!" A little later, with a puzzled expression, she added, "He has Vida with him." Her sister Vida had died eighteen days earlier. The family had kept that death from her to the end.
 
-1924년 1월 12일, 런던 Mothers' Hospital(클랩턴)에서 조산 직후 심부전으로 죽어 가던 22세 산모 도리스(책에서는 "Mrs. B.")가 "아버지가 왔다"고 한 뒤 "아버지가 비다를 데리고 있다"고 어리둥절해했다. 언니 비다는 18일 전에 죽었고, 가족은 그 사실을 도리스에게 철저히 숨기고 있었다. 산과 외과의 레이디 바렛(메모), 레지던트 의사 필립스(동의), 수간호사 캐슬(진술서), 어머니 클라크(편지)가 각자 기록했고, 윌리엄 바렛이 1926년 책에 전재했다. 잉글랜드 사망·출생·혼인 색인(GRO)이 두 자매의 사망 순서와 출산·혼인을 확인한다.
+## What happened
 
-## 2. 현상 구조 체크리스트
+Doris was twenty-two. She had married in 1923, less than a year before, and in January 1924 she gave birth at the Mothers' Hospital in Clapton, a maternity hospital run by the Salvation Army. The baby came early but safely. The mother did not. Serious heart failure set in during labour, and the doctors knew she could not be saved.
 
-- [x] 필수 1: 환시 후 실제 사망 — 환시 중·직후, 레이디 바렛이 자리를 뜬 뒤 "한 시간을 더 살았다" [#1 p.11]. 1924-01-12 사망 [#4 p.12]. GRO 사망 색인 1924년 1분기 Hackney, 22세 [#6]
-- [x] 필수 2: 방문자 — 죽은 아버지("Why, it's Father! Oh, he's so glad I'm coming"), 죽은 언니 비다, "wonderful beings". 아버지에게 "I am coming"이라고 말을 걸었다 [#1 p.10, #3 p.12, #4 p.13]
-- [x] 필수 3: 그 자리의 관찰자가 기록 — 의사 2명(레이디 바렛 메모·필립스 동의), 수간호사 진술서, 어머니 편지 [#1~#4]
-- [x] 선택: 의식 명료 — "마지막까지 이중 의식(double consciousness)을 유지": 아기 성별을 묻고, 수간호사와 조산아의 거취를 의논하고, 자신들을 결혼시킨 목사를 불러 달라고 했다 [#1 p.11, #4 p.13]. 약물·섬망 평가는 없음. "restorative measures"의 내용 미기록 [#1 p.10]
-- V요소: **있음** — 비다는 환자가 **죽음을 몰랐던** 사람이다(가족·수간호사가 의도적으로 숨김) → **DBV-V**. 곁의 제3자가 함께 본 것은 없음(DBV-S 아님)
+![The front buildings of the Mothers' Hospital, where the events of 1924 took place. Photographed in 2018.](../assets/DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg)
+*The front buildings of the Mothers' Hospital on Lower Clapton Road, London, in 2018. A house built in 1824 served as the hospital's frontage; the wards stood behind it. The hospital closed in 1986 and the site is now housing. This is not a photograph from 1924 · Paul the Archivist, Wikimedia Commons · CC BY-SA 4.0*
 
-→ S층 구조 요건 충족, V층 입장 가능. 단 11절의 독립성이 I0라서 `countable: V`(S층 집계는 보류, 이유는 11·12절).
+One of the hospital's obstetric surgeons was Florence Barrett, known then as Lady Barrett. The Resident Medical Officer, Dr Phillips, sent an urgent message asking her to come. After seeing other patients she went back to the ward, and what she heard there she wrote down "soon afterwards". That note is the first record of the case.
 
-## 3. 사건 기술
+According to the note, Doris first held out her hands and thanked her for bringing the baby, and asked whether it was a boy or a girl. Then, looking up towards the brightly lit open part of the ward, she said, "Oh, don't let it get dark—it's getting so dark . . . darker and darker." Her husband and mother were sent for. Suddenly Doris looked eagerly towards one part of the room and smiled. "Oh, lovely, lovely." Asked what was lovely, she answered in a low, intense voice, "Lovely brightness—wonderful beings." Then, almost with a joyous cry: "Why, it's Father! Oh, he's so glad I'm coming; he is so glad." Her baby was brought for her to see. She looked at it and asked, "Do you think I ought to stay for baby's sake?" Then she turned back towards the vision. "I can't—I can't stay; if you could see what I do, you would know I can't stay." To her husband, who had come in, she said, "You won't let baby go to anyone who won't love him, will you?" Then she gently pushed him to one side: "Let me see the lovely brightness."
 
-바렛은 이 사건을 "레이디 바렛이 나에게 이야기한 최근 사례"로 소개한다. 레이디 바렛(플로렌스 E. 바렛)은 Mothers' Hospital(클랩턴)의 산과 외과의 중 한 명이었고, 레지던트 의사 필립스로부터 "분만 중인데 심한 심부전을 일으킨 환자 Mrs. B."에게 급히 와 달라는 전갈을 받았다. 아이는 무사히 받았으나 산모는 이미 죽어 가고 있었다. 다른 환자들을 본 뒤 병동으로 돌아왔을 때의 대화를 레이디 바렛이 "직후에(soon afterwards)" 적었다 [#1 p.10].
+![Portrait photograph of Lady Florence Barrett](../assets/DBV-GB-1924-doris--florence-barrett.jpg)
+*Lady Florence Barrett (1867–1945), the first recorder and a witness. She was an obstetric surgeon at the hospital at the time. Date of photograph unknown · Wellcome Collection L0004411, Wikimedia Commons · CC BY 4.0*
 
-레이디 바렛의 메모 [#1 pp.10–11]: 환자는 두 손을 내밀며 "아기를 받아 주셔서 고맙다. 남자아이인가 여자아이인가" 물었고, 손을 꼭 잡고 "가지 마세요"라고 했다. 하우스 서전이 회복 처치를 하는 동안 환자는 밝게 불이 켜진 병동의 트인 쪽을 올려다보며 "어두워지게 두지 마세요 — 점점 어두워져요"라고 했다. 남편과 어머니를 부르러 보냈다. 갑자기 환자가 방의 한 곳을 열심히 바라보며 환한 미소로 "Oh, lovely, lovely"라고 했다. 무엇이 아름다우냐고 묻자 "내가 보는 것 — 눈부신 밝음, 놀라운 존재들"이라고 낮고 강한 어조로 답했다. 그러다 한 곳에 시선을 모으고 기쁜 외침처럼 "Why, it's Father! Oh, he's so glad I'm coming; he is so glad. W.(남편)도 올 수 있으면 완벽할 텐데"라고 했다. 아기를 데려오자 관심 있게 보고 "아기를 위해 남아야 할까요?"라고 묻더니 다시 환시 쪽으로 돌아서 "못 있겠어요. 당신이 내가 보는 걸 본다면 알 거예요." 그때 들어온 남편에게 "아기를 사랑하지 않을 사람에게 보내지 않을 거죠?"라고 한 뒤 남편을 옆으로 밀며 "Let me see the lovely brightness"라고 했다. 레이디 바렛은 곧 자리를 떴고 수간호사가 자리를 이었다. 환자는 한 시간을 더 살았고, 마지막까지 자신이 보는 밝은 형상들과 병상 옆 사람들을 함께 의식하는 "이중 의식"을 유지해, 조산아를 일반 가정에서 돌볼 수 있을 만큼 튼튼해질 때까지 병원에 두기로 수간호사와 의논했다. (서명) Florence E. Barrett.
+Lady Barrett left shortly after. From then on the Matron, Miriam Castle, kept watch at the bedside with the mother and the husband. In the Matron's account, the husband was leaning over Doris and speaking to her when she pushed him aside and said, "Oh, don't hide it; it's so beautiful." Then she turned away from him towards the Matron on the other side of the bed and said, "Oh, why there's Vida." The mother described the same moments in a letter. Doris saw her father and said, "I can see Father; he wants me, he is so lonely." She looked at the same spot again and said, "with rather a puzzled expression", "He has Vida with him," and then, turning to her mother, "Vida is with him."
 
-레지던트 의사 필립스는 이 메모를 읽고 "레이디 바렛의 기록에 전적으로 동의한다"고 바렛에게 써 보냈다 [#2 p.11]. 바렛은 레이디 바렛과 필립스가 환자 아버지의 사망 사실을 몰랐으며, "Father" 발화 때 남편은 자리에 없었다고 쓴다 [#5 p.14].
+Vida was Doris's elder sister. She was thirty-four and had been an invalid for some years. She died on 25 December 1923 in West Ham, in east London. Doris was already in hospital and very ill. The Matron thought it unwise for her to be told of her sister's death, and the family followed that advice. They put off their mourning and visited in ordinary clothes. In case a friend outside should mention the bereavement in a letter, every letter was held back until the husband had seen who it was from. That is why the mother was startled when Doris said "Vida". Afterwards Doris asked, with great difficulty, to see "the man who married us". He was sent for, but by the time he arrived she could no longer speak. She lived for about another hour. To the last she seemed aware both of the bright forms she saw and of the people at her bedside: she arranged with the Matron that her premature baby should stay in hospital until it was strong enough to be cared for at home.
 
-수간호사 미리엄 캐슬의 진술서 [#3 pp.11–12]: "Mrs. B.의 죽음 직전에 남편·어머니와 함께 있었다. 남편이 몸을 숙여 말을 걸고 있는데 환자가 그를 밀어내며 '가리지 마세요, 너무 아름다워요'라고 했다(바렛 주: 레이디 바렛이 적은 것과 다른, 같은 종류의 나중 일). 그러고는 남편에게서 돌아서 침대 반대편의 나를 향해 'Oh, why there's Vida'라고 했다 — 3주 전에 죽은 언니를 가리킨 것인데, 환자는 그 죽음을 듣지 못한 상태였다. 나중에 그 자리에 있던 어머니가 내게, 비다는 Mrs. B.의 죽은 언니의 이름이고 중병 때문에 그 병과 죽음을 환자에게 조심스럽게 숨겨 왔다고 말했다." (서명) Miriam Castle, Matron.
+![Four places on a 1920 map of London: the hospital in Clapton, West Ham, Haggerston and Highbury](../assets/DBV-GB-1924-doris--london-1920-map.jpg)
+*The north-east of George Washington Bacon's 1920 pocket map of London. ① The Mothers' Hospital on Lower Clapton Road, Clapton, where Doris gave birth and died ② West Ham, where her sister Vida died eighteen days earlier ③ Haggerston, with All Saints church, where Doris married in 1923 ④ Highbury, from where her mother wrote her letter. The numbered markers were added by William and show approximate positions · George Washington Bacon, 1920 · Geographicus, Wikimedia Commons · Public domain*
 
-바렛은 필립스를 통해 어머니의 독립적 보고를 요청했고, 하이버리(N.5)의 메리 C. 클라크로부터 편지를 받았다 [#4 pp.12–13]: 딸은 1924년 1월 12일에 죽었다. "놀라운 부분은" 몇 년 병약자였던 딸 비다가 1923년 12월 25일, 동생 도리스보다 "꼭 2주 4일" 먼저 죽었다는 것이다. 그때 도리스는 중병이었고 Mothers' Hospital 수간호사가 언니의 죽음을 알리지 않는 게 좋겠다고 판단했다. 그래서 가족은 상복을 벗고 평소처럼 면회했고, 바깥 친구가 편지에서 부고를 언급할까 봐 모든 편지를 남편이 먼저 보고 건네게 했다. 임종이 가까워지자 딸은 먼저 "It is all so dark; I cannot see"라고 했고, 몇 초 뒤 얼굴에 환한 빛이 돌았다("I know now it was the light of Heaven"). "Oh, it is lovely and bright; you cannot see as I can." 병동의 한 곳에 시선을 고정하고 "Oh, God, forgive me for anything I have done wrong"이라 한 뒤 "I can see Father; he wants me, he is so lonely"라고 했다. 아버지에게 "I am coming"이라 말하며 어머니를 돌아보고 "Oh, he is so near". 같은 곳을 다시 보더니 **"다소 어리둥절한(puzzled) 표정으로" "He has Vida with him"**이라 하고 어머니에게 "Vida is with him"이라고 했다. 그 뒤 "You do want me, Dad; I am coming." 이후의 말은 분명하지 않았다. 매우 힘들게 "우리를 결혼시킨 사람"을 보고 싶다고 했는데, 이름은 말하지 못했고 그는 해거스턴 올 세인츠(All Saints, Haggerston)의 모리스 데이비스 목사였다. 사람을 보냈으나 그가 왔을 때 환자는 말을 못 하는 상태였다(바렛 주). 목사는 몇 해 전부터 딸을 알았고 이 환시에 감명받아 "지난 2월(February last)" 교구지(Parish Magazine)에 인용했다. (서명) Mary C. Clark.
+There is a reason this story became a book. Lady Barrett's husband was Sir William Barrett, a physicist and one of the founders of the Society for Psychical Research in 1882. For years he had been collecting cases in which the dying appeared to see people they did not know to be dead. When he heard his wife's account he asked Dr Phillips in writing whether she agreed with the notes, and he obtained the Matron's signed statement and the mother's letter. Barrett died in May 1925. The case appeared the following year as the first case in chapter II of his posthumous book *Death-bed Visions*.
 
-바렛의 논평 [#5 pp.13–14]: 방에 착각(illusion)을 일으킬 물건이 없었고 환자가 죽은 아버지와 언니를 알아봤으며 언니의 죽음을 몰랐다는 점에서 착각은 아니다. 환각(hallucination)이되 "참(veridical)" 환각인지가 문제다. 이 사례 하나만 보면 우연으로 치부할 수 있고, 병상 옆 사람에게서 온 텔레파시라는 설명도 있으나 레이디 바렛과 필립스는 아버지의 사망을 몰랐고 남편도 그 자리에 없었다 — 라고 쓴다. (이 반론은 "아버지" 발화에만 해당한다. 비다의 죽음은 곁에 있던 어머니·남편·수간호사가 알고 있었다. 7절 L·8절 H2.)
+![Portrait of Sir William F. Barrett, 1907](../assets/DBV-GB-1924-doris--william-barrett-1907.png)
+*Sir William F. Barrett (1844–1925), who collected the case and published it. Portrait from a 1907 publication · James Creelman, Wikimedia Commons · Public domain*
 
-공식 색인 대조 [#6 #7]: 잉글랜드·웨일스 GRO 색인(FreeBMD)에서 사망 색인 1923년 4분기 West Ham에 Clark, Vida M., 34세(4a 314); 1924년 1분기 Hackney에 Bargery, Doris G., 22세(1b 576); 출생 색인 1924년 1분기 Hackney에 Bargery, D. O.(여아명), 모성(母姓) Clark(1b 660); 혼인 색인 1923년 2분기 Shoreditch에 Clark, Doris G. — Bargery, Stanley(1c 82)가 있다. 언니가 먼저 죽은 순서, 동생이 더 젊고 기혼이며 해거스턴(Shoreditch 등록구) 교회에서 결혼했고, 1924년 1월 Hackney(병원 소재지)에서 출산·사망했다는 책의 기술과 전부 맞는다. 색인은 이름·나이·등록구·분기만 주며, 날짜·사인·환시에 대해서는 아무것도 말하지 않는다. 책의 "Mrs. B."는 성 Bargery와 맞으나 남편 "W."는 색인의 신랑 이름 Stanley와 맞지 않는다(12절). 서술에서는 책의 표기를 따른다.
+I looked for anything outside the book that could confirm the story. The civil registration indexes of births, marriages and deaths for England and Wales are free to search. They contain a Vida M. Clark, aged 34, whose death was registered in West Ham in the last quarter of 1923. A Doris G. Bargery, aged 22, whose death was registered in Hackney in the first quarter of 1924. A girl surnamed Bargery, mother's maiden name Clark, born in Hackney in the same quarter. And the marriage of Doris G. Clark and Stanley Bargery, registered in Shoreditch in the second quarter of 1923. The order of the two deaths, the two ages, the places of the marriage and of the birth all match the book. But an index gives only names, ages and places. It says nothing about a vision.
 
-기록 이력: ① 레이디 바렛의 메모(사건 직후, 날짜 없음) → ② 필립스의 서면 동의, 수간호사 진술서, 어머니 편지(바렛이 필립스를 통해 요청해 받음; 어머니 편지는 "February last"로 보아 1924년 2월 이후, 바렛 사망 1925년 5월 21일 이전) → ③ 1926년 『Death-bed Visions』 2장 첫 사례로 출판(사후 출판). 1924년 2월 교구지는 미확인. 원 메모·진술서 원본의 소재는 미확인(SPR 아카이브 소장 여부 미조사).
+![Diagram of the case timeline and the chain of records](../assets/DBV-GB-1924-doris--timeline.svg)
+*Diagram · The timeline from the marriage to the book, who heard which words, who knew of Vida's death, and the chain of records. Drawn by William from sections 3, 4 and 6 of the ledger below; **it is not a record** · generating code `tools/diagrams/DBV-GB-1924-doris.py`*
 
-## 4. 출처 목록
+## How far can this record be trusted
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+This study does not ask whether an event is astonishing. It asks how good the record is. By that measure this case is fairly good. Four people wrote separately: a doctor's note made soon after the event, another doctor's written agreement, the Matron's signed statement, and the mother's letter. The case was in print within two years. The official indexes confirm that these people existed and that the sisters died in the order the book gives. On this study's scale for the quality of a record, A to D, it is a **B**.
+
+The key question is a single one. Did Doris's words contain a fact she could not have known? They did: that her sister was dead. So the case counts as one with "verified information". But it does not reach the top grade, for two reasons. First, at the moment Doris said "Vida", people who knew what that meant were standing beside her. The mother, the husband and the Matron all knew of the sister's death. The words were not written down in a dated document and then checked; they were written afterwards, by people who already understood them. Second, the sister had been ill for years, and nobody asked whether Doris might simply have guessed. So the verification grade is **V1**, the middle of three.
+
+One more thing needs saying. The first recorder was Barrett's wife. Barrett had already written about this kind of case in a 1917 book, and the pattern "the dying see someone they did not know had died" had circulated in English psychical research since 1882. What this study is trying to count is whether the same story arose separately in cultures that had no contact with each other. In that count this case cannot stand as the British sample, because the recording household already knew the pattern. The British sample has to come from records outside the Society for Psychical Research. So the independence grade is **I0**. The case goes into the count of verified information, not into the count of independent occurrence.
+
+I found no published criticism aimed at this particular case. That does not mean fraud is "ruled out". The absence of an exposure is not the same as a check by an investigator with no stake in the result.
+
+## Other ways to explain it
+
+- **Memory may have been tidied.** Lady Barrett's note was made "soon afterwards" but carries no date. The Matron and the mother wrote after they knew what the words meant, and at Barrett's request. Small differences between the statements remain on the page: the sister died "three weeks" before, or "2 weeks and 4 days"; the baby is "him" in the note but a girl in the birth index; the husband is "W." in the book and "Stanley" in the marriage index.
+- **Someone may have told her.** The family's concealment is recorded in detail. But nobody investigated which members of the hospital staff knew, or who had been near the patient.
+- **It may be chance.** Dying people often say they see family who went before. The sister had been ill for a long time.
+- **It may be a chosen story.** Barrett collected cases that supported survival after death and published them without saying how he chose. The first reporter was his wife.
+- **It may be the work of a dying brain.** Heart failure after childbirth, lack of oxygen. A bright light and the faces of family can be explained that way. The detail of the sister cannot be explained by that alone.
+
+So this record is **compatible** with the hypothesis that consciousness continues after death. It cannot leave that hypothesis standing alone. A case in which the dying person states a fact known to those at the bedside never can. A death kept secret is usually a death the family knows.
+
+---
+
+## Investigation ledger
+
+Everything above rests on the sources numbered below. The ledger is this study's working record: the facts with their source numbers (§3–§4), the scores behind the grades (§5), the verified information (§6), the ordinary explanations (§7), the hypotheses the record can and cannot separate (§8), counter-evidence (§9), connections to people, places and motifs (§10), cultural independence (§11), notes (§12) and the list of materials (§13). The scoring rules are in `docs/METHOD.md` (Korean; English translation in progress).
+
+## 1. One-line summary
+
+On 12 January 1924, at the Mothers' Hospital, Clapton, London, Doris ("Mrs. B." in the book), a 22-year-old mother dying of heart failure after a premature delivery, said that her father had come and then, puzzled, that "He has Vida with him". Her sister Vida had died 18 days earlier and the family had carefully kept it from her. The obstetric surgeon Lady Barrett (notes), the Resident Medical Officer Dr Phillips (written agreement), the Matron Miriam Castle (signed statement) and the mother Mary C. Clark (letter) each recorded it, and William Barrett reprinted them in his 1926 book. The England and Wales civil registration indexes (GRO) confirm the order of the sisters' deaths, the birth and the marriage.
+
+## 2. Structure checklist
+
+- [x] Required 1: actual death after the vision — during and just after the vision; "She lived for another hour" after Lady Barrett left [#1 p.11]. Died 1924-01-12 [#4 p.12]. GRO death index 1924 Q1 Hackney, age 22 [#6]
+- [x] Required 2: a visitor — her dead father ("Why, it's Father! Oh, he's so glad I'm coming"), her dead sister Vida, "wonderful beings". She addressed her father: "I am coming" [#1 p.10, #3 p.12, #4 p.13]
+- [x] Required 3: recorded by observers who were present — two doctors (Lady Barrett's notes, Phillips's agreement), the Matron's statement, the mother's letter [#1–#4]
+- [x] Optional: lucidity — "retained to the last the double consciousness": asked the baby's sex, arranged the premature baby's care with the Matron, asked for the clergyman who had married them [#1 p.11, #4 p.13]. No assessment of drugs or delirium. The "restorative measures" are not described [#1 p.10]
+- V element: **present** — Vida was a person the patient **did not know to be dead** (deliberately concealed by the family and the Matron) → **DBV-V**. Nothing was seen jointly by a third party at the bedside (not DBV-S)
+
+→ Structural requirements for the S layer are met and the case is eligible for the V layer. But independence (§11) is I0, so `countable: V` (the S-layer count is withheld; reasons in §11–§12).
+
+## 3. Account
+
+Barrett introduces the case as "a recent case of the kind … related to me by Lady Barrett". Lady Barrett (Florence E. Barrett) was one of the obstetric surgeons of the Mothers' Hospital, Clapton. She received an urgent message from the Resident Medical Officer, Dr Phillips, to come to "Mrs. B.", who was in labour and suffering from serious heart failure. The child was delivered safely, but the mother was dying. After seeing other patients Lady Barrett went back to the ward, and the conversation that followed "was written down, soon afterwards" [#1 p.10].
+
+Lady Barrett's notes [#1 pp.10–11]: the patient held out her hands and said, "Thank you, thank you for what you have done for me—for bringing the baby. Is it a boy or girl?" Holding Lady Barrett's hand tightly, she said, "Don't leave me, don't go away, will you?" While the House Surgeon carried out "some restorative measures", she lay looking up towards the open, brightly lit part of the room and said, "Oh, don't let it get dark—it's getting so dark . . . darker and darker." Her husband and mother were sent for. Suddenly she looked eagerly towards one part of the room, "a radiant smile illuminating her whole countenance", and said, "Oh, lovely, lovely." Asked what was lovely: "What I see", "in low, intense tones"; asked what she saw: "Lovely brightness—wonderful beings." Then, focusing on one place, "almost with a kind of joyous cry": "Why, it's Father! Oh, he's so glad I'm coming; he is so glad. It would be perfect if only W. (her husband) could come too." Her baby was brought; she looked at it with interest and said, "Do you think I ought to stay for baby's sake?" Turning to the vision again: "I can't—I can't stay; if you could see what I do, you would know I can't stay." To her husband, who had come in: "You won't let baby go to anyone who won't love him, will you?" Then she gently pushed him aside: "Let me see the lovely brightness." Lady Barrett left shortly after and the Matron took her place. The patient "lived for another hour, and appeared to have retained to the last the double consciousness of the bright forms she saw, and also of those tending her at the bedside": she arranged with the Matron that her premature baby should remain in hospital until strong enough to be cared for in an ordinary household. (Signed) Florence E. Barrett.
+
+Dr Phillips, "who was present", read the notes and wrote to Barrett that she "fully agrees with Lady Barrett's account" [#2 p.11]. Barrett states that Lady Barrett and Dr Phillips knew nothing of the death of the patient's father, and that the husband was not present when "Father" was spoken [#5 p.14].
+
+The Matron Miriam Castle's statement [#3 pp.11–12]: "I was present shortly before the death of Mrs. B., together with her husband and her mother. Her husband was leaning over her and speaking to her, when pushing him aside she said, 'Oh, don't hide it; it's so beautiful.'" (Barrett's footnote: not the incident Lady Barrett recorded, but "a later incident of the same kind".) "Then turning away from him towards me, I being on the other side of the bed, Mrs. B. said, 'Oh, why there's Vida,' referring to a sister of whose death three weeks previously she had not been told. Afterwards the mother, who was present at the time, told me … that Vida was the name of a dead sister of Mrs. B.'s, of whose illness and death she was quite ignorant, as they had carefully kept this news from Mrs. B. owing to her serious illness." (Signed) Miriam Castle, Matron.
+
+Barrett asked Dr Phillips to obtain "the independent report of Mrs. B.'s mother" and received a letter from Mrs Mary C. Clark, Highbury, N.5 [#4 pp.12–13]: her daughter died on 12 January 1924. "The wonderful part of it" is the death of her daughter Vida, "who had been an invalid some years", on 25 December 1923, "just 2 weeks and 4 days before her younger sister, Doris, died." Doris was very ill at the time and the Matron of the Mothers' Hospital "deemed it unwise" for her to know of her sister's death. So when visiting, "we put off our mourning and visited her as usual"; all her letters were kept until her husband had seen who they were from, "lest outside friends might possibly allude to the recent bereavement". When Doris was "sinking rapidly", she first said, "It is all so dark; I cannot see." A few seconds later "a beautiful radiance lit up her countenance; I know now it was the light of Heaven". "Oh, it is lovely and bright; you cannot see as I can." She fixed her eyes on one spot in the ward and said, "Oh, God, forgive me for anything I have done wrong," and then, "I can see Father; he wants me, he is so lonely." She spoke to her father, "I am coming," turning to her mother: "Oh, he is so near." Looking at the same place again, **"with rather a puzzled expression", "He has Vida with him"**, and to her mother, "Vida is with him." Then: "You do want me, Dad; I am coming." After that, "nothing very definite or clear". With great difficulty she asked to see "the man who married us", whose name she could not say: the Rev. Maurice Davis of All Saints, Haggerston, E. He was sent for; Barrett's footnote says he came but she "had then become incapable of speech". He had known Doris for some years and, impressed by the vision, "quoted it in his 'Parish Magazine' for February last". (Signed) Mary C. Clark.
+
+Barrett's commentary [#5 pp.13–14]: the vision was not normal sight (others would have seen the figures), and not an illusion, since nothing in the room could suggest one and she recognised both her dead father and her sister while unaware of the latter's death. It is a hallucination; the question is whether a "delusive" or a "veridical" one. "If this case stood alone", chance coincidence "would be the probable explanation". Telepathy from those around the bedside "fails", he writes, because Lady Barrett and Dr Phillips knew nothing of the father's death and the husband was not present. (That rebuttal applies only to the "Father" utterance. Vida's death was known to the mother, the husband and the Matron, all at the bedside. See §7 L and §8 H2.)
+
+Check against official indexes [#6 #7]: in the England and Wales GRO indexes (via FreeBMD), the death index for 1923 Q4, West Ham, has Clark, Vida M., age 34 (4a 314); for 1924 Q1, Hackney, Bargery, Doris G., age 22 (1b 576); the birth index for 1924 Q1, Hackney, has Bargery, D. O. (a girl's name), mother's maiden name Clark (1b 660); the marriage index for 1923 Q2, Shoreditch, has Clark, Doris G. — Bargery, Stanley (1c 82). All of this matches the book: the elder sister died first; the younger was 22, married, wed in a Haggerston church (Shoreditch registration district), and gave birth and died in Hackney (the hospital's district) in January 1924. The indexes give only names, ages, districts and quarters; they say nothing about dates, causes of death or the vision. "Mrs. B." fits the surname Bargery, but the husband's initial "W." does not fit the groom's name Stanley in the index (§12). The narrative follows the book's usage.
+
+Record history: ① Lady Barrett's notes (soon after the event, undated) → ② Phillips's written agreement, the Matron's statement, the mother's letter (obtained by Barrett through Phillips; the letter postdates February 1924, "February last", and predates Barrett's death on 21 May 1925) → ③ published in 1926 as the first case of chapter II of *Death-bed Visions* (posthumous). The February 1924 parish magazine is unverified. The whereabouts of the original notes and statements are unverified (SPR archive holdings not checked).
+
+## 4. Sources
+
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 1차(증인 자필 메모, 서명, 책에 전재) | Florence E. Barrett(레이디 바렛) 메모, "written down soon afterwards" — Barrett 1926 pp.10–11 | 확인(Wellcome 전문 OCR + 쪽 이미지) | https://iiif.wellcomecollection.org/image/b29813992_0026.jp2/full/900,/0/default.jpg (p.10), `_0027` (p.11) | 원본·날짜 미확인 |
-| 2 | 1차(서면 동의) | Dr. Phillips(레지던트 의사), 메모를 읽고 "fully agrees" — p.11 | 확인 | 위 `_0027` | 자기 서술은 없음 |
-| 3 | 1차(증인 진술서, 서명) | Miriam Castle(수간호사) 진술 — pp.11–12 | 확인(p.12 이미지를 눈으로 대조) | `_0028` (p.12) | "3주 전"(실제 18일) |
-| 4 | 1차(증인 편지, 서명) | Mary C. Clark(어머니, Highbury N.5) 편지 — pp.12–13 | 확인 | `_0028`, `_0029` (p.13) | 1924-02 이후 작성 |
-| 5 | 2차(조사자 수집·논평) | Barrett WF. *Death-bed Visions*. London, 1926(사후 출판), ch. II "Visions seen by the dying of persons by them unknown to be dead", pp.10–14 | 확인(Wellcome Collection b29813992, 전문 텍스트 API + IIIF 쪽 이미지 pp.10–14) | https://iiif.wellcomecollection.org/presentation/v2/b29813992 · 전문 https://api.wellcomecollection.org/text/v1/b29813992 | 출판사 미확인. Wellcome 메타데이터는 저작권 표시(열람 전용)라 쪽 사본은 넣지 않음 |
-| 6 | 1차(공식 색인) | GRO 잉글랜드·웨일스 사망 색인: Clark, Vida M., 34, West Ham, 1923 Q4, 4a/314 · Bargery, Doris G., 22, Hackney, 1924 Q1, 1b/576 | 확인(FreeBMD 검색 2026-10-22) | https://www.freebmd.org.uk/ | 색인은 이름·나이·등록구·분기만 |
-| 7 | 1차(공식 색인) | GRO 출생 색인: Bargery, D. O.(여아명), 모성 Clark, Hackney, 1924 Q1, 1b/660 · 혼인 색인: Clark, Doris G. — Bargery, Stanley, Shoreditch, 1923 Q2, 1c/82 | 확인(FreeBMD) | 같음 | 출생 색인의 아기는 여아명 — 메모의 "him"과 어긋남; 신랑 Stanley — 책의 "W."와 어긋남(12절) |
-| 8 | 1차(당대 교구지) | All Saints, Haggerston, Parish Magazine 1924년 2월호(Rev. Maurice Davis) | **미확인**(디지털 사본 없음; 런던 메트로폴리탄 아카이브 소장 여부 미확인) | — | 열리면 S3·S5 재검토 |
-| 9 | 3차(병원 이력) | Lost Hospitals of London, "Mothers' Hospital" | 확인 | https://ezitis.myzen.co.uk/mothers.html | 1913–1986, Lower Clapton Rd 153–156 |
-| 10 | 3차(단서·반박 탐색) | Psi Encyclopedia(SPR), "Deathbed Visions" 항목(Haraldsson) | 확인(2026-10-22) | https://psi-encyclopedia.spr.ac.uk/ | 이 사건 특정 반박 없음 |
-| 11 | 2차(후대 개관) | Greyson B. "Seeing dead people not known to have died: 'Peak in Darien' experiences". *Anthropology and Humanism* 2010;35(2) | **미확인**(무료 사본 없음, 서지도 미확인) | — | 논증에 쓰지 않음 |
+| 1 | Primary (witness's own notes, signed, reprinted in the book) | Florence E. Barrett (Lady Barrett), notes "written down soon afterwards" — Barrett 1926 pp.10–11 | Confirmed (Wellcome full-text OCR + page images) | https://iiif.wellcomecollection.org/image/b29813992_0026.jp2/full/900,/0/default.jpg (p.10), `_0027` (p.11) | Original and date unverified |
+| 2 | Primary (written agreement) | Dr Phillips (Resident Medical Officer), read the notes and "fully agrees" — p.11 | Confirmed | `_0027` above | No account of her own |
+| 3 | Primary (witness statement, signed) | Miriam Castle (Matron), statement — pp.11–12 | Confirmed (p.12 image compared by eye) | `_0028` (p.12) | "three weeks" (actually 18 days) |
+| 4 | Primary (witness letter, signed) | Mary C. Clark (mother, Highbury N.5), letter — pp.12–13 | Confirmed | `_0028`, `_0029` (p.13) | Written after Feb 1924 |
+| 5 | Secondary (investigator's collection and commentary) | Barrett WF. *Death-bed Visions*. London, 1926 (posthumous), ch. II "Visions seen by the dying of persons by them unknown to be dead", pp.10–14 | Confirmed (Wellcome Collection b29813992, full-text API + IIIF page images pp.10–14) | https://iiif.wellcomecollection.org/presentation/v2/b29813992 · full text https://api.wellcomecollection.org/text/v1/b29813992 | Publisher unverified. Wellcome metadata marks the scan in copyright (viewing only), so no page copies are included |
+| 6 | Primary (official index) | GRO England and Wales death index: Clark, Vida M., 34, West Ham, 1923 Q4, 4a/314 · Bargery, Doris G., 22, Hackney, 1924 Q1, 1b/576 | Confirmed (FreeBMD search 2026-10-22) | https://www.freebmd.org.uk/ | Index gives only name, age, district, quarter |
+| 7 | Primary (official index) | GRO birth index: Bargery, D. O. (girl's name), mother's maiden name Clark, Hackney, 1924 Q1, 1b/660 · marriage index: Clark, Doris G. — Bargery, Stanley, Shoreditch, 1923 Q2, 1c/82 | Confirmed (FreeBMD) | Same | Baby in the birth index is a girl — conflicts with "him" in the notes; groom Stanley — conflicts with "W." in the book (§12) |
+| 8 | Primary (contemporary parish magazine) | All Saints, Haggerston, Parish Magazine, February 1924 (Rev. Maurice Davis) | **Unverified** (no digital copy; London Metropolitan Archives holdings not checked) | — | If opened, revisit S3 and S5 |
+| 9 | Tertiary (hospital history) | Lost Hospitals of London, "Mothers' Hospital" | Confirmed | https://ezitis.myzen.co.uk/mothers.html | 1913–1986, 153–156 Lower Clapton Rd |
+| 10 | Tertiary (search for leads and rebuttals) | Psi Encyclopedia (SPR), "Deathbed Visions" (Haraldsson) | Confirmed (2026-10-22) | https://psi-encyclopedia.spr.ac.uk/ | No rebuttal specific to this case |
+| 11 | Secondary (later overview) | Greyson B. "Seeing dead people not known to have died: 'Peak in Darien' experiences". *Anthropology and Humanism* 2010;35(2) | **Unverified** (no free copy; reference itself unverified) | — | Not used in the argument |
 
-## 5. 축별 점수와 등급
+## 5. Scores and grades
 
-| 축 | 점수 | 근거 한 줄 |
+| Axis | Score | Reason in one line |
 |---|---|---|
-| S1 출처 | 1 | 증인 4명의 당시 메모·진술서·편지가 있으나 **조사자의 책에 전재된 형태로만** 열람. 원본·날짜 미확인. 공식 색인(#6 #7)은 사망·출산·혼인의 존재와 순서만 확인 |
-| S2 목격자 | 2 | 신원 확인된 증인 4명, 그중 3명이 각자 서명한 진술(레이디 바렛·캐슬·클라크) + 필립스 서면 동의. 비다 발화는 캐슬·클라크가 따로 기록 |
-| S3 시점 | 1 | 최초 기록(레이디 바렛 메모)은 "직후"라지만 날짜 없음. 날짜를 댈 수 있는 가장 이른 기록은 바렛의 원고(1925-05-21 사망 이전 = 16개월 이내)·어머니 편지(1924-02 이후) → 2년 이내 |
-| S4 평범한 설명 검토 | 1 | 7절: F 부분 배제, M·D·E 부분 배제, X 배제 못 함(1개) |
-| S5 선기록 (V축) | 1 | 비다 발화를 수간호사가 그 뜻을 모르는 채로 들었고(제3자 구두), 나중에 따로 서명 진술. 확인 이전의 날짜 있는 문서는 없음(교구지 미확인) |
-| S6 조사자 독립성 | 1 | 조사자 바렛은 SPR 창립자·생존 가설 지지자이고 첫 증인의 남편. 필립스를 통한 서면 수집만, 대면 면담 없음 |
-| S7 원문 열람 | 2 | 1926년 책 전문 OCR + 해당 쪽 이미지 열람, 색인 직접 검색 |
+| S1 Source | 1 | Contemporary notes, statement and letter from four witnesses exist, but were opened **only as reprinted in the investigator's book**. Originals and dates unverified. The official indexes (#6 #7) confirm only the existence and order of the deaths, birth and marriage |
+| S2 Witnesses | 2 | Four identified witnesses, three of whom gave separately signed statements (Lady Barrett, Castle, Clark) + Phillips's written agreement. The Vida utterance was recorded separately by Castle and Clark |
+| S3 Timing | 1 | The first record (Lady Barrett's notes) is "soon afterwards" but undated. The earliest datable records are Barrett's manuscript (before his death 1925-05-21 = within 16 months) and the mother's letter (after 1924-02) → within 2 years |
+| S4 Ordinary explanations examined | 1 | §7: F partly ruled out; M, D, E partly ruled out; X not ruled out (1 item) |
+| S5 Prior record (V axis) | 1 | The Matron heard the Vida utterance without knowing what it meant (third party, oral) and later signed a separate statement. No dated document before verification (parish magazine unverified) |
+| S6 Investigator independence | 1 | The investigator Barrett was a founder of the SPR, a proponent of the survival hypothesis, and the husband of the first witness. Written collection through Phillips only; no face-to-face interviews |
+| S7 Original text opened | 2 | Full OCR of the 1926 book + images of the relevant pages; indexes searched directly |
 
-합계(S1+S2+S3+S4+S6) = 6/10 → R등급: **B** / 적용된 상한: 없음(③ 해당 없음; ④ F 부분 배제; ⑤ 반대 자료 탐색함) / V등급: **V1** (S5=1, F·L·C 모두 부분 배제, R≥C). V2가 아닌 이유: 확인 이전의 날짜 있는 문서 없음, L·C 완전 배제 없음.
+Total (S1+S2+S3+S4+S6) = 6/10 → R grade **B** / cap applied: none (③ not applicable; ④ F partly ruled out; ⑤ counter-evidence searched) / V grade **V1** (S5=1; F, L, C all partly ruled out; R≥C). Not V2 because there is no dated document before verification and L and C are not fully ruled out.
 
-## 6. 검증 정보 (V 주장)
+## 6. Verified information (V claim)
 
-| 정보 | 누가 말함 | 언제·어디에 기록 | 언제·누가 확인 | 정상 경로 조사 | 당시 살아 있는 누가 알았나 |
+| Information | Who said it | When and where recorded | When and by whom verified | Normal channels investigated | Who alive at the time knew it |
 |---|---|---|---|---|---|
-| 언니 비다가 "아버지와 함께 있다"(= 죽었다) — 환자는 비다의 병세 악화·죽음을 몰랐음 | 도리스 → 수간호사(⑤ "Oh, why there's Vida"), 어머니(⑥ "He has Vida with him", 어리둥절한 표정) | 수간호사 진술서·어머니 편지(1924~25), 책 1926 | 발화 순간 어머니가 이미 앎. 수간호사는 사후 어머니에게 이름을 확인 | 가족의 숨김 조치는 기록됨(상복 벗음, 편지 사전 검열). 직원 경로·환자의 추정 가능성은 아무도 묻지 않음. 선기록 차단 없음 | 어머니·남편·수간호사(사망 사실), 친족 전원 |
-| (V 아님) 아버지가 왔다 | 도리스 → 레이디 바렛·필립스(③), 어머니 | 메모·편지 | — | 환자 본인이 아버지의 죽음을 알고 있었음 | — |
+| Her sister Vida is "with Father" (= dead) — the patient did not know of Vida's decline or death | Doris → Matron (⑤ "Oh, why there's Vida"), mother (⑥ "He has Vida with him", puzzled expression) | Matron's statement, mother's letter (1924–25); book 1926 | Mother already knew at the moment it was said. Matron confirmed the name with the mother afterwards | The family's concealment is recorded (mourning put off, letters screened). Staff channels and the patient's possible guessing were not asked about by anyone. No prior record to block them | Mother, husband, Matron (the death); all relatives |
+| (Not V) Father has come | Doris → Lady Barrett and Phillips (③), mother | Notes, letter | — | The patient herself knew her father was dead | — |
 
-검증 정보는 1항목이고 곁에 있던 사람들이 알던 것이다 → H2(초심리)와 H1(사후 의식)을 가르지 못한다. 바렛의 "텔레파시 배제"는 아버지 발화에만 성립하고, 그 발화는 V가 아니다.
+One item of verified information, and it was known to those at the bedside → it cannot separate H2 (psi without survival) from H1 (survival). Barrett's "telepathy ruled out" applies only to the Father utterance, which is not V.
 
-## 7. 이렇게도 설명된다
+## 7. Other ways to explain it
 
-| 항목 | 상태 | 근거 |
+| Item | Status | Reason |
 |---|---|---|
-| F 사기 | 부분 배제 | 금전·명성 동기 없음(환자 익명, 증인은 의사·수간호사·유족), 사후 폭로 없음(9절 탐색), 세 사람이 따로 서명, 공식 색인이 사망 순서·출산·혼인을 확인. 그러나 교차 확인을 한 조사자가 첫 증인의 남편이자 생존 지지자 → "독립 조사자의 교차 확인" 없음 |
-| M 오인 | 부분 배제 | 밝게 불 켜진 개방 병동, 침대 양쪽에 증인, 환자가 또렷이 대화. 비다 발화는 두 사람이 각자 들었고 두 차례(⑤·⑥). 약물·"회복 처치" 내용은 미기록 |
-| D 기억 왜곡·사후 각색 | 부분 배제 | 메모는 "직후"이나 날짜 없음. 수간호사·어머니 진술은 의미를 안 뒤 요청받아 쓴 것(2년 이내). 진술 간 차이는 작고 기록됨: "3주 전" vs "2주 4일"; 아기 "him"(메모) vs 색인의 여아명; 남편 "W."(책) vs 색인의 Stanley |
-| L 정보 누설·정상 경로 | 부분 배제 | 숨김 조치가 구체적으로 기록됨(상복·편지 검열), 어머니가 "puzzled" 표정을 적음. 그러나 ① 수간호사 자신이 자매의 죽음을 알고 있었고 다른 직원 경로는 미조사 ② 비다가 수년 병약자였으므로 환자가 "죽었을지도"라고 추정했을 가능성 미조사 ③ 선기록 없음 |
-| E 문화적 기대·암시 | 부분 배제 | 1924년 영국 성공회 가정의 기대(죽은 친지·천국의 빛·"God forgive me")와 일치하고 어머니 편지 자체가 종교적 해석. 그러나 몰랐던 언니의 출현과 어리둥절한 반응은 기대가 만들지 않는 세부 |
-| N 신경생리·약물·심리 | (기록만) | 산후 심부전·임종 저산소, 처치 내용 미상. "이중 의식"·조리 있는 대화가 기록됨. S층 감점 없음. V는 L·C가 판정 |
-| C 우연 일치·기저율 | 부분 배제 | 구체적(이름이 지목된 언니, 18일 전 사망) 1항목, 선기록 없음. 임종 환시에서 가족을 지목하는 것은 흔하고 언니는 수년 병약자였으므로 우연 확률을 낮게 볼 근거가 부족 |
-| X 선택 보고·기록자 편향 | 배제 못 함 | 바렛은 생존을 지지하는 사례를 모아 책을 냈고 수집 기준이 없음. 첫 보고자는 그의 아내. 어머니 편지는 "당신이 관심 있다고 들었다"로 시작 — 의미를 알고 쓴 글. 1926년 판본은 사후 출판으로 편집자 불명 |
+| F Fraud | Partly ruled out | No motive of money or fame (patient anonymous; witnesses a doctor, a Matron, bereaved relatives); no later exposure (§9 search); three separate signatures; official indexes confirm the order of deaths, the birth and the marriage. But the person who cross-checked was the first witness's husband and a survival proponent → no "cross-check by an independent investigator" |
+| M Misperception | Partly ruled out | Brightly lit open ward, witnesses on both sides of the bed, patient conversing clearly. The Vida utterance was heard separately by two people, twice (⑤·⑥). Drugs and the "restorative measures" are not recorded |
+| D Memory distortion, later embellishment | Partly ruled out | Notes "soon afterwards" but undated. The Matron's and mother's statements were written on request after the meaning was known (within 2 years). Differences between statements are small and preserved: "three weeks" vs "2 weeks and 4 days"; baby "him" (notes) vs girl's name in the index; husband "W." (book) vs Stanley in the index |
+| L Leakage, normal channels | Partly ruled out | Concealment measures recorded in detail (mourning, screened letters); the mother noted the "puzzled" expression. But ① the Matron herself knew of the sister's death and other staff channels were not investigated ② Vida had been an invalid for years, so the possibility that the patient guessed "she may have died" was not investigated ③ no prior record |
+| E Cultural expectation, suggestion | Partly ruled out | Consistent with the expectations of a 1924 English Anglican household (dead relatives, the light of Heaven, "God forgive me"), and the mother's letter is itself a religious reading. But the appearance of a sister not known to be dead, and the puzzled reaction, are not details expectation produces |
+| N Neurophysiology, drugs, psychology | (recorded only) | Postpartum heart failure, terminal hypoxia, treatment unknown. "Double consciousness" and coherent conversation recorded. No S-layer deduction. V is decided by L and C |
+| C Coincidence, base rate | Partly ruled out | One specific item (a named sister, dead 18 days), no prior record. Naming family members in a deathbed vision is common and the sister had been an invalid for years, so there is little ground to put the chance probability low |
+| X Selective reporting, recorder bias | Not ruled out | Barrett collected cases supporting survival for a book, with no stated selection criteria. The first reporter was his wife. The mother's letter opens "I have heard you are interested" — written knowing its significance. The 1926 edition is posthumous and its editor unknown |
 
-## 8. 양립 가설
+## 8. Compatible hypotheses
 
-| 가설 | 상태 | 근거 |
+| Hypothesis | Status | Reason |
 |---|---|---|
-| H1 사후 생존 | 양립 | V1. 정보(비다의 죽음)는 병상 옆 어머니·남편·수간호사가 알고 있던 것 |
-| H2 초심리(생존 없음) | 양립 | 같음. 바렛의 텔레파시 반론은 V가 아닌 아버지 발화에만 해당 |
-| H3 문화 전파 | 양립 | 기록 1926 > 기준 1900. 기록자가 모티프를 출판한 집안(11절 ②) |
-| H4 신경생리·심리 | 양립 | 임종 환시의 형태(빛·친지)는 양립. 비다 세부는 H4만으로 설명 못 하고 L·C가 판정 |
-| H5 기억 왜곡·사후 각색 | 양립 | 날짜 있는 선기록 없음. 진술서는 의미를 안 뒤 작성 |
-| H6 사기 | 양립 | 동기·폭로 없음이나 독립 조사자 교차 확인 없음 → '불리' 조건 미충족 |
-| H7 우연·기저율 | 양립 | 병약자 언니, 선기록 없음 |
-| H8 조사자 효과 | 양립 | 조사 주체 1곳(바렛/SPR), 증인과 혈연. 긍정 요인: 서면 진술 3통이 따로 작성됐고 작은 차이가 그대로 남아 있음 |
+| H1 Survival after death | Compatible | V1. The information (Vida's death) was known to the mother, husband and Matron at the bedside |
+| H2 Psi without survival | Compatible | Same. Barrett's telepathy rebuttal covers only the Father utterance, which is not V |
+| H3 Cultural transmission | Compatible | Record 1926 > baseline 1900. The recorder belonged to the household that published the motif (§11 ②) |
+| H4 Neurophysiology, psychology | Compatible | The form of a deathbed vision (light, relatives) is compatible. The Vida detail is not explained by H4 alone; L and C decide |
+| H5 Memory distortion, embellishment | Compatible | No dated prior record. Statements written after the meaning was known |
+| H6 Fraud | Compatible | No motive or exposure, but no cross-check by an independent investigator → "unfavourable" condition not met |
+| H7 Chance, base rate | Compatible | Invalid sister, no prior record |
+| H8 Investigator effect | Compatible | One investigating body (Barrett/SPR), related by marriage to a witness. Positive factor: three written statements were made separately and their small differences survive |
 
-## 9. 반대 자료
+## 9. Counter-evidence
 
-탐색: 2026-10-22 / 웹 검색 "Barrett 1926 Death-bed Visions Doris Vida sceptical", "Lady Barrett Mothers' Hospital deathbed vision critique", Psi Encyclopedia "Deathbed Visions" 항목(#10) / 결과: **이 사건을 특정한 반박 0건.** 임종 환시 일반에 대한 비판(저산소·약물·섬망·기대)은 있으나 N·E 항목으로 처리했다. `counter: none`.
+Search: 2026-10-22 / web searches "Barrett 1926 Death-bed Visions Doris Vida sceptical", "Lady Barrett Mothers' Hospital deathbed vision critique"; Psi Encyclopedia "Deathbed Visions" (#10) / Result: **no rebuttal specific to this case.** General criticisms of deathbed visions (hypoxia, drugs, delirium, expectation) exist and are handled under N and E. `counter: none`.
 
-| 출처 | R등급 | 요지 | 이 카드에 미친 영향 |
+| Source | R grade | Gist | Effect on this card |
 |---|---|---|---|
-| (사례 특정 반박 없음) | — | — | F "배제됨"으로 올리지는 않음 — 폭로가 없는 것과 교차 확인이 있는 것은 다르다 |
-| Barrett 1926 pp.13–14 (#5, 저자 자신의 검토) | — | 착각·환각·우연·텔레파시를 차례로 검토하고 텔레파시는 "레이디 바렛·필립스가 몰랐으므로" 배제 | 아버지 발화에만 성립. 7절 L과 8절 H2에서 바로잡음 |
+| (no case-specific rebuttal) | — | — | F is not raised to "ruled out" — the absence of an exposure is not the presence of a cross-check |
+| Barrett 1926 pp.13–14 (#5, the author's own review) | — | Considers illusion, hallucination, chance and telepathy in turn; rules out telepathy because "Lady Barrett and Dr. Phillips knew nothing" | Holds only for the Father utterance. Corrected in §7 L and §8 H2 |
 
-## 10. 연결
+## 10. Connections
 
-탐색: 2026-10-22 / 출처 #5 본문·목차, 병원 이력(#9), Wikidata·Wellcome 인물 기록 / 결과: 아래
+Search: 2026-10-22 / text and contents of source #5, hospital history (#9), Wikidata and Wellcome person records / Result: below
 
-| 대상 `[[id]]` | 관계 유형(R-*) | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation (R-*) | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[P-Barrett-WF]] | R-INV | 중립 | 확인 | 수집·출판자. SPR 창립자(1882). 같은 책의 다른 사례를 카드화하면 그쪽과 ⑤ 같은 조사 주체 |
-| [[P-Barrett-Florence]] | R-PER | 중립 | 확인 | 첫 기록자·증인, 병원 산과 외과의, 조사자의 아내 |
-| [[L-Mothers-Hospital-Clapton]] | R-LOC | 중립 | 확인 | 사건 장소. 구세군 산과 병원, 1913–1986 |
-| [[M-dbv-visitor-unknown-dead]] | R-MOT | 미정 | 확인 | 모티프 장부 첫 항목("Peak in Darien"형) |
-| DBV-US-1889-jennie-edith (미작성) | R-TXT / R-INV | 전파(수집) | 확인(#5 pp.14–16에 전재) | 바렛이 바로 다음에 싣는 사례(Savage → Hyslop → Barrett). 카드화하면 이 카드와 같은 조사 주체·같은 클러스터 |
-| T-Cobbe-1882-peak-in-darien (미작성) | R-TXT | 전파(용어) | 미확인 | "Peak in Darien" 용어의 기원(Cobbe 1882). 바렛 2장 제목이 그 정의를 따름. 원문 미열람 |
+| [[P-Barrett-WF]] | R-INV | Neutral | Confirmed | Collector and publisher. SPR founder (1882). If other cases from the same book are carded, path ⑤ (same investigating body) applies to them |
+| [[P-Barrett-Florence]] | R-PER | Neutral | Confirmed | First recorder and witness, obstetric surgeon at the hospital, the investigator's wife |
+| [[L-Mothers-Hospital-Clapton]] | R-LOC | Neutral | Confirmed | Scene of the event. Salvation Army maternity hospital, 1913–1986 |
+| [[M-dbv-visitor-unknown-dead]] | R-MOT | Undecided | Confirmed | First entry in the motif ledger ("Peak in Darien" type) |
+| DBV-US-1889-jennie-edith (not yet written) | R-TXT / R-INV | Transmission (collection) | Confirmed (#5 pp.14–16 reprint) | The case Barrett prints immediately after this one (Savage → Hyslop → Barrett). If carded: same investigating body and same cluster as this card |
+| T-Cobbe-1882-peak-in-darien (not yet written) | R-TXT | Transmission (term) | Unverified | Origin of the term "Peak in Darien" (Cobbe 1882). Barrett's chapter II title follows that definition. Original not opened |
 
-## 11. 문화 독립성
+## 11. Cultural independence
 
-클러스터: EU-W / 기록 연도 1926 vs 기준 연도 DBV 1900 → 이후 / 조사 주체: P-Barrett-WF(SPR)
+Cluster: EU-W / record year 1926 vs baseline year for DBV 1900 → after / investigating body: P-Barrett-WF (SPR)
 
-| 경로 | 배제 / 불명 / 확인 | 근거 (10절의 전파 연결 포함) |
+| Path | Ruled out / unknown / confirmed | Reason (including transmission links from §10) |
 |---|---|---|
-| ① 직접 접촉 | 배제 | 다른 카드와 가족·장소·정보원 중복 없음 |
-| ② 번역·출판 | **확인** | 기록자 레이디 바렛은 같은 모티프를 1917년(『On the Threshold of the Unseen』)에 출판한 W. 바렛의 아내. "죽음을 몰랐던 사람이 보인다"는 구조는 Cobbe 1882·SPR 간행물로 영어권에 유통 중이었고 바렛 자신이 p.10에서 그렇게 말한다. 환자·가족이 읽었는지는 불명이나 기록자 쪽은 확실 |
-| ③ 선교·종교 전파 | 배제 | 기독교권 내부, 외부 교리 도입 없음 |
-| ④ 대중매체 | 불명 | 1926 > 1900. 환자 가족의 노출은 미조사 |
-| ⑤ 같은 조사 주체 | 배제 | 현재 다른 DBV 카드 없음. 바렛 1926의 다른 사례가 카드화되면 그쪽이 I0 |
+| ① Direct contact | Ruled out | No overlap of family, place or informant with any other card |
+| ② Translation, publication | **Confirmed** | The recorder, Lady Barrett, was the wife of W. Barrett, who had published the same motif in 1917 (*On the Threshold of the Unseen*). The structure "someone not known to be dead is seen" had circulated in English through Cobbe 1882 and SPR publications, and Barrett says so himself on p.10. Whether the patient or her family had read any of it is unknown, but on the recorder's side it is certain |
+| ③ Missionary, religious transmission | Ruled out | Within Christendom; no outside doctrine introduced |
+| ④ Mass media | Unknown | 1926 > 1900. The family's exposure not investigated |
+| ⑤ Same investigating body | Ruled out | No other DBV card at present. If other Barrett 1926 cases are carded, they become I0 |
 
-→ 독립성 등급: **I0** (S층: 이 카드로 EU-W 클러스터를 채우지 않는다. V층은 독립성을 조건으로 삼지 않으므로 V1은 그대로 집계)
+→ Independence grade **I0** (S layer: this card does not fill the EU-W cluster. The V layer does not condition on independence, so V1 is counted as it stands)
 
-## 12. 메모
+## 12. Notes
 
-- 결과가 뜻하는 것: 임종 환시 문헌에서 가장 자주 인용되는 "비다" 사례는 이 등급표로 **B/V1**이다. 카드 1(C/V1)보다 기록이 좋다 — 증인 4명이 각자 적었고, 2년 안에 출판됐으며, 공식 색인이 사실관계를 받쳐 준다. V2가 못 되는 이유는 사건이 약해서가 아니라 **확인 이전의 날짜 있는 문서가 없고**, 정보가 곁의 사람들이 알던 것이라 누설·초심리를 가를 수 없기 때문이다. 이것이 DBV-V 구조의 일반적 한계다: 몰랐던 죽음은 보통 곁의 가족이 아는 죽음이다.
-- S층을 I0로 둔 이유: 기록자가 모티프를 출판한 집안이다. SPR 수집 사례는 대부분 같은 문제를 가진다. EU-W의 S층은 SPR 바깥의 기록(1882년 이전 기록, 또는 Osis 1961의 의사 설문처럼 다른 조사 주체)으로 채워야 한다.
-- 불일치 기록: ① 수간호사 "3주 전" vs 어머니 "2주 4일"(색인과 어머니가 맞음). ② 레이디 바렛 메모의 아기 "him" vs 출생 색인의 여아명(D. O. — 1924년생으로 생사 불명이라 이니셜만) — 메모의 착오, 전사 오류, 또는 색인상 다른 아이일 가능성. 사건 판정에 영향 없음. ③ 책의 남편 이니셜 "W." vs 혼인 색인의 신랑 "Bargery, Stanley"(Shoreditch 1923 Q2, 1c 82) — 머리글자가 맞지 않는다. 바렛이 "Mrs. B."처럼 성은 실제 머리글자를 쓰면서 남편 이름만 바꿨거나, "W."가 애칭·중간 이름일 수 있다(색인은 첫 이름만 보여 줄 때가 있음). 혼인은 신부 쪽(Clark, Doris G.)으로 동정했으므로 사건 판정에 영향 없음. 혼인 등록부 원본(유료)은 열지 않음.
-- 미해결: ① 1924년 2월 교구지(열리면 S3=2, D·C 재검토). ② 레이디 바렛 메모 원본과 날짜(SPR 아카이브, 케임브리지 대학도서관 소장 여부 미조사). ③ 아버지 클라크의 사망 연도(미조사; V가 아니라 우선순위 낮음). ④ 비다의 병명·"invalid some years"의 근거(색인 밖).
-- 시대를 넘는 연결(대표님 지시): "몰랐던 죽음" 모티프는 Cobbe 1882("Peak in Darien") → SPR Proceedings → Barrett 1917·1926 → Osis 1961(미국 의사·간호사 설문) → Osis & Haraldsson 1977(인도·미국, SA 클러스터 후보) → Greyson 2010 개관으로 이어진다. 연구 설계의 전파 계보(R-TXT)이지 현상의 전파가 아니다. 바렛 1926 2장에는 이 사례 뒤에 1889년 미국 디프테리아 소녀 사례(Jennie & Edith)가 바로 이어진다 — 같은 클러스터·같은 조사 주체라 S층엔 못 쓰고 V 후보로만.
-- 다음에 열어볼 것: Osis & Haraldsson 1977 『At the Hour of Death』(인도 사례; 무료 사본 탐색), Greyson 2010(#11), Barrett 1926 3장 이하(목차: II 몰랐던 죽음 / III 알고 있던 죽음·임종 환시 / IV 멀리 있는 산 사람 / V 임종의 음악 / VI 떠나는 영의 환시).
-- 도구: Wellcome Collection은 IIIF manifest·전문 텍스트 API·쪽 이미지가 키 없이 열린다. GRO 색인은 FreeBMD에 POST 검색으로 열린다(`docs/NEXT_STEPS.md` 접근 메모).
+- What the result means: the "Vida" case, the most frequently cited in the deathbed-vision literature, grades **B/V1** on this scale. Its record is better than card 1 (C/V1): four witnesses wrote separately, it was in print within two years, and the official indexes support the facts. It falls short of V2 not because the event is weak but because **there is no dated document before verification**, and the information was known to those at the bedside, so leakage and psi cannot be separated. This is the general limit of the DBV-V structure: a death not known to the patient is usually a death known to the family.
+- Why the S layer is I0: the recorder belonged to the household that published the motif. Most SPR-collected cases share this problem. The EU-W S layer must be filled from records outside the SPR (records before 1882, or a different investigating body such as Osis's 1961 physician survey).
+- Discrepancies recorded: ① Matron "three weeks" vs mother "2 weeks and 4 days" (the index and the mother are right). ② Lady Barrett's notes say "him" of the baby, but the birth index has a girl's name (D. O. — born 1924, status unknown, so initials only). A slip in the notes, a transcription error, or a different child in the index. No effect on the verdict. ③ Husband "W." in the book vs groom "Bargery, Stanley" in the marriage index (Shoreditch 1923 Q2, 1c 82) — the initial does not match. Barrett may have kept the real initial for the surname ("Mrs. B.") and changed only the husband's name, or "W." may be a nickname or middle name (the index sometimes shows only a first forename). The marriage was identified through the bride (Clark, Doris G.), so no effect on the verdict. The marriage register entry (paid) was not opened.
+- Unresolved: ① the February 1924 parish magazine (if opened: S3=2, revisit D and C). ② Lady Barrett's original notes and their date (SPR archive, Cambridge University Library holdings not checked). ③ The year of the father's (Mr Clark's) death (not checked; not V, so low priority). ④ Vida's illness and the basis for "an invalid some years" (outside the indexes).
+- Connections across time (owner's instruction): the "unknown death" motif runs Cobbe 1882 ("Peak in Darien") → SPR Proceedings → Barrett 1917 and 1926 → Osis 1961 (US physician and nurse survey) → Osis & Haraldsson 1977 (India and US; candidate for the SA cluster) → Greyson 2010 overview. This is a lineage of research design (R-TXT), not of the phenomenon. In Barrett 1926 chapter II this case is followed directly by the 1889 American diphtheria case (Jennie & Edith) — same cluster, same investigating body, so not usable for the S layer, only as a V candidate.
+- To open next: Osis & Haraldsson 1977 *At the Hour of Death* (Indian cases; look for a free copy); Greyson 2010 (#11); Barrett 1926 chapters III onward (contents: II deaths unknown / III deaths known, deathbed visions / IV the living at a distance / V music at death / VI visions of the departing spirit).
+- Tools: Wellcome Collection opens its IIIF manifest, full-text API and page images without a key. The GRO indexes open through FreeBMD by POST search (access notes in `docs/NEXT_STEPS.md`).
 
-## 13. 자료
+## 13. Materials
 
-규칙은 METHOD 9절. 사진은 이해를 돕는 것이지 증거가 아니고 등급에 영향이 없다. 목록과 라이선스는 `assets/index.md`.
+Rules in METHOD §9. Photographs aid understanding; they are not evidence and do not affect grades. The images themselves appear above in "What happened"; this is the list. Full licence records in `assets/index.md`.
 
-![[DBV-GB-1924-doris--timeline.svg]]
-*도해 · 연표(혼인 → 비다 사망 → 숨김 → 출산·환시·사망 → 진술서 → 책), 누가 어느 발화를 들었는지, 비다의 죽음을 알고 있던 사람, 기록의 사슬. 이 카드 3·4·6절을 그림으로 옮긴 것으로 **기록이 아니다** · William 작성, 생성 코드 `tools/diagrams/DBV-GB-1924-doris.py`*
+| File | Kind | What | Source · licence |
+|---|---|---|---|
+| `DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg` | ② Place | Front buildings of the Mothers' Hospital, the scene of the event, in 2018 (not a contemporary photograph) | Paul the Archivist, Wikimedia Commons · CC BY-SA 4.0 |
+| `DBV-GB-1924-doris--florence-barrett.jpg` | ③ Person | Lady Florence Barrett (1867–1945), first recorder and witness. Date unknown | Wellcome Collection L0004411, Wikimedia Commons · CC BY 4.0 |
+| `DBV-GB-1924-doris--london-1920-map.jpg` | ② Place (map) | Crop of the north-east of Bacon's 1920 pocket map of London. Numbered markers at the hospital (Clapton), West Ham, Haggerston and Highbury added by William; approximate positions | George Washington Bacon 1920 · Geographicus, Wikimedia Commons · Public domain |
+| `DBV-GB-1924-doris--william-barrett-1907.png` | ③ Person | Sir William F. Barrett (1844–1925), collector and publisher. Portrait from a 1907 publication | James Creelman, Wikimedia Commons · Public domain |
+| `DBV-GB-1924-doris--timeline.svg` | ④ Diagram | Timeline, who heard which utterance, who knew of the concealment, chain of records. **Not a record** | Drawn by William, `tools/diagrams/DBV-GB-1924-doris.py` |
 
-![[DBV-GB-1924-doris--florence-barrett.jpg]]
-*레이디 플로렌스 바렛(1867–1945), 첫 기록자이자 증인. 사건 당시 Mothers' Hospital 산과 외과의. 촬영 연도 미상의 좌상(坐像) 초상 · Wellcome Collection L0004411, Wikimedia Commons · CC BY 4.0*
-
-![[DBV-GB-1924-doris--william-barrett-1907.png]]
-*윌리엄 F. 바렛 경(1844–1925), 이 사건의 수집·출판자. 1907년 출판물의 초상 · James Creelman, Wikimedia Commons · 퍼블릭 도메인*
-
-![[DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg]]
-*사건 장소 Mothers' Hospital(런던 Lower Clapton Road)의 정면 건물, 2018년. 1824년에 지은 주택을 병원 정면으로 썼고 병동은 뒤편이었다. 병원은 1986년에 닫혔고 지금은 주거 단지(Mothers' Square)다. 1924년 당시 사진이 아니다 · Paul the Archivist, Wikimedia Commons · CC BY-SA 4.0*
-
-- 저작권·접근으로 넣지 않은 것: Barrett 1926 pp.10–14 쪽 스캔(저자 1925년 사망으로 본문은 퍼블릭 도메인이지만 Wellcome 메타데이터가 저작권 표시·열람 전용이라 링크만 — 4절 #1~#5의 IIIF 주소로 본다). archive.org `b29813992`는 파일 내려받기 403.
-- 신문·기록 탐색(2026-10-22): 영국 신문 아카이브(BNA)는 유료라 쓰지 않음. 무료 아카이브의 전재 기사 탐색 — Papers Past(뉴질랜드)·Chronicling America/loc.gov(미국)·HathiTrust는 봇 차단으로 열리지 않음(**미확인**이지 '없음'이 아님). Trove(호주)는 API 키가 필요(무료 가입, 대표님 손 후보). 따라서 1924년 1~2월 신문 보도 유무는 미확인. GRO 색인(FreeBMD)이 대신 사실관계를 받쳐 준다.
-- 다음에 찾을 것: Trove 키를 받으면 1924~1926 호주·뉴질랜드 신문의 "Lady Barrett" "death-bed vision" 전재 기사. 런던 메트로폴리탄 아카이브의 All Saints Haggerston 교구 기록 목록(교구지 1924 소장 여부).
+- Not included for copyright or access reasons: page scans of Barrett 1926 pp.10–14 (the text is public domain, the author having died in 1925, but Wellcome's metadata marks the scan as in copyright, viewing only, so it is linked only — see the IIIF addresses at §4 #1–#5). The archive.org copy `b29813992` (the same Wellcome scan) carries a "possibly in copyright" rights statement and is treated the same way (checked 2026-10-23).
+- Newspaper and archive search (2026-10-22): the British Newspaper Archive is paid and not used. Search for reprints in free archives — Papers Past (New Zealand), Chronicling America / loc.gov (US) and HathiTrust block automated access (**unverified**, not "none"). Trove (Australia) requires an API key (free registration; a candidate for the owner's hand). So whether the case was reported in newspapers in January–February 1924 is unverified. The GRO indexes (FreeBMD) support the facts instead.
+- To look for next: with a Trove key, 1924–1926 Australian and New Zealand newspaper reprints of "Lady Barrett" "death-bed vision". The London Metropolitan Archives catalogue of All Saints Haggerston parish records (whether the 1924 Parish Magazine survives). Photographs of the Mothers' Hospital around 1924 (Salvation Army International Heritage Centre; licence to be checked).

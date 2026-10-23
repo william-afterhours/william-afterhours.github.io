@@ -8,12 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "William · 초자연 현상 기록",
+    // 글쓴이 이름은 사이트 제목이 아니라 저자란(components/Byline.tsx)에 둔다.
+    // 사이트의 주 언어는 영어(2026-10-23 대표님 확인). 한국어 글은 ko/ 아래.
+    pageTitle: "The Paranormal Ledger",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "ko-KR",
+    locale: "en-US",
     // 사용자 사이트 저장소(william-afterhours.github.io)라 루트에 뜬다. RSS·사이트맵·절대 링크에 쓰인다.
     baseUrl: "william-afterhours.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "**/_TEMPLATE.md"],

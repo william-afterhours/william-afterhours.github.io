@@ -1,144 +1,173 @@
 ---
-id: CODE-CC-YYYY-slug          # 파일명과 같게. 예: NDE-NL-1979-dentures
-code: CODE                     # NDE / DBV / CA / CORT / MED. 반대 자료 카드는 X-CODE
-variant: ""                    # V(검증 주장) / S(공유) / C(집단) / F(가족 내) / ""
-cluster: ""                    # METHOD 5절 클러스터 코드. 예: EU-W, SA, ANC-EA
-country: CC                    # ISO 국가코드
-event_year: YYYY               # 사건 연도. 불명이면 cYYYY
-record_year: YYYY              # 최초 기록 연도
-investigator: none             # 조사 주체 코드(기관·개인). 없으면 none
-independence: ""               # I2 / I1 / I0 (11절 결과)
+id: CODE-CC-YYYY-slug          # same as the file name, e.g. NDE-NL-1979-dentures
+title: "<Short human title (Place, Year)>"   # shown on the site; e.g. "Doris sees Vida (London, 1924)"
+code: CODE                     # NDE / DBV / CA / CORT / MED. Counter-evidence cards: X-CODE
+variant: ""                    # V (verification claim) / S (shared) / C (collective) / F (within family) / ""
+cluster: ""                    # METHOD §5 cluster code, e.g. EU-W, SA, ANC-EA
+country: CC                    # ISO country code
+event_year: YYYY               # year of the event; cYYYY if uncertain
+record_year: YYYY              # year of the earliest record
+investigator: none             # investigating body code (organisation or person); none if there was none
+independence: ""               # I2 / I1 / I0 (result of §11)
 scores: {S1: , S2: , S3: , S4: , S5: , S6: , S7: }
 grade_R: ""                    # A / B / C / D / —
 grade_V: ""                    # V2 / V1 / V0 / V—
-cap: ""                        # 적용된 상한 규칙 번호. 예: "①". 없으면 ""
-unfavorable: []                # '불리'인 가설 코드 목록. 예: [H5, H6] (8절 결과)
-links: []                      # 연결 대상 id 목록. 예: [M-taken-by-mistake-returned, O-SPR] (10절)
-counter: unsearched            # 반박 최고 R등급(A~D) / none(탐색했으나 없음) / unsearched
-countable: no                  # no / S / V / SV. S = R≥B ∧ I2 ∧ counter≠unsearched ∧ cap 없음 ∧ 구조 요소 2개 이상. V = V1 이상 ∧ counter≠unsearched ∧ cap 없음 (METHOD 1절 v0.2)
+cap: ""                        # cap rule applied, e.g. "①"; "" if none
+unfavorable: []                # hypotheses graded "unfavourable", e.g. [H5, H6] (result of §8)
+links: []                      # ids linked in §10, e.g. [M-taken-by-mistake-returned, O-SPR]
+counter: unsearched            # best R grade among rebuttals (A–D) / none (searched, none found) / unsearched
+countable: no                  # no / S / V / SV. S = R≥B ∧ I2 ∧ counter≠unsearched ∧ no cap ∧ ≥2 structural elements. V = V1 or better ∧ counter≠unsearched ∧ no cap (METHOD §1 v0.2)
 status: draft                  # draft / reviewed / final
 updated: YYYY-MM-DD
 ---
 
-# <사건 한 줄 제목>
+# <One-line descriptive title of the case (Place, Year)>
 
-## 1. 한 줄 요약
+> (Lede. One paragraph a reader can take in at a glance: where and when, what the person said or saw, and the one fact that makes the case worth a card. Only facts that appear with a source number in the ledger below.)
 
-(누가·언제·어디서·무엇을 경험했고, 무엇이 확인됐는가. 2문장 이내. 살아 있거나 생사 불명인 사람은 이니셜.)
+## What happened
 
-## 2. 현상 구조 체크리스트
+(The story told plainly, top to bottom, in past tense. Verified quotations in the original language's wording; no invented dialogue. Every fact here must appear with a `[#n]` in §3. Put each image where it belongs in the story, as a standard markdown image with alt text, followed by a one-line italic caption: what it shows · source (archive, author, year) · licence. Say "Reference" when the image is not the actual place, object or person. Say so when a diagram is William's and "not a record".)
 
-(METHOD 1절 표의 코드별 요소를 그대로 옮겨 ☑/☐. 필수가 하나라도 ☐면 코드 미부여 → "유사 사례".)
+![Alt text](../assets/CODE-CC-YYYY-slug--slug.jpg)
+*What it shows · source · licence*
 
-- [ ] 필수 1:
-- [ ] 필수 2:
-- [ ] 필수 3:
-- [ ] 선택:
-- V요소: 있음 / 없음 —
+## How far can this record be trusted
 
-## 3. 사건 기술
+(The R, V and I grades explained in words: who wrote, when, how many witnesses, whether anything was written before it was checked, who investigated and with what stake. No new facts.)
 
-(사실만. 문장마다 출처 번호 `[#n]`. 해석·형용사 금지.)
+## Other ways to explain it
 
-## 4. 출처 목록
+- **(Explanation in a few words.)** (Why it is live or not, from §7.)
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+(Close with the compatibility verdict in one or two sentences: compatible with the survival hypothesis or not, and whether the record can separate it from the others.)
+
+---
+
+## Investigation ledger
+
+Everything above rests on the sources numbered below. The ledger is this study's working record: the facts with their source numbers (§3–§4), the scores behind the grades (§5), the verified information (§6), the ordinary explanations (§7), the hypotheses the record can and cannot separate (§8), counter-evidence (§9), connections (§10), cultural independence (§11), notes (§12) and the list of materials (§13). Rules in `docs/METHOD.md`.
+
+## 1. One-line summary
+
+(Who, when, where, what was experienced, what was confirmed. Two sentences at most. Living people, or those whose status is unknown, as initials.)
+
+## 2. Structure checklist
+
+(Copy the elements for this code from the METHOD §1 table and tick ☑/☐. If any required element is ☐, no code is assigned → "similar case".)
+
+- [ ] Required 1:
+- [ ] Required 2:
+- [ ] Required 3:
+- [ ] Optional:
+- V element: present / absent —
+
+## 3. Account
+
+(Facts only. Every sentence carries a source number `[#n]`. No interpretation, no adjectives.)
+
+## 4. Sources
+
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | | | 확인 / 미확인 | | |
+| 1 | | | Confirmed / Unverified | | |
 
-## 5. 축별 점수와 등급
+## 5. Scores and grades
 
-| 축 | 점수 | 근거 한 줄 |
+| Axis | Score | Reason in one line |
 |---|---|---|
-| S1 출처 | | |
-| S2 목격자 | | |
-| S3 시점 | | |
-| S4 평범한 설명 검토 | | (7절 결과로 정해진다) |
-| S5 선기록 (V축) | | V 주장 없으면 — |
-| S6 조사자 독립성 | | |
-| S7 원문 열람 | | |
+| S1 Source | | |
+| S2 Witnesses | | |
+| S3 Timing | | |
+| S4 Ordinary explanations examined | | (determined by §7) |
+| S5 Prior record (V axis) | | — if no V claim |
+| S6 Investigator independence | | |
+| S7 Original text opened | | |
 
-합계(S1+S2+S3+S4+S6) = /10 → R등급: — / 적용된 상한: 없음 / V등급: —
+Total (S1+S2+S3+S4+S6) = /10 → R grade — / cap applied: none / V grade —
 
-## 6. 검증 정보 (V 주장)
+## 6. Verified information (V claim)
 
-(없으면 "없음"이라고 쓴다. 마지막 칸은 H2 판정용: 그 정보를 당시 살아 있는 누가 알고 있었나.)
+(Write "none" if there is none. The last column is for the H2 verdict: who alive at the time knew the information.)
 
-| 정보 | 누가 말함 | 언제·어디에 기록 | 언제·누가 확인 | 정상 경로 조사 | 당시 살아 있는 누가 알았나 |
+| Information | Who said it | When and where recorded | When and by whom verified | Normal channels investigated | Who alive at the time knew it |
 |---|---|---|---|---|---|
 | | | | | | |
 
-## 7. 이렇게도 설명된다
+## 7. Other ways to explain it
 
-(상태: 배제됨 / 부분 배제 / 배제 못 함 / 검토 불가. 기준은 METHOD 3절. 하나라도 비면 미평가.)
+(Status: ruled out / partly ruled out / not ruled out / cannot assess. Criteria in METHOD §3. If any row is empty, the card is unassessed.)
 
-| 항목 | 상태 | 근거 |
+| Item | Status | Reason |
 |---|---|---|
-| F 사기 | | |
-| M 오인 | | |
-| D 기억 왜곡·사후 각색 | | |
-| L 정보 누설·정상 경로 | | |
-| E 문화적 기대·암시 | | |
-| N 신경생리·약물·심리 | | (감점 없음, 기록만) |
-| C 우연 일치·기저율 | | |
-| X 선택 보고·기록자 편향 | | |
+| F Fraud | | |
+| M Misperception | | |
+| D Memory distortion, later embellishment | | |
+| L Leakage, normal channels | | |
+| E Cultural expectation, suggestion | | |
+| N Neurophysiology, drugs, psychology | | (no deduction; recorded only) |
+| C Coincidence, base rate | | |
+| X Selective reporting, recorder bias | | |
 
-## 8. 양립 가설
+## 8. Compatible hypotheses
 
-(METHOD 4절. 상태: 양립 / 불리 / 판단불가. '양립'이 기본값. '불리'는 이 카드의 구체 기록이 근거일 때만 — 근거 없으면 '판단불가'.)
+(METHOD §4. Status: compatible / unfavourable / undetermined. "Compatible" is the default. "Unfavourable" only where this card's specific record is the ground — otherwise "undetermined".)
 
-| 가설 | 상태 | 근거 |
+| Hypothesis | Status | Reason |
 |---|---|---|
-| H1 사후 생존 | | |
-| H2 초심리(생존 없음) | | |
-| H3 문화 전파 | | |
-| H4 신경생리·심리 | | |
-| H5 기억 왜곡·사후 각색 | | |
-| H6 사기 | | |
-| H7 우연·기저율 | | |
-| H8 조사자 효과 | | |
+| H1 Survival after death | | |
+| H2 Psi without survival | | |
+| H3 Cultural transmission | | |
+| H4 Neurophysiology, psychology | | |
+| H5 Memory distortion, embellishment | | |
+| H6 Fraud | | |
+| H7 Chance, base rate | | |
+| H8 Investigator effect | | |
 
-## 9. 반대 자료
+## 9. Counter-evidence
 
-탐색: 날짜 / 검색어 / 결과 (없음도 적는다)
+Search: date / search terms / result (record "none" too)
 
-| 출처 | R등급 | 요지 | 이 카드에 미친 영향 |
+| Source | R grade | Gist | Effect on this card |
 |---|---|---|---|
 | | | | |
 
-## 10. 연결
+## 10. Connections
 
-(METHOD 6절. 대상은 `entities/` 항목 또는 다른 사건 카드. 판정: 전파 / 재발 / 중립 / 미정. 등급: 확인 / 추정 / 미확인. 전파 판정 연결은 11절 경로 표에 반영한다. 연결 없음도 탐색 날짜·방법과 함께 적는다.)
+(METHOD §6. Targets are `entities/` items or other case cards. Verdict: transmission / recurrence / neutral / undecided. Grade: confirmed / inferred / unverified. Transmission links feed the path table in §11. Record "no connections" too, with the date and method of the search.)
 
-탐색: 날짜 / 방법 / 결과
+Search: date / method / result
 
-| 대상 `[[id]]` | 관계 유형(R-*) | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation (R-*) | Verdict | Grade | Reason |
 |---|---|---|---|---|
 | | | | | |
 
-## 11. 문화 독립성
+## 11. Cultural independence
 
-클러스터: / 기록 연도 vs 기준 연도: / 조사 주체:
+Cluster: / record year vs baseline year: / investigating body:
 
-| 경로 | 배제 / 불명 / 확인 | 근거 (10절의 전파 연결 포함) |
+| Path | Ruled out / unknown / confirmed | Reason (including transmission links from §10) |
 |---|---|---|
-| ① 직접 접촉 | | |
-| ② 번역·출판 | | |
-| ③ 선교·종교 전파 | | |
-| ④ 대중매체 | | 기준 연도 이전이면 자동 배제 |
-| ⑤ 같은 조사 주체 | | |
+| ① Direct contact | | |
+| ② Translation, publication | | |
+| ③ Missionary, religious transmission | | |
+| ④ Mass media | | automatically ruled out if before the baseline year |
+| ⑤ Same investigating body | | |
 
-→ 독립성 등급: I2 / I1 / I0
+→ Independence grade: I2 / I1 / I0
 
-## 12. 메모
+## 12. Notes
 
-(미해결 질문, 다음에 열어볼 출처, 등급을 바꿀 수 있는 정보.)
+(Open questions, sources to open next, information that could change a grade.)
 
-## 13. 자료
+## 13. Materials
 
-(사진·기록 사본·삽화·도해. 규칙은 METHOD 9절 "시각 자료 규칙", 목록은 `assets/index.md`. 등급에 영향 없음. 사건 자체가 아닌 것은 "참고"라고 쓴다. 없으면 "없음(탐색: 날짜·어디·검색어)".)
+(List of photographs, copies of records, illustrations and diagrams. The images themselves go in "What happened" above; here only the table. Rules in METHOD §9 "visual materials"; full records in `assets/index.md`. No effect on grades. Mark anything that is not the actual place, object or person "reference". If there is nothing, write "none (search: date, where, terms)".)
 
-![[CODE-CC-YYYY-slug--slug.jpg]]
-*무엇 · 출처(아카이브, 저자, 연도) · 라이선스*
+| File | Kind | What | Source · licence |
+|---|---|---|---|
+| `CODE-CC-YYYY-slug--slug.jpg` | | | |
 
-- 신문·기록 탐색: (날짜, 아카이브, 검색어, 결과 — 0건도 적는다)
+- Not included for copyright or access reasons: (what, and where it is linked instead)
+- Newspaper and archive search: (date, archive, terms, result — record 0 hits too)
+- To look for next:

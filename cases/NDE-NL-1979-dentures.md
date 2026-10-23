@@ -1,5 +1,6 @@
 ---
 id: NDE-NL-1979-dentures
+title: "The man with the dentures (Nijmegen, 1979)"
 code: NDE
 variant: V
 cluster: EU-W
@@ -17,167 +18,210 @@ links: [O-Merkawah, P-TG-witness-1979, P-Woerlee-GM, M-obe-veridical-resuscitati
 counter: C
 countable: V
 status: reviewed
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
-# 네이메헌 "틀니의 남자" — 심정지 소생 중 체외 시점에서 틀니를 치운 간호사와 카트를 묘사한 환자 (1979, 네덜란드)
+# The man with the dentures — a patient resuscitated from cardiac arrest describes, from above, the nurse who removed his dentures and the cart they were put on (Nijmegen, 1979)
 
-## 1. 한 줄 요약
+> Late 1979, a cold night near Nijmegen in the Netherlands. A man was found lying in a meadow. His heart had stopped. In hospital, during more than an hour of resuscitation, a nurse took the dentures out of his mouth and put them on a wooden shelf of a cart. More than a week later, when that nurse walked into another ward, the man spoke first: "Hey, yes you, you know where my dentures are!"
 
-1979년 말 밤, 저체온·심정지 상태로 초원에서 발견된 40대 남성 B.가 1시간 넘는 소생 끝에 살아났고, 1주 이상 뒤 자신을 처음 본 듯한 간호사 T.G.를 알아보며 "당신이 내 틀니를 꺼내 그 카트의 미닫이 판에 올렸다"고 말했다. T.G.의 증언은 1991년(동료 경유)·1994년(직접 면담)·2008년(재면담)에 기록됐고, 환자 본인은 면담되지 못한 채 사망했다.
+## What happened
 
-## 2. 현상 구조 체크리스트
+The man is recorded only as B. He was a steel bender from the village of Ooij, east of Nijmegen, and in his early forties. On a cold night late in 1979 a passer-by found him lying in a meadow and called an ambulance. Nobody knows how long he had been there. When the ambulance crew arrived he had no pulse and was not breathing; his heart was only fibrillating. The crew began resuscitation and brought him within half an hour to the resuscitation room of the coronary care unit at the Canisius Hospital.
 
-- [x] 필수 1: 의학적 생명 위기 — 심실세동·무맥박·무호흡, 1시간 이상 CPR, 제세동 5회. 진료 기록은 파기됐고 소생팀 간호사의 증언으로 확인 [#2 #4]
-- [ ] 필수 2: 위기 중 경험 보고, 요소 2개 이상 — **체외 시점 1개만** 있음(위에서 소생 장면을 봄). 터널·빛·생애 회고·사망자와의 만남 없음 [#2 p.59]. 평온 없음(통증·"멈춰라") [#2]. 경계·귀환 결정 없음
-- [x] 선택: 체험 후 태도 변화 — "더는 죽음이 두렵지 않다" (Lancet판에만) [#1]
-- V요소: **있음** — 소생 중 주변 사건(틀니 제거·카트·방·인물·중단 논의)을 묘사했고 소생팀 간호사가 확인 [#1 #2]
+![Winter on the Waal floodplain near Ooij. A reference photograph of the area, not the place where B. was found.](../assets/NDE-NL-1979-dentures--ooij-waal-winter.jpg)
+*Reference · Winter on the floodplain of the river Waal near Ooij, February 2021. The records do not say where the meadow in which B. was found lies · Lendskaip, Wikimedia Commons · CC0*
 
-→ **S층 집계 자격 없음**(요소 2개 미달), **V층 입장 가능**(METHOD 1절 v0.2: 위기 확인 + 체외 시점 + V요소). 이 카드가 v0.2의 계기다.
+When B. arrived, his skin showed bluish patches like post-mortem lividity. His body was ice cold, his pupils were dilated and did not react to light, and his eyes were closed. The resuscitation team was the nurse T.G., two female student nurses, and a junior doctor who would not take the decision to stop. When they tried to intubate him, they found dentures. T.G. took them out and put them on the wooden sliding shelf of the crash cart in the room, a shelf already pulled out for preparing syringes. The cart had been built for that room by the hospital's technicians, and there was no other like it anywhere in the hospital. The resuscitation went on for more than an hour. The heart was compressed by hand and by machine, and shocks were given five times. After about fifteen minutes the team felt they were working on a dead man and exchanged looks about stopping. But the patient was young and the doctor would not decide, so they went on. At last the heart began to beat again. B. was moved to intensive care and ventilated for several days.
 
-## 3. 사건 기술
+![Main building and entrance of the St Canisius Hospital, Nijmegen, 1960](../assets/NDE-NL-1979-dentures--canisius-hospital-1960.jpg)
+*Main building and entrance of the St Canisius Hospital in Nijmegen, 1960. The building stood on St. Annastraat from 1926 to 1992 and is the hospital where the resuscitation of 1979 took place. The records do not say in which wing the resuscitation room lay · Regionaal Archief Nijmegen F12159, Fotopersbureau Gelderland, Wikimedia Commons · CC BY-SA 4.0*
 
-B.는 네이메헌(Nijmegen) 근교 오이(Ooy/Ooij) 마을 출신의 40대 초(Lancet판 44세) 철근공이다 [#1 #2]. 1979년 말 추운 밤, 행인이 초원에 누워 있는 그를 발견해 구급차를 불렀고, 얼마나 누워 있었는지는 아무도 모른다 [#2 #3]. 연도 1979는 Woerlee(2010)에만 명시되고 Smit·Rivas(2010)는 "30년 전"이라고만 쓴다 [#3 #4]. 구급대 도착 시 무맥박·무호흡·심실세동이었고 구급대가 소생을 시작해 30분 안에 카니시우스(Canisius) 병원 관상동맥 병동(CCU) 소생실로 옮겼다 [#2 #3]. 도착 시 피부에 시반 같은 푸른 반점, 얼음처럼 찬 체온, 산대되고 빛에 반응하지 않는 동공, 감긴 눈이 기록됐다 [#2 #4].
+T.G. finished the shift that night, had five days off, and was then assigned to another department. So for more than a week T.G. did not see B. Meanwhile B. woke up in intensive care and asked where his dentures were. Nobody knew. They had been lost during the clearing up. One night T.G. walked into the rehabilitation ward to hand out medication. B. recognised the nurse at once and spoke first: "Yes, you were there when I was brought into hospital and you took my dentures out of my mouth and put them onto that cart, it had all these bottles on it and there was this sliding drawer underneath and there you put my teeth." He described the resuscitation room: a very small room, a niche with a wash basin and disinfectants to the right of the bed, where the mirror was, the equipment cart on the left, a narrow metal cabinet holding infusion pumps. He said he had watched from above, from the top left corner of the room, over that cabinet. He described what the team members looked like, and he knew it was T.G. who had compressed his chest. He had kept trying to say, "Ouch, stop doing this because it hurts so much! I am still here; my heart does not stand still! I am alive!" But nobody heard him. There was no tunnel, no light, no review of his life. B. left hospital four weeks later.
 
-소생팀은 간호사 T.G.(첫 팀 리더 역할)와 여성 학생 간호사 2명, 그리고 중단 결정을 내리지 못한 주니어 의사였다 [#2 #3]. 삽관하려 할 때 틀니가 발견됐고, T.G.가 틀니를 꺼내 소생실 크래시 카트의 **이미 빼놓은 나무 미닫이 판**(주사기 준비용) 위에 올렸다 [#2]. 1994년 면담에서는 "상·하 틀니", Lancet판에서는 "상악 틀니"다 [#1 #2]. 틀니 제거 시점의 순환 상태는 판본이 다르다: Lancet판은 "삽관 없이 인공호흡을 하면서 심장마사지·제세동도 하던 중 삽관하려 하자 틀니가 있었다"이고 [#1], T.G. 2008판은 "마스크 장착 전 틀니를 꺼냈고, 마스크 장착 후에야 심장마사지 기계(Thumper)를 켰으며, 들것에서 침대로 옮기고 기계를 설치하는 동안 1분 이상 순환이 전혀 없었다"이다 [#4]. 응급실에서 3층 CCU까지 엘리베이터 이송 5분 이상 동안 구급 간호사는 들것 옆을 뛰며 약간의 환기만 할 수 있었다 [#4].
+![A present-day crash cart. A reference photograph, not the cart in the case.](../assets/NDE-NL-1979-dentures--crash-cart-example.jpg)
+*Reference · A present-day crash cart (Spain, 2014). The cart in the Canisius resuscitation room in 1979 was a one-off built for that room, and no photograph of it survives · Manuel Ramallo, Wikimedia Commons · CC0*
 
-소생은 수동·기계 심장마사지와 제세동 5회를 포함해 1시간 이상 걸렸다(1994년 "1시간 이상", Lancet판 "약 1시간 반", Woerlee "약 90분") [#1 #2 #3]. 약 15분 뒤 팀은 "죽은 사람에게 하고 있다"고 느꼈고 중단을 서로 눈짓으로 논의했으나, 젊은 나이와 주니어 의사의 결정 회피 때문에 계속했다 [#2]. 동공 검사 때 외에는 눈이 감겨 있었고 동공은 끝까지 무반응이었다 [#2 #4]. 심박·혈압·자발호흡이 조금 돌아온 뒤 ICU로 이송돼 수일간 인공호흡을 받았다 [#1 #2 #3].
+For a long time the story went unrecorded. As was usual then, nothing was written in the medical notes, and the notes themselves were later destroyed. T.G. only told colleagues. Twelve years later, in 1991, one of those colleagues passed it on to the Dutch near-death research foundation Merkawah, and a short version appeared in a nursing journal. In February 1994 a member of the foundation interviewed T.G. at length and left a typed record of twelve pages. T.G. was asked to repeat the same passages several times; the account hardly changed. In 2001 the cardiologist Pim van Lommel published a Dutch study of near-death experiences in the medical journal *The Lancet* and included this case as a first-person summary from the nurse, without a year or a place. After that "the man with the dentures" became the most frequently cited near-death anecdote in the world. In 2008 Rudolf Smit of the foundation traced T.G. and asked again; the account matched the 1994 record almost exactly. The patient B. was never interviewed. The foundation tried to find him and failed, and some years later T.G. saw his death notice in a newspaper. In 2010 the anaesthesiologist G. M. Woerlee published a rebuttal of the case, and Smit and Titus Rivas replied.
 
-T.G.는 그 밤 근무를 끝으로 5일 쉬었고 복귀 후 다른 부서에 배치돼, 1주 이상 B.를 보지 못했다 [#2]. 그 사이 B.는 ICU에서 틀니가 어디 갔느냐고 물었으나 아무도 몰랐다(틀니는 정리 중 분실) [#2]. T.G.가 야간 투약을 위해 재활 병동에 들어서자 B.가 먼저 "당신, 당신은 내 틀니가 어디 있는지 알지!"라고 했다 [#2]. B.는 "당신이 내 입에서 틀니를 꺼내 그 카트 위에 놓았다. 병이 잔뜩 있고 많이 덜걱거렸고, 틀니를 올린 미닫이 판이 있었다"고 했다 [#2]. B.는 소생실을 묘사했다: 매우 작은 방, 침대 오른쪽 세면대 니치와 소독제, 거울 위치, 왼쪽의 장비 카트, 주입기·주입 펌프를 넣은 좁은 금속 캐비닛 [#2]. 시점은 소생실 왼쪽 위 구석(금속 캐비닛 위)이었다 [#4]. B.는 팀원의 외모를 묘사했고, T.G.에게 "당신이 심장마사지를 했다. '아야, 그만해, 너무 아파, 나 여기 있어, 내 심장은 멈추지 않았어, 살아 있어'라고 계속 말하려 했는데 당신은 못 들었다"고 했다 [#2]. B.의 체험에는 터널·빛·생애 회고가 없었다 [#2 p.59]. Lancet판은 B.가 "팀이 CPR을 멈춰 죽을까 몹시 두려웠다"와 "더는 죽음이 두렵지 않다"를 포함한다 [#1].
+![Diagram of the sequence of events and where the verified information sits](../assets/NDE-NL-1979-dentures--sequence.svg)
+*Diagram · The sequence from the finding in the meadow to the reunion on the ward, and which of B.'s statements were confirmed by whom. Drawn by William from sections 3, 6 and 7 of the ledger below; **it is not a record** · generating code `tools/diagrams/NDE-NL-1979-dentures.py`*
 
-그 크래시 카트는 병원 기술진이 그 방을 위해 만든 것으로 병원 어디에도 같은 것이 없었고, B.는 그 병원에 처음 입원한 것이었으며, 소생실 견학·안내 책자 같은 것은 없었다 [#2 #4]. T.G.의 설명으로는 당시 CCU 밖에서는 제세동기와 모니터를 손에 들고 다녔고 카트를 끌고 다니지 않았다 [#4]. B.는 입원 4주 후 퇴원했고 [#1 #2], T.G.는 이후 외래 검진 때 멀리서 한 번 봤으며("심장 불구자" 같은 모습), 몇 년 뒤 신문에서 오이의 B.라는 사람의 부고를 봤다 [#2]. Merkawah 재단도 B.를 찾으려 했으나 실패했다 [#2].
+## How far can this record be trusted
 
-기록 이력: 진료 기록에는 NDE가 적히지 않았고(당시 관행) 기록 자체도 관례상 파기됐다 [#2 #4]. T.G.가 동료들에게 말했고, 그중 K.B.가 Meijers에게 전해 1991년 8월 간호 전문지 Cordiaal 기사에 짧게 실렸다(K.B.는 현장에 없었고 전달자였을 뿐이라고 2008년 확인) [#2 #5]. 1994년 2월 2일 Merkawah 직원 Addink가 T.G.를 장시간 면담해 12쪽 타이핑 기록을 남겼고(2월 3일자), 면담 중 같은 부분을 여러 번 반복하게 했으나 차이가 거의 없었다 [#2 #6]. 두 문서를 바탕으로 van Lommel 등이 2001년 Lancet에 1인칭 요약을 실었고, 연도·장소는 쓰지 않았다 [#1 #3]. 2007년 van Wees가 보관하던 Merkawah 아카이브가 Smit에게 넘어와 2008년 T.G.를 찾아 전화 면담했고 Rivas가 긴 면담을 했다(Terugkeer 2008) [#2 #7 #8]. 1994년과 2008년의 세부는 거의 정확히 일치했다 [#4]. 1991년 원 면담 녹취는 분실됐다 [#2].
+The most famous anecdote is not the best record. This case shows it. There is one witness, T.G. The two student nurses and the doctor who were in the room were never interviewed. Nor was the patient. The first record came twelve years after the event, and then at second hand, from a colleague who had not been present. The only body that investigated is one that takes near-death experiences to be real. The versions differ. In the 1991 article B. was afraid the team would stop; in the 1994 interview he wanted them to stop because it hurt. Whether the dentures were upper and lower or only upper, and whether the heart was being compressed when they were removed or there was no circulation at all, also differ between versions. On this study's scale for the quality of a record, A to D, it is a **C**. Not because the event is weak but because the record is.
 
-판본 불일치: Meijers 1991·Lancet 2001은 "팀이 멈출까 두려워했다"이고, Addink 1994는 "살아 있고 괜찮으며 마사지가 아파서 멈추기를 원했다"이다 [#2]. T.G.는 2008년 이를 두 국면(처음엔 계속하길, 나중엔 멈추길)으로 설명했다 [#2]. T.G.는 사건 전에도 야간 순회 중 환자들의 NDE 이야기를 들은 적이 있어 현상을 알고 있었다 [#2]. B.는 T.G.가 보기에 자신이 NDE를 했다는 것조차 이해하지 못했을 만큼 "현실적인" 사람이었고, 당시 네덜란드 일반 대중은 NDE 개념을 거의 몰랐다(T.G.·Smit의 평가) [#2 p.59].
+There is still a reason to count this case. B. was brought into the resuscitation room with his eyes closed and his heart stopped. He later stated things such a man could hardly know, and the person who had been there said they were right: who took the dentures out, where they were put, what that shelf looked like, what the room looked like. So the case counts as one with "verified information". But not at the top grade. B.'s words were not written down in a dated document and then checked; the memory of the person who checked them was recorded twelve years later. And everything B. said was known to the resuscitation team. So the verification grade is **V1**, the middle of three.
 
-## 4. 출처 목록
+In structure this experience is unlike a typical near-death experience. No tunnel, no light, only "I watched from above". So it does not go into the count of whether the same structure arose separately in several cultures. It goes only into the count of verified information.
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+## Other ways to explain it
+
+- **Memory may have changed.** Twelve years. The difference between 1991 and 1994 is on record. That 1994 and 2008 agree is the same person repeating the same story, and is no evidence that memory did not change.
+- **Someone may have told him.** In 2008 T.G. was asked about ways B. could have seen the cart beforehand, a guided tour or a brochure, and said there were none. But no investigator asked whether a member of the intensive-care staff might have told B. "that nurse took your dentures out".
+- **He may have been conscious during the resuscitation.** This is Woerlee's argument. Hypothermia makes the outward signs of death unreliable. There are cases in the medical literature of consciousness returning during chest compressions. The scene could have been pieced together from what he heard. Visual details such as the look of the shelf and the viewpoint in the "top left corner" are hard to explain by sound alone. But the only evidence that those details were given is T.G.'s memory.
+- **It may be chance.** More than three details matching is hard to call chance. But no record was made before the match was confirmed.
+- **It may be a chosen story.** It was collected by a body that collects near-death experiences. How many stories did not match is unknown.
+
+So this record is **compatible** with the hypothesis that consciousness continues after death. It cannot separate that hypothesis from the others. What this case shows is rather why prospective studies, with hidden targets set up in advance, are needed.
+
+---
+
+## Investigation ledger
+
+Everything above rests on the sources numbered below. The ledger is this study's working record: the facts with their source numbers (§3–§4), the scores behind the grades (§5), the verified information (§6), the ordinary explanations (§7), the hypotheses the record can and cannot separate (§8), counter-evidence (§9), connections to people, organisations and motifs (§10), cultural independence (§11), notes (§12) and the list of materials (§13). The scoring rules are in `docs/METHOD.md` (Korean; English translation in progress).
+
+## 1. One-line summary
+
+On a night late in 1979, B., a man in his forties found hypothermic and in cardiac arrest in a meadow, was revived after more than an hour of resuscitation. More than a week later he recognised the nurse T.G., whom he was apparently seeing for the first time, and said that T.G. had taken his dentures out of his mouth and put them on the sliding shelf of "that cart". T.G.'s testimony was recorded in 1991 (through a colleague), 1994 (direct interview) and 2008 (re-interview); the patient died without ever being interviewed.
+
+## 2. Structure checklist
+
+- [x] Required 1: medical crisis — ventricular fibrillation, no pulse, no breathing, CPR for over an hour, five defibrillations. Medical records destroyed; confirmed by the testimony of the resuscitation nurse [#2 #4]
+- [ ] Required 2: experience reported during the crisis with two or more elements — **only one element**, an out-of-body viewpoint (saw the resuscitation from above). No tunnel, light, life review or meeting with the dead [#2 p.59]. No peace (pain, "stop") [#2]. No border or decision to return
+- [x] Optional: change of attitude afterwards — "he is no longer afraid of death" (Lancet version only) [#1]
+- V element: **present** — described events around him during the resuscitation (removal of the dentures, the cart, the room, the people, the discussion about stopping), confirmed by the resuscitation nurse [#1 #2]
+
+→ **Not eligible for the S-layer count** (fewer than two elements); **eligible for the V layer** (METHOD §1 v0.2: confirmed crisis + out-of-body viewpoint + V element). This card is the occasion for v0.2.
+
+## 3. Account
+
+B. was a steel bender in his early forties (44 in the Lancet version) from the village of Ooy/Ooij near Nijmegen [#1 #2]. On a cold night late in 1979 a passer-by found him lying in a meadow and called an ambulance; nobody knows how long he had lain there [#2 #3]. The year 1979 is given explicitly only by Woerlee (2010); Smit & Rivas (2010) write only "30 years ago" [#3 #4]. On the ambulance crew's arrival he had no pulse, no breathing and ventricular fibrillation; the crew began resuscitation and took him within 30 minutes to the resuscitation room of the coronary care unit (CCU) of the Canisius Hospital [#2 #3]. On arrival, bluish patches resembling post-mortem lividity, an ice-cold body, dilated pupils unreactive to light and closed eyes were noted [#2 #4].
+
+The team was the nurse T.G. (acting as first team leader), two female student nurses, and a junior doctor who did not take the decision to stop [#2 #3]. On attempting intubation the dentures were found, and T.G. removed them and placed them on the crash cart's **already extended wooden sliding shelf** (used for preparing syringes) [#2]. The 1994 interview speaks of upper and lower dentures, the Lancet version of an upper denture [#1 #2]. The circulatory state at the moment of removal differs between versions: in the Lancet version the dentures were found when intubation was attempted while the patient was being ventilated without intubation and given cardiac massage and defibrillation [#1]; in T.G.'s 2008 version the dentures were removed before the mask was fitted, the mechanical heart massage machine (Thumper) was switched on only after the mask was fitted, and there was no circulation at all for more than a minute while the patient was moved from stretcher to bed and the machine was set up [#4]. During the lift transfer of five minutes or more from the emergency department to the third-floor CCU, the ambulance nurse running beside the stretcher could give only some ventilation [#4].
+
+Resuscitation, including manual and mechanical heart massage and five defibrillations, took more than an hour ("more than an hour" in 1994; about an hour and a half in the Lancet; about 90 minutes in Woerlee) [#1 #2 #3]. After about 15 minutes the team "were convinced that we were working on a dead man" and discussed stopping by exchanged glances, but continued "because it was such a young man" and because the junior doctor would not decide [#2]. Except during pupil checks the eyes were closed, and the pupils never reacted [#2 #4]. After some return of heartbeat, blood pressure and spontaneous breathing he was transferred to the ICU and ventilated for several days [#1 #2 #3].
+
+T.G. had five days off after that night shift, was then assigned to another department, and "lost sight of the patient for more than a week" [#2]. Meanwhile B. asked in the ICU where his dentures were, but nobody knew (they were lost during clearing up) [#2]. When T.G. entered the rehabilitation ward to hand out night medication, B. spoke first: "Hey, yes you, you know where my dentures are!" [#2]. B. said: "Yes, you were there when I was brought into hospital and you took my dentures out of my mouth and put them onto that cart, it had all these bottles on it and there was this sliding drawer underneath and there you put my teeth." [#2]. B. described the resuscitation room: a very small room, a niche with a wash basin and disinfectants to the right of the bed, where a mirror was, the cart on the left, a narrow metal cabinet in which infusers and infusion pumps were stored [#2]. His viewpoint was the top left corner of the room, above the metal cabinet [#4]. B. described the team members' appearance and told T.G. that T.G. had done the heart massage; he had kept trying to say "Ouch, stop doing this because it hurts so much! I am still here; my heart does not stand still! I am alive!" — "But you did not hear me." [#2]. B.'s experience "did not include a tunnel, light, a life review" [#2 p.59]. The Lancet version adds that B. was very afraid the team would stop CPR, and that "he is no longer afraid of death" [#1].
+
+The crash cart had been built by the hospital's technicians for that room and there was no other like it in the hospital; B. had never been admitted to that hospital before; there were no guided tours or brochures of the resuscitation room [#2 #4]. According to T.G., outside the CCU at that time defibrillators and monitors were carried by hand and carts were not wheeled about [#4]. B. left hospital after four weeks [#1 #2]. T.G. later saw him once from a distance at an outpatient check-up, looking like a man whose heart was badly damaged, and some years later saw a death notice in a newspaper for a B. of Ooij [#2]. The Merkawah foundation also tried to find B. and failed [#2].
+
+Record history: the experience was not entered in the medical notes (the practice of the time) and the notes themselves were routinely destroyed [#2 #4]. T.G. told colleagues; one of them, K.B., passed it to Meijers, and it appeared briefly in the nursing journal *Cordiaal* in August 1991 (K.B. confirmed in 2008 to having been absent from the scene and only a conduit) [#2 #5]. On 2 February 1994 Addink of Merkawah interviewed T.G. at length and produced a "densely typed document of 12 pages" (dated 3 February); the interviewer "asked him several times to repeat his account" and "there were virtually no differences" [#2 #6]. On the basis of these two documents van Lommel et al. published a first-person summary in the Lancet in 2001, without year or place [#1 #3]. In 2007 the Merkawah archive kept by van Wees passed to Smit, who traced T.G. in 2008 and interviewed by telephone; Rivas conducted a long interview (*Terugkeer* 2008) [#2 #7 #8]. The details of 1994 and 2008 matched almost exactly [#4]. The original 1991 interview recording is lost [#2].
+
+Version discrepancies: Meijers 1991 and the Lancet 2001 have B. afraid the team would stop; Addink 1994 has B. alive and well and wanting them to stop because the massage hurt [#2]. In 2008 T.G. explained this as two phases (at first wanting them to continue, later wanting them to stop) [#2]. T.G. had heard patients' NDE accounts during night rounds before this event and knew of the phenomenon [#2]. B. was, in T.G.'s view, "a very down-to-earth steel bender who most probably did not even understand that he had had an NDE", and the Dutch public at the time hardly knew the concept (the assessment of T.G. and Smit) [#2 p.59].
+
+## 4. Sources
+
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 2차(학술, 간호사 보고의 1인칭 요약) | van Lommel P, van Wees R, Meyers V, Elfferich I. Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *Lancet* 2001;358:2039-45, p.2041 | 부분 확인 — p.2041 단락은 #2·#10에 전재된 것을 읽음. 전문은 유료 | PubMed PMID 11755611 | 연도·장소 없음. 1991·1994 문서 기반 |
-| 2 | 2차(조사자의 증인 면담 수집; 1994 면담 기록 발췌 전재) | Smit RH. Corroboration of the dentures anecdote involving veridical perception in a near-death experience. *J Near-Death Stud* 2008;27(1):47-61 | 확인(PDF 전문) | https://digital.library.unt.edu/ark:/67531/metadc798921/ | 핵심 출처. 저자는 Merkawah 이사 |
-| 3 | 반박(학술) | Woerlee GM. Response to "Corroboration of the dentures anecdote…". *J Near-Death Stud* 2010;28(4):181-191 | 확인(UNT IIIF OCR 전문) | https://digital.library.unt.edu/ark:/67531/metadc461689/ | 연도 1979 명시 |
-| 4 | 재반박(학술, 증인 2008 진술 영역 전재) | Smit RH, Rivas T. Rejoinder to "Response to …". *J Near-Death Stud* 2010;28(4):193-205 | 확인(UNT IIIF OCR 전문) | https://digital.library.unt.edu/ark:/67531/metadc461736/ | 심장전문의 2명 자문(van Lommel, Louridtz) |
-| 5 | 2차(최초 기록, 간호 전문지, 현장 부재자 K.B. 전언) | Meijers V. Bijna-dood-ervaringen na geslaagde reanimaties. *Cordiaal* 1991;3:53-56 | 미확인(#2 경유) | — | 원 녹취 분실 |
-| 6 | 1차(조사 면담 타이핑 기록, 미출판) | Addink A. T.G. 면담 기록, 1994-02-02 면담·02-03 타이핑, 12쪽, Merkawah 아카이브 | 미확인(#2에 발췌 영역) | — | 공개 불가 자료 |
-| 7 | 2차(조사자 면담, 네덜란드어) | Rivas T. Een gesprek met TG over de man met het Gebit. *Terugkeer* 2008;19(3):12-20 | 미확인(#4에 발췌 영역) | — | Merkawah 회지 |
-| 8 | 1차(증인 자필 논평, 네덜란드어) | T.G. Commentaar op Woerlee door verpleegkundige TG. *Terugkeer* 2008;19(4):8 | 미확인(#4에 발췌 영역) | — | 틀니 제거 시점 진술의 원출처 |
-| 9 | 반박(논평) | French CC. Dying to know the truth: visions of a dying brain, or false memories? *Lancet* 2001;358:2010-11 | 서지 확인(PMID 11755600; Goldsmiths eprint 5137은 전문 없음). 본문은 #2·#3 인용으로 부분 | https://research.gold.ac.uk/id/eprint/5137/ | 교차 확인 부재 지적 |
-| 10 | 반박(학술) | Woerlee GM. Cardiac arrest and near-death experiences. *J Near-Death Stud* 2004;22(4):235-249 | 확인(UNT IIIF OCR 전문) | https://digital.library.unt.edu/ark:/67531/metadc799067/ | Lancet 요약만 보고 쓴 추정 |
+| 1 | Secondary (academic; first-person summary of the nurse's report) | van Lommel P, van Wees R, Meyers V, Elfferich I. Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *Lancet* 2001;358:2039-45, p.2041 | Partly confirmed — the p.2041 paragraph read as reprinted in #2 and #10. Full text paywalled | PubMed PMID 11755611 | No year or place. Based on the 1991 and 1994 documents |
+| 2 | Secondary (investigator's collection of witness interviews; excerpts of the 1994 record reprinted) | Smit RH. Corroboration of the dentures anecdote involving veridical perception in a near-death experience. *J Near-Death Stud* 2008;27(1):47-61 | Confirmed (full PDF) | https://digital.library.unt.edu/ark:/67531/metadc798921/ | Key source. The author is a Merkawah board member |
+| 3 | Rebuttal (academic) | Woerlee GM. Response to "Corroboration of the dentures anecdote…". *J Near-Death Stud* 2010;28(4):181-191 | Confirmed (UNT IIIF OCR full text) | https://digital.library.unt.edu/ark:/67531/metadc461689/ | Gives the year 1979 |
+| 4 | Reply to rebuttal (academic; English translation of the witness's 2008 statements) | Smit RH, Rivas T. Rejoinder to "Response to …". *J Near-Death Stud* 2010;28(4):193-205 | Confirmed (UNT IIIF OCR full text) | https://digital.library.unt.edu/ark:/67531/metadc461736/ | Two cardiologists consulted (van Lommel, Louridtz) |
+| 5 | Secondary (earliest record; nursing journal; hearsay from K.B., who was not present) | Meijers V. Bijna-dood-ervaringen na geslaagde reanimaties. *Cordiaal* 1991;3:53-56 | Unverified (via #2) | — | Original recording lost |
+| 6 | Primary (typed investigation interview record, unpublished) | Addink A. Interview record of T.G., interviewed 1994-02-02, typed 02-03, 12 pages, Merkawah archive | Unverified (excerpts in English in #2) | — | Not publicly available |
+| 7 | Secondary (investigator's interview, Dutch) | Rivas T. Een gesprek met TG over de man met het Gebit. *Terugkeer* 2008;19(3):12-20 | Unverified (excerpts in English in #4) | — | Merkawah newsletter |
+| 8 | Primary (witness's own written comment, Dutch) | T.G. Commentaar op Woerlee door verpleegkundige TG. *Terugkeer* 2008;19(4):8 | Unverified (excerpts in English in #4) | — | Original source of the statement on the timing of the denture removal |
+| 9 | Rebuttal (commentary) | French CC. Dying to know the truth: visions of a dying brain, or false memories? *Lancet* 2001;358:2010-11 | Reference confirmed (PMID 11755600; Goldsmiths eprint 5137 has no full text). Text partly via quotations in #2 and #3 | https://research.gold.ac.uk/id/eprint/5137/ | Points out the absence of cross-checking |
+| 10 | Rebuttal (academic) | Woerlee GM. Cardiac arrest and near-death experiences. *J Near-Death Stud* 2004;22(4):235-249 | Confirmed (UNT IIIF OCR full text) | https://digital.library.unt.edu/ark:/67531/metadc799067/ | Conjecture based on the Lancet summary alone |
 
-## 5. 축별 점수와 등급
+## 5. Scores and grades
 
-| 축 | 점수 | 근거 한 줄 |
+| Axis | Score | Reason in one line |
 |---|---|---|
-| S1 출처 | 1 | 당시 문서(진료 기록) 없음·파기. 조사자가 증인을 직접 면담한 학술 수집(#2, #6 전재) |
-| S2 목격자 | 1 | 신원 확인된(조사자에게) 단일 증인 T.G. 환자 본인·학생 간호사 2명·의사 미면담. K.B.는 현장 부재 전언 |
-| S3 시점 | 0 | 최초 기록 1991년 8월 = 사건 약 12년 후. 직접 면담 기록은 1994년 |
-| S4 평범한 설명 검토 | 0 | 7절: F 부분 배제이나 D·X가 '배제 못 함'(2개) |
-| S5 선기록 (V축) | 1 | 확인 이전에 제3자(T.G.)에게 구두 전달, 그가 후에 증언. 날짜 있는 문서는 12년 뒤 |
-| S6 조사자 독립성 | 1 | 조사자 전원(Meijers·Addink·Smit·Rivas)이 Merkawah(IANDS 네덜란드 지부, 현상 실재 전제 단체) 소속·관련. 대면 면담은 했음 |
-| S7 원문 열람 | 2 | #2·#3·#4·#10 전문 열람 |
+| S1 Source | 1 | No contemporary document (the medical notes were destroyed). Academic collection by investigators who interviewed the witness directly (#2; #6 reprinted) |
+| S2 Witnesses | 1 | A single witness, T.G., identified (to the investigators). The patient, the two student nurses and the doctor were not interviewed. K.B. is hearsay from someone not present |
+| S3 Timing | 0 | First record August 1991 = about 12 years after the event. Direct interview record 1994 |
+| S4 Ordinary explanations examined | 0 | §7: F partly ruled out, but D and X "not ruled out" (2 items) |
+| S5 Prior record (V axis) | 1 | Told orally to a third party (T.G.) before verification, who later testified. Dated document 12 years later |
+| S6 Investigator independence | 1 | All investigators (Meijers, Addink, Smit, Rivas) belonged to or were associated with Merkawah (the Dutch IANDS affiliate, an organisation that presupposes the reality of the phenomenon). Face-to-face interviews were conducted |
+| S7 Original text opened | 2 | #2, #3, #4, #10 read in full |
 
-합계(S1+S2+S3+S4+S6) = 3/10 → R등급: **C** / 적용된 상한: 없음(③ 해당 없음: S1=1, S2=1; ④ F 부분 배제) / V등급: **V1** (S5=1, F·L·C 모두 부분 배제 이상, R≥C)
+Total (S1+S2+S3+S4+S6) = 3/10 → R grade **C** / cap applied: none (③ not applicable: S1=1, S2=1; ④ F partly ruled out) / V grade **V1** (S5=1; F, L, C at least partly ruled out; R≥C)
 
-## 6. 검증 정보 (V 주장)
+## 6. Verified information (V claim)
 
-| 정보 | 누가 말함 | 언제·어디에 기록 | 언제·누가 확인 | 정상 경로 조사 | 당시 살아 있는 누가 알았나 |
+| Information | Who said it | When and where recorded | When and by whom verified | Normal channels investigated | Who alive at the time knew it |
 |---|---|---|---|---|---|
-| 틀니를 꺼낸 사람이 T.G.였다 | B. → T.G. | 1991 Cordiaal(전언), 1994 면담 기록 | 발화 순간 T.G. 본인이 확인 | T.G.: 자신은 1주 이상 B.를 못 봤고 B.도 자신을 본 적 없음. ICU 직원이 알려줬을 가능성은 조사 안 됨 | T.G., 학생 간호사 2명, 의사 |
-| 틀니를 올린 곳 — 카트의 이미 빠져 있던 나무 미닫이 판, 위에 병이 잔뜩 | B. → T.G. | 같음 | 같음 | 카트는 병원 유일·그 방 전용, B. 첫 입원, 견학·책자 없음(2008 T.G.) | 소생팀 전원 |
-| 소생실 배치(세면대 니치·거울·카트·금속 캐비닛) | B. → T.G. | 1994 면담 기록 | T.G. | B.가 그 방에 간 것은 이때뿐(T.G.) | CCU 직원 |
-| 팀원 외모, 중단 논의, T.G.가 마사지했다는 것 | B. → T.G. | 1994 | T.G. | 청각으로 설명 가능한 부분(논의)과 어려운 부분(외모) 혼재 | 소생팀 |
+| It was T.G. who removed the dentures | B. → T.G. | 1991 *Cordiaal* (hearsay), 1994 interview record | Confirmed by T.G. at the moment it was said | T.G.: had not seen B. for more than a week, and B. had never seen T.G. Whether ICU staff told him was not investigated | T.G., the two student nurses, the doctor |
+| Where the dentures were put — the cart's already extended wooden sliding shelf, bottles on top | B. → T.G. | Same | Same | The cart was unique in the hospital and specific to that room; B.'s first admission; no tours or brochures (T.G. 2008) | The whole resuscitation team |
+| Layout of the resuscitation room (basin niche, mirror, cart, metal cabinet) | B. → T.G. | 1994 interview record | T.G. | B. was in that room only on that occasion (T.G.) | CCU staff |
+| Appearance of team members, the discussion about stopping, that T.G. did the massage | B. → T.G. | 1994 | T.G. | Mixed: parts explicable by hearing (the discussion) and parts hard to explain that way (appearance) | The resuscitation team |
 
-모든 항목이 당시 살아 있는 사람(소생팀)이 알던 정보다 → H2(초심리)와 H1을 가르지 못한다.
+Every item was known to people alive at the time (the resuscitation team) → it cannot separate H2 (psi) from H1.
 
-## 7. 이렇게도 설명된다
+## 7. Other ways to explain it
 
-| 항목 | 상태 | 근거 |
+| Item | Status | Reason |
 |---|---|---|
-| F 사기 | 부분 배제 | 금전·명성 동기 없음(T.G. 익명 요구, 환자 미식별, 30년간 공개 추구 없음). 그러나 독립 조사자의 제2 증인 교차 확인 없음(학생 간호사·의사 미면담, 1994·2008은 같은 증인) |
-| M 오인 | 부분 배제 | 환경 기록 상세(밤·저체온·동공 무반응·눈 감김·기계 마사지). 그러나 틀니 제거 순간 순환 유무가 판본마다 다름(#1 vs #4). Woerlee의 "CPR 중 의식·청각 재구성"은 틀니·카트 판의 시각 세부와 왼쪽 위 시점을 설명하기 어려움(#4), 그러나 최종 배제 근거는 T.G. 2008 기억뿐 |
-| D 기억 왜곡·사후 각색 | 배제 못 함 | 선기록 없음(최초 12년 후). 1991↔1994 판본 불일치("멈출까 두려워" vs "멈추길 원함")가 실제로 기록됨. 1994↔2008 일치는 같은 증인의 반복이라 왜곡 배제 근거가 아님 |
-| L 정보 누설·정상 경로 | 부분 배제 | 2008 면담에서 카트 노출 경로(견학·책자·ICU)를 물었고 T.G.가 부정. 그러나 ICU 직원이 "그 간호사가 틀니를 꺼냈다"고 말했을 가능성은 조사 안 됨, 선기록으로 차단 못 함 |
-| E 문화적 기대·암시 | 부분 배제 | 내용이 NDE 정형(터널·빛)과 어긋남. 당사자가 개념을 몰랐다는 것은 T.G.의 인상일 뿐 |
-| N 신경생리·약물·심리 | (기록만) | 저체온(산소 소비 감소로 장시간 소생 가능 — T.G.·Woerlee 모두 지적), CPR 중 의식 회복 사례 문헌(Lewinter 1989, Bihari & Rajajee 2008, Woerlee 2010 인용, 미열람), 저산소 체외감 유발 문헌(Woerlee 2010 인용, 미열람). S층은 감점 없음 |
-| C 우연 일치·기저율 | 부분 배제 | 구체 항목 3개 이상(사람·판·병·방 배치) 일치하나 선기록 없음 |
-| X 선택 보고·기록자 편향 | 배제 못 함 | 전향 연구 모집단 밖의 일화(파일럿 중 간호사 이야기). 수집 기준 없음. Merkawah는 NDE 수집 단체 |
+| F Fraud | Partly ruled out | No motive of money or fame (T.G. asked for anonymity; the patient is unidentified; no publicity sought in 30 years). But no cross-check with a second witness by an independent investigator (student nurses and doctor not interviewed; 1994 and 2008 are the same witness) |
+| M Misperception | Partly ruled out | Detailed environmental record (night, hypothermia, unreactive pupils, closed eyes, mechanical massage). But the circulatory state at the moment of denture removal differs between versions (#1 vs #4). Woerlee's "consciousness during CPR, scene reconstructed from hearing" has difficulty with the visual details of the dentures and shelf and with the top-left viewpoint (#4), but the only ground for ruling it out is T.G.'s 2008 memory |
+| D Memory distortion, later embellishment | Not ruled out | No prior record (first 12 years later). The 1991↔1994 discrepancy ("afraid they would stop" vs "wanted them to stop") is actually on record. 1994↔2008 agreement is the same witness repeating, not evidence against distortion |
+| L Leakage, normal channels | Partly ruled out | In 2008 the routes by which the cart might have been seen (tour, brochure, ICU) were asked about and T.G. denied them. But the possibility that ICU staff said "that nurse took your dentures out" was not investigated, and no prior record blocks it |
+| E Cultural expectation, suggestion | Partly ruled out | The content departs from the NDE stereotype (tunnel, light). That the patient did not know the concept is only T.G.'s impression |
+| N Neurophysiology, drugs, psychology | (recorded only) | Hypothermia (reduced oxygen demand makes prolonged resuscitation survivable — noted by both T.G. and Woerlee); literature on consciousness returning during CPR (Lewinter 1989, Bihari & Rajajee 2008, cited by Woerlee 2010, not opened); literature on hypoxia inducing out-of-body sensations (cited by Woerlee 2010, not opened). No S-layer deduction |
+| C Coincidence, base rate | Partly ruled out | Three or more specific items match (person, shelf, bottles, room layout) but there is no prior record |
+| X Selective reporting, recorder bias | Not ruled out | An anecdote from outside the prospective study's population (a nurse's story heard during the pilot). No collection criteria. Merkawah is an NDE-collecting organisation |
 
-## 8. 양립 가설
+## 8. Compatible hypotheses
 
-| 가설 | 상태 | 근거 |
+| Hypothesis | Status | Reason |
 |---|---|---|
-| H1 사후 생존 | 양립 | V1. 정보가 전부 생존자에게 알려진 것이라 지지도 반박도 아님 |
-| H2 초심리(생존 없음) | 양립 | 모든 검증 정보를 소생팀이 알고 있었음(6절 마지막 칸) |
-| H3 문화 전파 | 판단불가 | S층 미집계. 기록 1991 > 기준 1975. 1979년 네덜란드어 NDE 대중서 접근 가능성 미조사(12절) |
-| H4 신경생리·심리 | 양립 | Woerlee 2010의 저체온·CPR 관류·잠금 상태 가설은 체험 자체와 양립. 시각 세부는 H4만으로는 설명 못 하고 M·L이 판정 |
-| H5 기억 왜곡·사후 각색 | 양립 | 12년 공백, 판본 불일치 기록됨. 가장 살아 있는 가설 |
-| H6 사기 | 양립 | 동기 없음·폭로 없음이나 교차 확인 없음 → '불리' 조건 미충족 |
-| H7 우연·기저율 | 양립 | 선기록 없음 |
-| H8 조사자 효과 | 양립 | 조사 주체 1곳(Merkawah). 1994 면담자가 반복 질문으로 일관성을 시험한 것은 긍정 요인이나 원어 기록 미열람 |
+| H1 Survival after death | Compatible | V1. All the information was known to living people, so neither support nor refutation |
+| H2 Psi without survival | Compatible | All verified information was known to the resuscitation team (§6, last column) |
+| H3 Cultural transmission | Undetermined | Not counted in the S layer. Record 1991 > baseline 1975. Availability of Dutch-language popular NDE books in 1979 not investigated (§12) |
+| H4 Neurophysiology, psychology | Compatible | Woerlee 2010's hypothermia, CPR-perfusion and locked-in hypotheses are compatible with the experience itself. The visual details are not explained by H4 alone; M and L decide |
+| H5 Memory distortion, embellishment | Compatible | 12-year gap; version discrepancies on record. The most live hypothesis |
+| H6 Fraud | Compatible | No motive or exposure, but no cross-check → "unfavourable" condition not met |
+| H7 Chance, base rate | Compatible | No prior record |
+| H8 Investigator effect | Compatible | One investigating body (Merkawah). That the 1994 interviewer tested consistency by repeated questioning is a positive factor, but the original-language record was not opened |
 
-## 9. 반대 자료
+## 9. Counter-evidence
 
-탐색: 2026-10-21 / "dentures anecdote Woerlee", "van Lommel dentures French 2001", UNT JNDS OAI 색인 전수(1081건)에서 Woerlee 검색 / 결과: 아래 3건 + Woerlee 2005 편지 응답(JNDS 23(3), metadc799324·metadc938056, 미열람)
+Search: 2026-10-21 / "dentures anecdote Woerlee", "van Lommel dentures French 2001"; the full UNT JNDS OAI index (1,081 records) searched for Woerlee / Result: the 3 items below + Woerlee's 2005 replies to letters (JNDS 23(3), metadc799324, metadc938056, not opened)
 
-| 출처 | R등급 | 요지 | 이 카드에 미친 영향 |
+| Source | R grade | Gist | Effect on this card |
 |---|---|---|---|
-| French 2001 (#9) | C(S7=1) | 교차 확인 시도가 보고되지 않았다; 과거 교차 확인은 종종 인상이 약해졌다 | 타당한 지적. Smit 2008이 그 교차 확인을 수행한 셈. F·L '부분 배제'의 근거(교차 확인이 같은 조사 주체 안에서만 이뤄짐) |
-| Woerlee 2004 (#10) | C(S2=0 상한) | Lancet 요약만 보고 "효율적 CPR로 의식 있었고, 통증 없었고, 금속 서랍 소리를 들었고, 눈이 반쯤 열려 '형제'를 봤다" | 사실관계 오류 다수(서랍 아님, 눈 감김, 형제 아님, 통증 있었음). 기록만. 영향 없음 |
-| Woerlee 2010 (#3) | C(S2=0 상한) | 1979 네덜란드 구급 시간상 발견 전 순환이 있었어야 함; 저체온은 임상 사망 징후를 무의미하게 함; CPR 관류로 약 20%가 의식 회복(자기 저서 인용); 저산소 마비로 의식 있어도 무반응; 청각으로 장면 재구성; OBE는 저산소 산물 | 사기·누설 '확인' 없음 → 강등 없음. M 항목을 '배제됨'에서 '부분 배제'로 낮춘 근거. 통증 동시 체험은 Smit·Rivas도 "설명 없음" 인정 |
-| Smit & Rivas 2010 (#4) | — (재반박) | T.G. 2008: 틀니는 Thumper 가동 전·순환 0인 1분 이상 동안 제거; 시점은 왼쪽 위 구석; 카트 유일; 청각 재구성은 맹인도 어려움; 통증은 심인성/ESP 추정 | "단일 증인이 아무리 신뢰돼도 보증은 아니다"(p.195)를 저자들이 인정 — S2=1 유지 근거 |
+| French 2001 (#9) | C (S7=1) | No attempt at cross-checking was reported; in the past, cross-checks have often weakened the impression | A valid point. Smit 2008 in effect carried out that cross-check. Ground for "partly ruled out" on F and L (the cross-check took place only within the same investigating body) |
+| Woerlee 2004 (#10) | C (S2=0 cap) | From the Lancet summary alone: the patient was conscious because of efficient CPR, felt no pain, heard the sound of a metal drawer, and saw a "brother" with half-open eyes | Many factual errors (not a drawer; eyes closed; not a brother; there was pain). Recorded only. No effect |
+| Woerlee 2010 (#3) | C (S2=0 cap) | Given 1979 Dutch ambulance times, circulation must have been present before he was found; hypothermia makes clinical signs of death meaningless; CPR perfusion restores consciousness in about 20% (citing own book); hypoxic paralysis allows consciousness without response; the scene reconstructed from hearing; the OBE a product of hypoxia | No "confirmed" fraud or leakage → no downgrade. Ground for lowering M from "ruled out" to "partly ruled out". Smit & Rivas concede they have "no explanation" for the simultaneous pain |
+| Smit & Rivas 2010 (#4) | — (reply) | T.G. 2008: dentures removed before the Thumper was switched on, during more than a minute of zero circulation; viewpoint the top left corner; the cart unique; reconstruction from hearing hard even for the blind; the pain conjectured psychogenic or ESP | The authors concede that however reliable, a single witness is "no guarantee" (p.195) — ground for keeping S2=1 |
 
-## 10. 연결
+## 10. Connections
 
-탐색: 2026-10-21 / 출처 #2·#3·#4 참고문헌, UNT JNDS 색인 / 결과: 아래
+Search: 2026-10-21 / references of #2, #3, #4; UNT JNDS index / Result: below
 
-| 대상 `[[id]]` | 관계 유형(R-*) | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation (R-*) | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[O-Merkawah]] | R-INV | 중립 | 확인 | 기록자 전원 소속(Meijers·van Wees·Addink·Smit·Rivas), van Lommel 창립 관련 [#2 #4] |
-| [[P-TG-witness-1979]] | R-PER | 중립 | 확인 | 유일 증인. 1994·2008 면담, 2008 자필 논평 |
-| [[P-Woerlee-GM]] | R-REB | 중립 | 확인 | 2004·2010 반박. 같은 저자가 Pam Reynolds 사례(JNDS 30(1), 2011)도 반박 — 후보 카드 NDE-US-1991-reynolds와 R-REB 공유 |
-| [[M-obe-veridical-resuscitation]] | R-MOT | 미정 | 확인 | 모티프 장부 첫 항목. S층 집계 자격은 없으나 모티프 연표에는 기록 |
-| [[NDE-INTL-2014-aware]] | R-TXT | 전파(연구 설계) | 미확인 | van Lommel 2001이 AWARE 설계의 선행 문헌이라는 가정. AWARE 카드 작성 시 참고문헌으로 확인 |
+| [[O-Merkawah]] | R-INV | Neutral | Confirmed | All recorders belonged to it (Meijers, van Wees, Addink, Smit, Rivas); van Lommel connected with its founding [#2 #4] |
+| [[P-TG-witness-1979]] | R-PER | Neutral | Confirmed | Sole witness. Interviews 1994 and 2008; written comment 2008 |
+| [[P-Woerlee-GM]] | R-REB | Neutral | Confirmed | Rebuttals 2004 and 2010. The same author also rebutted the Pam Reynolds case (JNDS 30(1), 2011) — shares R-REB with candidate card NDE-US-1991-reynolds |
+| [[M-obe-veridical-resuscitation]] | R-MOT | Undecided | Confirmed | First entry in the motif ledger. Not eligible for the S-layer count but recorded in the motif timeline |
+| [[NDE-INTL-2014-aware]] | R-TXT | Transmission (research design) | Unverified | Assumption that van Lommel 2001 is a precursor of the AWARE design. To check in the AWARE card's references |
 
-## 11. 문화 독립성
+## 11. Cultural independence
 
-클러스터: EU-W / 기록 연도 1991 vs 기준 연도 NDE 1975 → 이후 / 조사 주체: O-Merkawah
+Cluster: EU-W / record year 1991 vs baseline year for NDE 1975 → after / investigating body: O-Merkawah
 
-| 경로 | 배제 / 불명 / 확인 | 근거 (10절의 전파 연결 포함) |
+| Path | Ruled out / unknown / confirmed | Reason (including transmission links from §10) |
 |---|---|---|
-| ① 직접 접촉 | 배제 | 다른 카드와 가족·마을·정보원 중복 없음 |
-| ② 번역·출판 | 불명 | 1979년 시점 Moody 『Life After Life』 네덜란드어판 유통 여부 미조사 |
-| ③ 선교·종교 전파 | 배제 | 해당 없음(기독교권 내부, 외부 교리 도입 없음) |
-| ④ 대중매체 | 불명 | 기록 1991·사건 1979 모두 기준 연도 이후. T.G.는 B.가 개념을 몰랐다고 보지만 인상일 뿐 |
-| ⑤ 같은 조사 주체 | 배제 | 현재 다른 카드에 Merkawah 조사 사례 없음(AWARE는 다른 주체) |
+| ① Direct contact | Ruled out | No overlap of family, village or informant with any other card |
+| ② Translation, publication | Unknown | Whether a Dutch edition of Moody's *Life After Life* circulated by 1979 not investigated |
+| ③ Missionary, religious transmission | Ruled out | Not applicable (within Christendom; no outside doctrine introduced) |
+| ④ Mass media | Unknown | Both the record (1991) and the event (1979) fall after the baseline year. T.G. believes B. did not know the concept, but that is an impression |
+| ⑤ Same investigating body | Ruled out | No other card at present with a Merkawah-investigated case (AWARE is a different body) |
 
-→ 독립성 등급: **I1** (S층 미집계이므로 판정에 영향 없음. V층은 독립성을 조건으로 삼지 않음)
+→ Independence grade **I1** (no effect on the verdict since the S layer is not counted; the V layer does not condition on independence)
 
-## 12. 메모
+## 12. Notes
 
-- 이 카드로 METHOD v0.2가 생겼다(NDE V층 입장 조건). 대표님이 거부하면 "유사 사례"로 되돌린다.
-- 결과가 뜻하는 것: 가장 유명한 검증 NDE 일화가 이 등급표로는 **C/V1**이다. 기록이 약해서지 사건이 약해서가 아니다 — 단일 증인, 최초 기록 12년 후, 한 조사 주체, 판본 불일치. "유명한 일화는 증거가 아니다"의 표본이고, 대조군으로 AWARE(전향·선기록)가 왜 필요한지를 보여준다.
-- 미해결: ② 1977년 전후 네덜란드어 NDE 대중서(Moody 번역) 유통 — 확인되면 ④와 함께 '확인'으로 바뀔 수 있으나 S층 미집계라 영향 작음. ② "상·하 틀니"(1994) vs "상악"(Lancet) 불일치. ③ 틀니 제거 시 순환 유무 — Lancet판(마사지 중)과 T.G. 2008판(기계 가동 전) 차이의 원인이 Lancet 저자들의 재구성인지 T.G. 기억 변화인지 불명. ④ 1979 연도의 출처가 Woerlee 2010뿐(Rivas 2008 면담에서 나온 것으로 추정). ⑤ ICU 직원 경유 정보 전달 가능성(L)은 어느 조사자도 묻지 않음.
-- 다음에 열어볼 것: Rivas·Dirven·Smit 『The Self Does Not Die』(2016) 영역본의 이 사건 항목(Anny Dirven의 B. 추적 결과가 있을 수 있음) — 무료 사본 없으면 미확인 유지. Woerlee 2005 편지(metadc799324, metadc938056). Lancet 2001 전문(유료; 저자 사이트 사본 미발견).
-- 도구: UNT PDF는 봇 차단이지만 IIIF `manifest/`와 `m1/<p>/annotations/ocr/`는 열린다 → `tools/unt_ocr.py`. JNDS 전체 색인은 `sources/unt-jnds-index.tsv`.
+- This card gave rise to METHOD v0.2 (NDE V-layer entry conditions). If the owner rejects it, the card reverts to "similar case".
+- What the result means: the most famous verified-NDE anecdote grades **C/V1** on this scale. The record is weak, not the event: a single witness, first record 12 years later, one investigating body, version discrepancies. It is a specimen of "a famous anecdote is not evidence", and shows why AWARE (prospective, with records made in advance) is needed as a control.
+- Unresolved: ① circulation of Dutch-language popular NDE books (the Moody translation) around 1977 — if confirmed, ② and ④ in §11 could change to "confirmed", with little effect since the S layer is not counted. ② "upper and lower dentures" (1994) vs "upper" (Lancet). ③ The circulatory state at denture removal — whether the difference between the Lancet version (during massage) and T.G.'s 2008 version (before the machine was switched on) comes from the Lancet authors' reconstruction or from a change in T.G.'s memory is unknown. ④ The year 1979 rests on Woerlee 2010 alone (presumably from the Rivas 2008 interview). ⑤ The possibility of information passing via ICU staff (L) was asked by no investigator.
+- To open next: the entry on this case in the English edition of Rivas, Dirven & Smit, *The Self Does Not Die* (2016), which may contain the result of Anny Dirven's search for B. — remains unverified if no free copy exists. Woerlee's 2005 letters (metadc799324, metadc938056). Lancet 2001 full text (paywalled; no copy found on the authors' sites).
+- Tools: UNT PDFs block automated access, but the IIIF `manifest/` and `m1/<p>/annotations/ocr/` open → `tools/unt_ocr.py`. Full JNDS index in `sources/unt-jnds-index.tsv`.
 
-## 13. 자료
+## 13. Materials
 
-규칙은 METHOD 9절. 사진은 이해를 돕는 것이지 증거가 아니고 등급에 영향이 없다. 목록과 라이선스는 `assets/index.md`.
+Rules in METHOD §9. Photographs aid understanding; they are not evidence and do not affect grades. The images themselves appear above in "What happened"; this is the list. Full licence records in `assets/index.md`.
 
-![[NDE-NL-1979-dentures--sequence.svg]]
-*도해 · 사건 순서와 검증 정보가 놓인 자리. 이 카드의 3·6·7절을 그림으로 옮긴 것으로 **기록이 아니다** · William 작성, 생성 코드 `tools/diagrams/NDE-NL-1979-dentures.py`*
+| File | Kind | What | Source · licence |
+|---|---|---|---|
+| `NDE-NL-1979-dentures--ooij-waal-winter.jpg` | ② Place (reference) | Winter on the Waal floodplain near Ooij, 2021. The place where B. was found is not recorded | Lendskaip, Wikimedia Commons · CC0 |
+| `NDE-NL-1979-dentures--canisius-hospital-1960.jpg` | ② Place | Main building and entrance of the St Canisius Hospital, 1960. The St. Annastraat building, 1926–1992 | Regionaal Archief Nijmegen F12159, Fotopersbureau Gelderland, Wikimedia Commons · CC BY-SA 4.0 |
+| `NDE-NL-1979-dentures--crash-cart-example.jpg` | ② Object (reference) | A present-day crash cart (Spain, 2014). No photograph of the cart in the case exists | Manuel Ramallo, Wikimedia Commons · CC0 |
+| `NDE-NL-1979-dentures--sequence.svg` | ④ Diagram | The sequence of events and where the verified information sits. **Not a record** | Drawn by William, `tools/diagrams/NDE-NL-1979-dentures.py` |
 
-![[NDE-NL-1979-dentures--canisius-hospital-1960.jpg]]
-*네이메헌 성 카니시우스 병원 본관과 정문, 1960년. 1926~1992년 St. Annastraat에 있던 건물로 1979년 소생이 이뤄진 병원이다(CCU는 3층이었다는 T.G.의 말 외에 소생실이 어느 동인지는 기록 없음) · Regionaal Archief Nijmegen F12159, Fotopersbureau Gelderland, Wikimedia Commons · CC BY-SA 4.0*
-
-![[NDE-NL-1979-dentures--ooij-waal-winter.jpg]]
-*참고 · 오이(Ooij) 근처 발(Waal)강 범람원의 겨울 풍경, 2021년 2월. B.가 발견된 초원이 어디인지는 기록에 없다. 지역 참고 사진 · Lendskaip, Wikimedia Commons · CC0*
-
-![[NDE-NL-1979-dentures--crash-cart-example.jpg]]
-*참고 · 오늘날의 크래시 카트 예(스페인, 2014). 1979년 카니시우스 소생실의 카트는 병원 기술진이 그 방을 위해 만든 것으로 병원 어디에도 같은 것이 없었고(#2 #4) 사진은 없다 · Manuel Ramallo, Wikimedia Commons · CC0*
-
-- 저작권으로 넣지 않은 것: JNDS 4편의 쪽(ⓒ IANDS, UNT 메타데이터), Lancet 2001 쪽. 4절 링크로 본다.
-- 신문·기록 탐색(2026-10-22): Delpher(네덜란드 왕립도서관 신문 아카이브, DDD) 1979-09-01~1980-03-31 범위에서 `Ooij AND weiland AND reanimatie`, `Ooij AND onderkoeld`, `Ooij AND Canisius AND reanimatie`, `(Ooij OR Ooy) AND (weiland OR wei OR polder) AND (gevonden OR bewusteloos OR onderkoeling)` → **0건**. 같은 기간 전국지는 'Nijmegen'으로 1,345건이 나오지만 지역지 De Gelderlander는 1979년치가 Delpher에 없다(`papertitle="De Gelderlander"` 0건). 따라서 지역 보도 유무는 **미확인**이지 '없음'이 아니다. 1991년 Cordiaal 기사는 디지털 아카이브가 없다.
-- 다음에 찾을 것: Regionaal Archief Nijmegen의 De Gelderlander 디지털판(있으면 1979년 11~12월 "Ooij" 검색), 1979년 카니시우스 병원 CCU·소생실 사진(같은 아카이브).
+- Not included for copyright reasons: pages of the four JNDS papers (© IANDS, per UNT metadata) and of the Lancet 2001 paper. See the links in §4.
+- Newspaper and archive search (2026-10-22): Delpher (the Dutch Royal Library's newspaper archive, DDD), 1979-09-01 to 1980-03-31, for `Ooij AND weiland AND reanimatie`, `Ooij AND onderkoeld`, `Ooij AND Canisius AND reanimatie`, `(Ooij OR Ooy) AND (weiland OR wei OR polder) AND (gevonden OR bewusteloos OR onderkoeling)` → **0 hits**. National papers for the same period return 1,345 hits for 'Nijmegen', but the regional paper De Gelderlander has no 1979 issues in Delpher (`papertitle="De Gelderlander"` → 0). So whether the local press reported the event is **unverified**, not "no". The 1991 *Cordiaal* article has no digital archive.
+- To look for next: a digital edition of De Gelderlander at the Regionaal Archief Nijmegen (if it exists, search "Ooij" for November–December 1979); photographs of the Canisius Hospital CCU or resuscitation room in 1979 (same archive).

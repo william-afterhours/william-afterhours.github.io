@@ -2,6 +2,15 @@
 
 ## 현재 상태 (2026-10-23, 세션 4)
 
+- **읽기 개편 + 영어 주판(2026-10-23, 세션 4 후반, 대표님 지시)**: 대표님 지적 세 가지(사이트 제목에 William 이름이 있다 → 저자란으로, 사람이 쓴 글 같지 않아 읽기 어렵다, 사진·그림이 안 보인다)와 "출처도 중요한 단서니 꼭 기록", "물론 영문판이 main이겠지"를 반영했다.
+  - ① 사이트 이름 **The Paranormal Ledger**, 저자란 컴포넌트 `site/components/Byline.tsx`(글쓴이·날짜·읽는 시간; 프론트매터 `lang: ko`면 "글 William · 2026년 10월 23일 · 읽는 데 n분"). `assemble.sh`가 Quartz `components/`로 복사한다.
+  - ② 카드 **두 층**(METHOD 9절): 위층 "읽는 글"(리드 인용문 → What happened(사진·지도·도해를 해당 대목 사이에 캡션과 함께) → How far can this record be trusted → Other ways to explain it) / `---` / 아래층 "조사 장부" §1–13은 출처 번호·점수 그대로. 출처는 어느 층에서도 빠지지 않는다.
+  - ③ **영어가 주판**: 카드 2건·README·템플릿을 영어로 다시 썼다(이전엔 한국어뿐이었다). 한국어는 `ko/cases/<id>-ko.md`에 읽는 글만 두고 "출처" 절이 영어 장부를 가리킨다. 장부는 한 벌(영어)만 — 두 벌이면 어긋난다. 파일명 `-ko` 접미사는 Quartz "shortest" 링크 해석의 충돌을 피하기 위해서다.
+  - ④ 도해는 `tools/diagrams/<id>.py en|ko`로 두 언어 SVG(`--sequence.svg`/`--sequence-ko.svg`, `--timeline.svg`/`--timeline-ko.svg`). 1920년 지도의 설명 상자는 영어. 폴더 페이지 `index.md`(Cases·Documents·Entities·Sources·Materials, `ko/`는 한국어·사건 카드).
+  - ⑤ 마크다운 굵게가 깨지는 패턴 `**…)**은`(닫는 `**` 앞이 문장부호, 뒤가 글자)을 `ko/index.md`·METHOD에서 고쳤다. 한국어 문서를 쓸 때 조심.
+  - **아직 한국어인 것**: `docs/METHOD.md`·`CHARTER.md`·`entities/`·`sources/`·`assets/index.md` 본문. 영어 주판이므로 다음 세션에 옮긴다(README·폴더 페이지에 "translation in progress"라고 적어 둠).
+  - 로컬 미리보기(재개용): Quartz 4.5.2 소스가 스크래치패드에 있으면 `bash site/assemble.sh . <quartz-src>` → `cd <quartz-src> && npx quartz build --serve --port 8080`(백그라운드; 종료되면 이 serve 명령만 다시). 헤드리스 Chrome 스크린샷은 1440×900 같은 보통 크기로 찍는다 — 탐색기가 현재 항목을 `scrollIntoView`해서 아주 긴 창에서는 화면이 밀려 보이는데 실제 브라우저 문제가 아니다.
+  - **대표님 지시(2026-10-23)**: 보고에 비용·토큰 이야기를 쓰지 않는다. 아래 "토큰" 절은 기록용 한 줄만.
 - **공개 준비(2026-10-23, 세션 4)**: 대표님이 "홈페이지 비슷한 거 만들어서 공개하는 거 아니었나"고 물음 → 공개 전환을 SYNTHESIS v1 시점에서 **지금으로 앞당기는 추천안**을 올리고 확인 대기 중. 작업 트리는 공개 가능하게 정리함: 운영 메모를 저장소 밖으로 이전, CHARTER의 다른 직원 언급 삭제, 카드 2의 1924년생 아기 이름을 이니셜로, README 카드 표에 카드 2 추가. 사이트 손질: 체크된 체크리스트의 취소선 제거(`site/custom.scss`), 첫 페이지 제목 중복 제거(`assemble.sh`). 로컬 미리보기(Quartz 4.5.2를 스크래치패드에 받아 `assemble.sh` → `npm ci` → `npx quartz build --serve --port 8080`, 헤드리스 Chrome 스크린샷)로 홈·카드 2 화면 확인해 대표님께 보냄.
   - **공개 직전에 할 것(대표님 확인 뒤)**: ① git 이력 정리 — 커밋 4곳(2bbc7bc·0c948d5·7eb7bf1·b0a0847 등)의 `docs/NEXT_STEPS.md`·`CHARTER.md`에 운영 문장이 남아 있음. 커밋 11개뿐이고 등급 변경 이력은 아직 없으므로 `git filter-branch --tree-filter`(Python 치환)로 그 문장만 지우고 force-push. 토큰·비밀번호는 이력에 없음(grep 확인). ② `gh repo edit --visibility public` ③ Pages 소스 "GitHub Actions"(API) ④ 워크플로 재실행 → https://william-afterhours.github.io/ 확인 ⑤ giscus는 대표님 브라우저(Trove 키와 묶음).
 - **자료 층 신설(2026-10-22, 대표님 지시 "자료 사진 그림 삽화 등으로 잘 모아서 같이 정리", "신문 등은 이용하고 출처 확실히 남기고")**: `assets/`(파일 + `index.md` 목록·규칙), METHOD 9절 "시각 자료 규칙"(13절 "자료" 칸 추가), 카드·템플릿 13절, `tools/commons_fetch.py`(Commons 라이선스 확인·받기), `tools/diagrams/<id>.py`(도해 생성). 카드 1에 4건 적용(병원 1960 사진 CC BY-SA, 오이 범람원 참고 CC0, 크래시 카트 참고 CC0, 사건 순서 도해 SVG). 로컬 Quartz 빌드로 이미지·자료 페이지 확인됨.
@@ -23,6 +32,8 @@
   - 공개 전환 때 할 것(이력 정리는 위 세션 4 항목): Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
 
 ## 다음 세션에 할 일
+
+**먼저**: 영어 주판 마무리 — `docs/METHOD.md`·`CHARTER.md`·`entities/*`·`sources/*`·`assets/index.md` 본문을 영어로(한국어는 `ko/`에 읽는 글만). 엔티티 제목이 영어가 되면 영어 카드의 백링크·그래프 표시도 영어가 된다.
 
 1. 대표님 답을 반영: METHOD v0.2 유지/복귀(기록 장소는 확정·개설 완료).
 2. 카드 3(추천): `NDE-US-1991-reynolds`(Sabom 1998; Woerlee 2011 반박 UNT metadc461684·461715 — 반대 자료가 무료로 열려 있어 counter 축을 제대로 쓸 수 있는 첫 카드). 대안 `NDE-INTL-2014-aware`(V층 대조군; Resuscitation 2014 저자 사본 탐색).
@@ -65,6 +76,7 @@
 - 세션 3(2026-10-22): 저장소 개설 마무리 + 자료 층. 추정 입력 누적 약 15–25만(이미지 열람 5장 포함), 출력 약 2만.
 - 세션 3 후반(2026-10-22, 카드 2): 컨텍스트가 한 번 가득 차 요약됐다. 추정 입력 누적 약 30–40만(Barrett OCR 창 읽기, 쪽 이미지 5장, FreeBMD 결과 4건, Commons 이미지 3장, 도해 렌더 2회), 출력 약 4만(카드·엔티티 4·출처 요약·도해 코드). 절감: 전문 OCR은 스크래치패드에만 두고 장별 오프셋만 `sources/`에 기록해 다음 DBV 카드는 필요한 창만 읽는다.
 - 세션 4(2026-10-23, 공개 준비): 추정 입력 누적 약 10–15만(사이트 스크린샷 4장 열람 포함), 출력 약 1만. 큰 읽기 없음.
+- 세션 4 후반(2026-10-23, 읽기 개편·영어 주판): 컨텍스트 요약 1회. 추정 입력 누적 약 30만(스크린샷 12장·도해 렌더 3장), 출력 약 5만(카드 2건 영어 재작성, 한국어 읽는 글 2건, 템플릿·README·도해 코드 2벌). 기록용 한 줄 — 보고에는 쓰지 않는다(대표님 지시).
 - 세션 2: `/cost`를 직접 볼 수 없어 추정. 컨텍스트가 한 번 가득 차 요약됐으므로 본 세션 입력 누적 약 25–35만(웹·OCR 본문 읽기가 대부분, Woerlee 2010·Smit&Rivas 2010·Smit 2008·Woerlee 2004 전문 4편), 출력 약 3만. 대표님이 `/cost`를 치면 정확한 수치가 나온다.
 - 비용 절감 메모: JNDS 색인(OAI)을 받아 두어 다음 NDE 카드는 검색 토큰이 거의 들지 않는다. 전문은 스크래치패드에만 두고 저장소에는 요약만(저작권).
 - 등급표의 잠정값(1회차 조사에서 확정할 것): 매체 확산 기준 연도(NDE 1975 / CORT 1956 / CA·DBV 1900)는 근거 문헌 미확인. 수렴 판정 숫자(4클러스터·V2 3건)는 William의 판단이라 대표님이 조정 가능.

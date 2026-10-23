@@ -1,105 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="740" viewBox="0 0 1240 740" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','Noto Sans CJK KR',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="680" viewBox="0 0 1240 680" font-family="'Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif">
 <defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#6b6b6b"/></marker></defs>
-<rect width="1240" height="740" fill="#faf8f8"/>
-<text x="20" y="34" font-size="20" fill="#2b2b2b" font-weight="bold" text-anchor="start">1979년 네덜란드 틀니 사례 — 사건 순서와 검증 정보가 놓인 자리</text>
-<text x="20" y="56" font-size="12" fill="#6b6b6b" font-weight="normal" text-anchor="start">카드 NDE-NL-1979-dentures 3절·6절·7절의 사실만 옮김. 세부는 판본에 따라 다르며 카드에 출처 번호가 있다.</text>
+<rect width="1240" height="680" fill="#faf8f8"/>
+<text x="20" y="34" font-size="20" fill="#2b2b2b" font-weight="bold" text-anchor="start">The dentures case, Netherlands 1979 — sequence of events and where the verified information sits</text>
+<text x="20" y="56" font-size="12" fill="#6b6b6b" font-weight="normal" text-anchor="start">Facts from §3, §6 and §7 of card NDE-NL-1979-dentures only. Details differ between versions; source numbers are in the card.</text>
 <rect x="20" y="80" width="185" height="172" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="32" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">1 발견</text>
-<text x="32" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1979년 말 추운 밤.</text>
-<text x="32" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">오이(Ooij) 초원에</text>
-<text x="32" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">누워 있던 40대 남성 B.</text>
-<text x="32" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">무맥박·무호흡·</text>
-<text x="32" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">심실세동. 얼마나</text>
-<text x="32" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">누워 있었는지 불명.</text>
+<text x="32" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">1 Found</text>
+<text x="32" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Late 1979, a cold night.</text>
+<text x="32" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">B., a man in his 40s, lying</text>
+<text x="32" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">in a meadow at Ooij.</text>
+<text x="32" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">No pulse, no breathing,</text>
+<text x="32" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">ventricular fibrillation.</text>
+<text x="32" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Time on the ground unknown.</text>
 <line x1="205" y1="166.0" x2="217" y2="166.0" stroke="#6b6b6b" stroke-width="1.5" marker-end="url(#ah)"/>
 <rect x="223" y="80" width="185" height="172" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="235" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">2 이송</text>
-<text x="235" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">구급대 소생 시작,</text>
-<text x="235" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">30분 안에 네이메헌</text>
-<text x="235" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">카니시우스 병원</text>
-<text x="235" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">CCU 소생실로.</text>
-<text x="235" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">푸른 반점·얼음처럼</text>
-<text x="235" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">찬 몸·동공 무반응.</text>
+<text x="235" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">2 Transfer</text>
+<text x="235" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Ambulance crew begin CPR;</text>
+<text x="235" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">within 30 min to the CCU</text>
+<text x="235" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">resuscitation room of the</text>
+<text x="235" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Canisius Hospital, Nijmegen.</text>
+<text x="235" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Bluish patches, ice-cold</text>
+<text x="235" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">body, pupils unreactive.</text>
 <line x1="408" y1="166.0" x2="420" y2="166.0" stroke="#6b6b6b" stroke-width="1.5" marker-end="url(#ah)"/>
 <rect x="426" y="80" width="185" height="172" rx="6" fill="#fbf1ea" stroke="#b5541c" stroke-width="2"/>
-<text x="438" y="104" font-size="14" fill="#b5541c" font-weight="bold" text-anchor="start">3 틀니</text>
-<text x="438" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">삽관하려다 틀니 발견.</text>
-<text x="438" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">간호사 T.G.가 빼서</text>
-<text x="438" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">크래시 카트의 이미</text>
-<text x="438" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">빼놓은 나무 미닫이</text>
-<text x="438" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">판 위에 올림.</text>
-<text x="438" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">(순환 상태는 판본 차이)</text>
+<text x="438" y="104" font-size="14" fill="#b5541c" font-weight="bold" text-anchor="start">3 Dentures</text>
+<text x="438" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Dentures found on trying</text>
+<text x="438" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">to intubate. Nurse T.G.</text>
+<text x="438" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">removes them, puts them on</text>
+<text x="438" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">the crash cart's already</text>
+<text x="438" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">extended wooden shelf.</text>
+<text x="438" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">(Circulation at that moment:</text>
+<text x="438" y="228" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">versions differ)</text>
 <line x1="611" y1="166.0" x2="623" y2="166.0" stroke="#6b6b6b" stroke-width="1.5" marker-end="url(#ah)"/>
 <rect x="629" y="80" width="185" height="172" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="641" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">4 소생</text>
-<text x="641" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1시간 이상. 수동·기계</text>
-<text x="641" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">심장마사지, 제세동</text>
-<text x="641" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">5회. 15분쯤 뒤 팀은</text>
-<text x="641" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">중단을 눈짓으로 논의.</text>
-<text x="641" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">눈은 감겨 있었음.</text>
-<text x="641" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ ICU 수일.</text>
+<text x="641" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">4 Resuscitation</text>
+<text x="641" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Over an hour. Manual and</text>
+<text x="641" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">mechanical massage, five</text>
+<text x="641" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">shocks. After ~15 min the</text>
+<text x="641" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">team exchange looks about</text>
+<text x="641" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">stopping. Eyes closed.</text>
+<text x="641" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ ICU for several days.</text>
 <line x1="814" y1="166.0" x2="826" y2="166.0" stroke="#6b6b6b" stroke-width="1.5" marker-end="url(#ah)"/>
 <rect x="832" y="80" width="185" height="172" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="844" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">5 재회</text>
-<text x="844" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1주 이상 뒤 재활 병동.</text>
-<text x="844" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">B.가 T.G.를 보자마자</text>
-<text x="844" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">“당신이 내 틀니를</text>
-<text x="844" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">꺼내 그 카트 판 위에</text>
-<text x="844" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">놓았다”. 소생실 배치·</text>
-<text x="844" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">팀원 외모도 묘사.</text>
+<text x="844" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">5 Reunion</text>
+<text x="844" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1+ week later, rehab ward.</text>
+<text x="844" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">B. on seeing T.G.: "you took</text>
+<text x="844" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">my dentures out and put</text>
+<text x="844" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">them on that cart's shelf".</text>
+<text x="844" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Describes the room layout</text>
+<text x="844" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">and the team's appearance.</text>
 <line x1="1017" y1="166.0" x2="1029" y2="166.0" stroke="#6b6b6b" stroke-width="1.5" marker-end="url(#ah)"/>
 <rect x="1035" y="80" width="185" height="172" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="1047" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">6 기록</text>
-<text x="1047" y="126" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1991 간호지 Cordiaal</text>
-<text x="1047" y="144" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">(전언, 짧게)</text>
-<text x="1047" y="162" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1994 Merkawah 면담</text>
-<text x="1047" y="180" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">12쪽 (최초 상세 기록)</text>
-<text x="1047" y="198" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">2001 Lancet 요약</text>
-<text x="1047" y="216" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">2008 재면담: 1994와 일치</text>
+<text x="1047" y="104" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">6 Record</text>
+<text x="1047" y="126" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1991 nursing journal</text>
+<text x="1047" y="143" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">Cordiaal (hearsay, brief)</text>
+<text x="1047" y="160" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">1994 Merkawah interview,</text>
+<text x="1047" y="177" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">12 pp. (first full record)</text>
+<text x="1047" y="194" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">2001 Lancet summary</text>
+<text x="1047" y="211" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">2008 re-interview = 1994</text>
 <path d="M518.5,252 v22" stroke="#b5541c" stroke-width="1.5"/>
-<rect x="396" y="274" width="245" height="46" rx="6" fill="#b5541c"/>
-<text x="518.5" y="293" font-size="13" fill="#ffffff" font-weight="bold" text-anchor="middle">검증 정보가 만들어진 순간</text>
-<text x="518.5" y="311" font-size="11.5" fill="#ffffff" font-weight="normal" text-anchor="middle">B.는 의식 없음 · 눈 감김 · 동공 무반응으로 기록됨</text>
-<text x="20" y="344" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">B.가 말한 것 중 확인된 정보 (6절)</text>
+<rect x="326" y="274" width="385" height="46" rx="6" fill="#b5541c"/>
+<text x="518.5" y="293" font-size="13" fill="#ffffff" font-weight="bold" text-anchor="middle">The moment the verified information was created</text>
+<text x="518.5" y="311" font-size="11.5" fill="#ffffff" font-weight="normal" text-anchor="middle">B. recorded as unconscious · eyes closed · pupils unreactive</text>
+<text x="20" y="344" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">What B. said that was confirmed (§6)</text>
 <rect x="20" y="356" width="1200" height="78" rx="6" fill="#eef2f5" stroke="#284b63" stroke-width="0.8"/>
-<text x="32.0" y="384" font-size="12" fill="#2b2b2b" font-weight="bold" text-anchor="start">틀니를 꺼낸 사람이 T.G.</text>
-<text x="32.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">T.G.는 1주 이상 B.를 못 봄</text>
-<text x="332.0" y="384" font-size="12" fill="#2b2b2b" font-weight="bold" text-anchor="start">틀니를 올린 자리: 빼놓은 나무 판, 위에 병 잔뜩</text>
-<text x="332.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">카트는 그 방 전용·병원 유일</text>
-<text x="632.0" y="384" font-size="12" fill="#2b2b2b" font-weight="bold" text-anchor="start">소생실 배치(세면대·거울·카트·캐비닛)</text>
-<text x="632.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">B.는 이 병원 첫 입원</text>
-<text x="932.0" y="384" font-size="12" fill="#2b2b2b" font-weight="bold" text-anchor="start">팀원 외모·중단 논의·T.G.의 마사지</text>
-<text x="932.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">일부는 청각으로도 설명 가능</text>
-<text x="1210" y="426" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="end">전부 당시 소생팀이 알던 정보 → 초심리(H2)와 사후 의식(H1)을 가르지 못함</text>
-<text x="20" y="462" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">이렇게도 설명된다 (7절) — 그래서 등급이 C / V1</text>
+<text x="32.0" y="384" font-size="11.5" fill="#2b2b2b" font-weight="bold" text-anchor="start">It was T.G. who removed the dentures</text>
+<text x="32.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">T.G. had not seen B. for 1+ week</text>
+<text x="332.0" y="384" font-size="11.5" fill="#2b2b2b" font-weight="bold" text-anchor="start">Where put: wooden shelf, bottles on top</text>
+<text x="332.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">Cart unique to that room and hospital</text>
+<text x="632.0" y="384" font-size="11.5" fill="#2b2b2b" font-weight="bold" text-anchor="start">Room layout (basin, mirror, cart, cabinet)</text>
+<text x="632.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">B.'s first admission to this hospital</text>
+<text x="932.0" y="384" font-size="11.5" fill="#2b2b2b" font-weight="bold" text-anchor="start">Team's looks · talk of stopping · the massage</text>
+<text x="932.0" y="404" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">Partly explicable by hearing</text>
+<text x="1210" y="426" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="end">All known to the resuscitation team at the time → cannot separate psi (H2) from survival (H1)</text>
+<text x="20" y="462" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">Other ways to explain it (§7) — hence the grades C / V1</text>
 <rect x="20.0" y="474" width="288.0" height="150" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="32.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">청각 재구성 (N)</text>
-<text x="32.0" y="520" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">마사지 중 관류로 의식이 조금 있어</text>
-<text x="32.0" y="538" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">소리를 듣고 장면을 재구성했다</text>
-<text x="32.0" y="556" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">(Woerlee 2004·2010).</text>
-<text x="32.0" y="574" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">↔ 판의 위치·팀원 외모는 소리로</text>
-<text x="32.0" y="592" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">안 되고, 카트는 그 방 유일</text>
-<text x="32.0" y="610" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">(Smit·Rivas 2010). → 부분 배제</text>
+<text x="32.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">Reconstructed from hearing (N)</text>
+<text x="32.0" y="520" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Some consciousness through CPR</text>
+<text x="32.0" y="536" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">perfusion; scene pieced together</text>
+<text x="32.0" y="552" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">from sound (Woerlee 2004, 2010).</text>
+<text x="32.0" y="568" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">↔ Shelf's look and team's faces</text>
+<text x="32.0" y="584" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">not explained by sound; the cart</text>
+<text x="32.0" y="600" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">unique (Smit &amp; Rivas 2010).</text>
+<text x="32.0" y="616" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ partly ruled out</text>
 <rect x="324.0" y="474" width="288.0" height="150" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="336.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">정보 누설 (L)</text>
-<text x="336.0" y="520" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">ICU에서 1주 넘게 지내는 동안</text>
-<text x="336.0" y="538" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">직원이 틀니 이야기를 했을 수 있다.</text>
-<text x="336.0" y="556" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">어느 조사자도 이 경로를 묻지</text>
-<text x="336.0" y="574" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">않았다. → 배제 못 함</text>
+<text x="336.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">Leakage (L)</text>
+<text x="336.0" y="520" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">During 1+ week in the ICU, staff</text>
+<text x="336.0" y="536" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">may have mentioned the dentures.</text>
+<text x="336.0" y="552" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">No investigator asked about</text>
+<text x="336.0" y="568" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">this route.</text>
+<text x="336.0" y="584" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ not ruled out</text>
 <rect x="628.0" y="474" width="288.0" height="150" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
-<text x="640.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">기억 변화·단일 증인 (D·X)</text>
-<text x="640.0" y="520" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">최초 상세 기록은 사건 12년 뒤.</text>
-<text x="640.0" y="538" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">증인은 T.G. 한 사람. 판본마다</text>
-<text x="640.0" y="556" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">세부가 다르다(상악/상·하 틀니,</text>
-<text x="640.0" y="574" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">순환 유무). 1994↔2008은 일치.</text>
-<text x="640.0" y="592" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ 배제 못 함</text>
+<text x="640.0" y="498" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">Memory, single witness (D·X)</text>
+<text x="640.0" y="520" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">First full record 12 years after</text>
+<text x="640.0" y="536" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">the event. One witness, T.G.</text>
+<text x="640.0" y="552" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Details differ by version (upper</text>
+<text x="640.0" y="568" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">vs upper+lower dentures; whether</text>
+<text x="640.0" y="584" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">circulation). 1994↔2008 agree.</text>
+<text x="640.0" y="600" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ not ruled out</text>
 <rect x="932.0" y="474" width="288.0" height="150" rx="6" fill="#fbf1ea" stroke="#b5541c" stroke-width="2"/>
-<text x="944.0" y="498" font-size="14" fill="#b5541c" font-weight="bold" text-anchor="start">등급</text>
-<text x="944.0" y="520" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">출처 2차(면담 기록) · 단일 증인 ·</text>
-<text x="944.0" y="538" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">회고 12년 · 조사 주체 1곳</text>
-<text x="944.0" y="556" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ R = C</text>
-<text x="944.0" y="574" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">검증 정보 있음, 확인 전 기록 없음</text>
-<text x="944.0" y="592" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ V = V1</text>
-<text x="944.0" y="610" font-size="12.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">집계: V층만(countable: V)</text>
-<text x="20" y="724" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="start">도해 · William 작성(2026-10-22) · 기록이 아님 · 생성 코드 tools/diagrams/NDE-NL-1979-dentures.py</text>
+<text x="944.0" y="498" font-size="14" fill="#b5541c" font-weight="bold" text-anchor="start">Grades</text>
+<text x="944.0" y="520" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Source secondary (interview</text>
+<text x="944.0" y="536" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">record) · single witness ·</text>
+<text x="944.0" y="552" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">recalled after 12 years ·</text>
+<text x="944.0" y="568" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">one investigating body → R = C</text>
+<text x="944.0" y="584" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Verified info, but no record</text>
+<text x="944.0" y="600" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">before checking → V = V1</text>
+<text x="944.0" y="616" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Counted: V layer only</text>
+<text x="20" y="664" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="start">Diagram · drawn by William (2026-10-23) · not a record · generating code tools/diagrams/NDE-NL-1979-dentures.py en</text>
 </svg>

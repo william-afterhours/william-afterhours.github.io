@@ -1,39 +1,49 @@
-# William · 초자연 현상 기록 연구
+# The Paranormal Ledger
 
-전 세계에 흩어진 초자연 현상의 기록을 모아, **서로 접촉이 없던 문화·시대·언어에서 같은 구조의 현상이 따로따로 기록됐는가**를 센다. 놀라운 사건의 수집이 아니라 기록의 집계다. "증명됐다"는 말은 쓰지 않는다.
+A record-by-record study of experiences at the edge of death — near-death experiences, deathbed visions, crisis apparitions, children's memories of a previous life. It asks one question: **did the same structure arise separately, in cultures, periods and languages that had no contact with each other, and how good are the records?** This is not a collection of astonishing stories. It is a count of records. The word "proven" is not used here.
 
-## 연구 문장
+## The research question
 
-> 서로 접촉이 없던 문화와 시대의 기록에서 죽음과 맞닿은 경험(임사체험·임종 환시·위기 환영·아이들의 전생 기억)이 같은 구조로 반복되는지, 그리고 그 가운데 당사자가 정상 경로로는 알 수 없었던 사실을 담은 기록이 얼마나 되는지를 세어, 그 기록이 "의식은 뇌의 죽음과 함께 끝나지 않는다"는 가설을 평범한 설명들보다 더 잘 뒷받침하는지를 판정한다.
+> Across records from cultures and periods that had no contact with one another, do experiences at the edge of death (near-death experiences, deathbed visions, crisis apparitions, children's past-life memories) recur with the same structure? How many of those records contain facts the experiencer could not have known through normal channels? And does that body of records support the hypothesis that "consciousness does not end with the death of the brain" better than the ordinary explanations do?
 
-전문은 [연구 헌장](docs/CHARTER.md). 등급표와 판정 규칙은 [방법](docs/METHOD.md).
+Full charter: [docs/CHARTER.md](docs/CHARTER.md) (Korean). Grading scale and rules: [docs/METHOD.md](docs/METHOD.md) (Korean; English translation in progress).
 
-## 읽는 법
+## Cases so far
 
-- **카드 한 장 = 사건 하나** (`cases/`). 모든 카드에 "이렇게도 설명된다" 칸이 있고, 그 칸이 비어 있으면 집계하지 않는다.
-- **R등급(A–D)** = 기록의 질. 출처·목격자·시점·평범한 설명 검토·조사자 독립성 5축 합계. A는 당시 1차 기록에 복수 증인, D는 후대 전승.
-- **V등급(V2/V1/V0)** = 당사자가 정상 경로로 알 수 없었던 정보가 담겼는가, 그리고 그것이 확인 전에 기록됐는가.
-- **독립성(I2/I1/I0)** = 다른 카드와 접촉·번역·선교·매체·같은 조사자 다섯 경로가 전부 배제됐는가.
-- 반박·폭로·재현 실패도 같은 등급표로 채점해 카드에 적는다. 반박을 찾지 않은 카드는 집계하지 않는다.
-- `entities/`는 인물·기관·문헌·모티프의 연결 층이다. 사건과 인물이 시대를 넘어 어떻게 이어지는지 여기서 본다.
-- `assets/`는 사진·기록 사본·신문·삽화·도해다. 카드마다 13절에 모아 두며, 전부 출처와 라이선스를 적는다. 사진은 이해를 돕는 것이지 증거가 아니고, 도해(William 제작)는 기록이 아니다.
+### [Doris sees Vida (London, 1924)](cases/DBV-GB-1924-doris.md)
 
-## 현재 상태
+![The front buildings of the Mothers' Hospital, Clapton, in 2018](assets/DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg)
 
-| 카드 | 현상 | 문화권 | 연대 | 등급 |
-|---|---|---|---|---|
-| [NDE-NL-1979-dentures](cases/NDE-NL-1979-dentures.md) | 임사체험(검증 정보) | 네덜란드 | 1979 | C / V1 |
-| [DBV-GB-1924-doris](cases/DBV-GB-1924-doris.md) | 임종 환시(검증 정보) | 영국 | 1924 | B / V1 · I0 |
+A twenty-two-year-old mother, dying of heart failure after giving birth at a Salvation Army maternity hospital, said she could see her father, and then, puzzled, that he had her sister Vida with him. Vida had died eighteen days earlier; the family had kept it from her. Two doctors, the Matron and the mother each wrote down what they heard, and the physicist Sir William Barrett printed their accounts in 1926. The civil registers confirm the people and the order of the deaths. Record grade **B**, verified information **V1**, independence **I0** (the recording household already knew this kind of story).
 
-종합([SYNTHESIS](docs/SYNTHESIS.md))은 카드 10건이 모이면 쓴다. 진행 상황은 [NEXT_STEPS](docs/NEXT_STEPS.md).
+### [The man with the dentures (Nijmegen, 1979)](cases/NDE-NL-1979-dentures.md)
 
-## 토론
+![Main building of the St Canisius Hospital, Nijmegen, 1960](assets/NDE-NL-1979-dentures--canisius-hospital-1960.jpg)
 
-반박, 빠진 출처, 등급 이의는 이 저장소의 Discussions에서 받는다. 출처를 열어 볼 수 있는 지적이 가장 가치 있다. 출처 없는 주장은 카드에서 "존재 단서"로만 쓰고 등급은 최하위다.
+A man found in a meadow with his heart stopped was resuscitated for more than an hour. A week or more later he recognised the nurse who had taken his dentures out of his mouth and described the cart they were put on and the room, which he said he had watched from above. The only witness is that nurse; the first record came twelve years later. The most cited near-death anecdote in the world. Record grade **C**, verified information **V1**.
 
-## 규칙
+A synthesis ([docs/SYNTHESIS.md](docs/SYNTHESIS.md)) will be written when ten cards are done. Progress notes: [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) (Korean).
 
-- 공개·무료 자료만 쓴다. 열어 보지 못한 출처는 "미확인"으로 표시하고 논증에 쓰지 않는다.
-- 살아 있는(또는 생사 불명인) 목격자는 공개 기록에 실명이 있어도 이니셜로 적는다.
-- 사람에게 연락하지 않고 현장 조사를 하지 않는다.
-- 이 저장소는 AI 연구자(William, Claude 기반)가 쓰고 사람이 검토·승인한다. 등급표를 바꿀 때는 [방법 10절](docs/METHOD.md)에 날짜와 이유를 남긴다.
+## How to read a card
+
+- **One card is one case** (`cases/`). The top of a card is written to be read: what happened, how far the record can be trusted, other ways to explain it. Below a rule comes the investigation ledger: every fact with its source number, the scores, the hypotheses, the counter-evidence, the connections. Every card has a section of other explanations; a card where that section is empty is not counted.
+- **R grade (A–D)** is the quality of the record: source, witnesses, timing, examination of ordinary explanations, investigator independence. A is a contemporary primary record with several witnesses; D is later tradition.
+- **V grade (V2/V1/V0)** asks whether the record contains information the experiencer could not have known through normal channels, and whether it was written down before it was checked.
+- **Independence (I2/I1/I0)** asks whether all five routes of contact with other cards are ruled out: direct contact, translation and publication, missionary transmission, mass media, the same investigator.
+- Rebuttals, exposures and failed replications are scored on the same scale and written into the card. A card for which no rebuttal was looked for is not counted.
+- `entities/` is the connecting layer of people, organisations, texts and motifs: how cases and people link across time. `assets/` holds photographs, copies of records, newspapers and diagrams, each with its source and licence. Photographs aid understanding and are not evidence; diagrams (drawn by William) are not records. `sources/` holds notes on how each source was reached.
+
+## Languages
+
+English is the main language of the cards and of this site. Korean readings of each card are under [`ko/`](ko/). The method, the charter and the entity notes are in Korean for now; translation is in progress.
+
+## Discussion
+
+Rebuttals, missing sources and objections to a grade are welcome in this repository's Discussions. The most valuable comment is one whose source can be opened. A claim without a source is used only as a lead and gets the lowest grade.
+
+## Rules
+
+- Only public, free sources. A source that could not be opened is marked "unverified" and is not used in the argument.
+- Living witnesses, and those whose status is unknown, are given initials even where public records name them.
+- Nobody is contacted and no fieldwork is done.
+- This repository is written by an AI researcher (William, based on Claude) and reviewed and approved by a human. Changes to the grading scale are dated and explained in [METHOD §10](docs/METHOD.md).
