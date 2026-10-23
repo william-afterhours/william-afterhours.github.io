@@ -1,7 +1,9 @@
 # NEXT_STEPS — 재개할 때 이것부터
 
-## 현재 상태 (2026-10-22, 세션 3)
+## 현재 상태 (2026-10-23, 세션 4)
 
+- **공개 준비(2026-10-23, 세션 4)**: 대표님이 "홈페이지 비슷한 거 만들어서 공개하는 거 아니었나"고 물음 → 공개 전환을 SYNTHESIS v1 시점에서 **지금으로 앞당기는 추천안**을 올리고 확인 대기 중. 작업 트리는 공개 가능하게 정리함: 운영 메모를 저장소 밖으로 이전, CHARTER의 다른 직원 언급 삭제, 카드 2의 1924년생 아기 이름을 이니셜로, README 카드 표에 카드 2 추가. 사이트 손질: 체크된 체크리스트의 취소선 제거(`site/custom.scss`), 첫 페이지 제목 중복 제거(`assemble.sh`). 로컬 미리보기(Quartz 4.5.2를 스크래치패드에 받아 `assemble.sh` → `npm ci` → `npx quartz build --serve --port 8080`, 헤드리스 Chrome 스크린샷)로 홈·카드 2 화면 확인해 대표님께 보냄.
+  - **공개 직전에 할 것(대표님 확인 뒤)**: ① git 이력 정리 — 커밋 4곳(2bbc7bc·0c948d5·7eb7bf1·b0a0847 등)의 `docs/NEXT_STEPS.md`·`CHARTER.md`에 운영 문장이 남아 있음. 커밋 11개뿐이고 등급 변경 이력은 아직 없으므로 `git filter-branch --tree-filter`(Python 치환)로 그 문장만 지우고 force-push. 토큰·비밀번호는 이력에 없음(grep 확인). ② `gh repo edit --visibility public` ③ Pages 소스 "GitHub Actions"(API) ④ 워크플로 재실행 → https://william-afterhours.github.io/ 확인 ⑤ giscus는 대표님 브라우저(Trove 키와 묶음).
 - **자료 층 신설(2026-10-22, 대표님 지시 "자료 사진 그림 삽화 등으로 잘 모아서 같이 정리", "신문 등은 이용하고 출처 확실히 남기고")**: `assets/`(파일 + `index.md` 목록·규칙), METHOD 9절 "시각 자료 규칙"(13절 "자료" 칸 추가), 카드·템플릿 13절, `tools/commons_fetch.py`(Commons 라이선스 확인·받기), `tools/diagrams/<id>.py`(도해 생성). 카드 1에 4건 적용(병원 1960 사진 CC BY-SA, 오이 범람원 참고 CC0, 크래시 카트 참고 CC0, 사건 순서 도해 SVG). 로컬 Quartz 빌드로 이미지·자료 페이지 확인됨.
   - 대표님의 "저작권 걸리면 다시 그리거나 다른 AI로 변경" 지시는 이렇게 처리: 저작권 있는 사진·쪽은 링크만, **사실(순서·배치·수치·지도)만 도해로 다시 그림**. 원본 표현을 베낀 그림은 2차 저작물이고 기록도 아니라서 쓰지 않는다(`assets/index.md`에 적음).
   - 신문: Delpher(KB) SRU API `https://jsru.kb.nl/sru/sru?x-collection=DDD_artikel&query=…`가 열린다(무료, 키 없음). 1979년 지역지 De Gelderlander는 미수록. 다음 카드부터 사건 직후 신문을 먼저 찾는다(Chronicling America·Trove·Papers Past·Delpher는 전부 무료·PD).
@@ -14,11 +16,11 @@
   - 신문: 영국지는 BNA 유료라 안 씀. 무료 아카이브는 Papers Past·loc.gov·HathiTrust 봇 차단, Trove 키 필요 → **1924년 보도 유무 미확인**. 
 - **단계**: 조사 진행 중. 카드 1 `cases/NDE-NL-1979-dentures.md` 완료(**C/V1**, `countable: V`). 엔티티 4건(`O-Merkawah`, `P-TG-witness-1979`, `P-Woerlee-GM`, `M-obe-veridical-resuscitation`), 출처 요약 `sources/jnds-dentures-2004-2010.md`, JNDS 전체 색인 `sources/unt-jnds-index.tsv`(1081건), 도구 `tools/unt_ocr.py`·`tools/unt_oai.py`.
 - **METHOD v0.2**(이번 세션, 내 결정, 대표님께 보고·거부 가능): NDE "요소 2개 이상"은 S층 집계에만. V층 입장 = 생명 위기 + 체외 시점 + V요소. `countable: no/S/V/SV`. 거부되면 v0.1로 되돌리고 카드 1은 "유사 사례"로 둔다(10절에 기록).
-- **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 지금은 **비공개**로 올리고 **공개 전환은 SYNTHESIS v1(10건) 시점에 대표님 확인**(되돌릴 수 없는 공개 발언). 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
+- **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 처음 계획은 비공개로 올리고 SYNTHESIS v1(10건) 때 공개 전환 확인이었으나, **2026-10-23 대표님 질문으로 지금 공개하는 추천안을 올림(확인 대기)**. 되돌릴 수 없는 공개 발언이라 대표님 한마디 뒤에만 전환한다. 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
   - 준비 완료: `site/quartz.config.ts`·`quartz.layout.ts`·`assemble.sh`, `.github/workflows/deploy.yml`(Quartz 4.5.2 커밋 고정, 비공개 동안 deploy 단계 생략), `README.md`(= 사이트 첫 페이지), `.gitignore`. **로컬 빌드 확인함**(Node 26, 10개 문서 → 41 파일, 위키링크·백링크 정상).
   - **저장소 개설 완료(2026-10-22)**: https://github.com/william-afterhours/william-afterhours.github.io (Discussions 켜짐, main 추적). 계정 `william-afterhours`. **운영 메모는 저장소 밖에 둔다(공개 저장소에 넣지 않는다). 재개할 때 그것도 읽는다.**
   - Actions `Deploy site`(build만) 런 39784436279·39787305222(자료 층 커밋 7eb7bf1) **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
-  - 공개 전환 때 할 것: Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
+  - 공개 전환 때 할 것(이력 정리는 위 세션 4 항목): Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
 
 ## 다음 세션에 할 일
 
@@ -53,15 +55,16 @@
 
 - **답 1개 남음**: METHOD v0.2(NDE V층 입장 조건) 유지 여부. 답이 없으면 유지한 채 진행하고, 거부하면 v0.1로 되돌린다.
 - **GitHub 계정 — 전부 완료(2026-10-22)**: 계정 `william-afterhours`. 기기 로그인 방식(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력 — 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다. 세부는 저장소 밖 운영 메모에.
-- 지금 남은 대표님 손: 없음(급한 것). 다음은 SYNTHESIS v1 때 공개 전환 확인.
+- **지금 남은 대표님 손: 공개 전환 확인 1개(2026-10-23 올림).** "공개해도 된다" 한마디면 William이 이력 정리 → 공개 → Pages까지 처리한다.
 - **모아 두는 것(급하지 않음, 다음 가입 요청과 묶어서)**: Trove(호주 국립도서관) API 키 — 무료 가입, 이메일 인증. 용도: 1924~26년 영연방 신문의 "Lady Barrett" 임종 환시 전재 기사 탐색(카드 2 신문 미확인 해소). 이것 하나 때문에 대표님을 부르지는 않는다.
-- **공개 전환**: SYNTHESIS v1(카드 10건) 때 한 번 확인. 그때 점검표 — 목격자 이니셜, 키·비밀번호 없음, `.claude/settings.json` 노출 여부.
+- **공개 전환 점검표(2026-10-23 작업 트리 기준 통과)**: 목격자 이니셜(카드 1·2 확인), 키·비밀번호 없음(이력까지 grep), `.claude/settings.json`은 모델·effort만이라 공개해도 됨, `tools/commons_fetch.py`의 UA 이메일은 공개 연락처라 유지. 남은 것은 git 이력의 운영 문장 정리뿐.
 
 ## 토큰
 
 - 세션 1: 약 35만 추정 — 등급표 설계 서브에이전트 12.3만(집계값) + 본 세션 약 20만(추정).
 - 세션 3(2026-10-22): 저장소 개설 마무리 + 자료 층. 추정 입력 누적 약 15–25만(이미지 열람 5장 포함), 출력 약 2만.
 - 세션 3 후반(2026-10-22, 카드 2): 컨텍스트가 한 번 가득 차 요약됐다. 추정 입력 누적 약 30–40만(Barrett OCR 창 읽기, 쪽 이미지 5장, FreeBMD 결과 4건, Commons 이미지 3장, 도해 렌더 2회), 출력 약 4만(카드·엔티티 4·출처 요약·도해 코드). 절감: 전문 OCR은 스크래치패드에만 두고 장별 오프셋만 `sources/`에 기록해 다음 DBV 카드는 필요한 창만 읽는다.
+- 세션 4(2026-10-23, 공개 준비): 추정 입력 누적 약 10–15만(사이트 스크린샷 4장 열람 포함), 출력 약 1만. 큰 읽기 없음.
 - 세션 2: `/cost`를 직접 볼 수 없어 추정. 컨텍스트가 한 번 가득 차 요약됐으므로 본 세션 입력 누적 약 25–35만(웹·OCR 본문 읽기가 대부분, Woerlee 2010·Smit&Rivas 2010·Smit 2008·Woerlee 2004 전문 4편), 출력 약 3만. 대표님이 `/cost`를 치면 정확한 수치가 나온다.
 - 비용 절감 메모: JNDS 색인(OAI)을 받아 두어 다음 NDE 카드는 검색 토큰이 거의 들지 않는다. 전문은 스크래치패드에만 두고 저장소에는 요약만(저작권).
 - 등급표의 잠정값(1회차 조사에서 확정할 것): 매체 확산 기준 연도(NDE 1975 / CORT 1956 / CA·DBV 1900)는 근거 문헌 미확인. 수렴 판정 숫자(4클러스터·V2 3건)는 William의 판단이라 대표님이 조정 가능.
