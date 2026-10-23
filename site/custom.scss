@@ -1,0 +1,8 @@
+@use "./base.scss";
+
+// 카드의 `- [x]` 체크리스트는 "구조 요건 충족" 표시이지 끝낸 할 일이 아니다.
+// Quartz 기본값은 체크된 항목에 취소선·회색을 입히므로 그것만 되돌린다.
+li:has(> input[type="checkbox"]:checked) {
+  text-decoration: none;
+  color: inherit;
+}

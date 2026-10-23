@@ -23,6 +23,7 @@
 | 카드 | 현상 | 문화권 | 연대 | 등급 |
 |---|---|---|---|---|
 | [NDE-NL-1979-dentures](cases/NDE-NL-1979-dentures.md) | 임사체험(검증 정보) | 네덜란드 | 1979 | C / V1 |
+| [DBV-GB-1924-doris](cases/DBV-GB-1924-doris.md) | 임종 환시(검증 정보) | 영국 | 1924 | B / V1 · I0 |
 
 종합([SYNTHESIS](docs/SYNTHESIS.md))은 카드 10건이 모이면 쓴다. 진행 상황은 [NEXT_STEPS](docs/NEXT_STEPS.md).
 

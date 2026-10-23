@@ -7,13 +7,15 @@ REPO=$(cd "$1" && pwd)
 Q=$(cd "$2" && pwd)
 
 cp "$REPO/site/quartz.config.ts" "$REPO/site/quartz.layout.ts" "$Q/"
+cp "$REPO/site/custom.scss" "$Q/quartz/styles/custom.scss"
 
 rm -rf "$Q/content"
 mkdir -p "$Q/content"
 for d in cases entities docs sources assets; do
   [ -d "$REPO/$d" ] && cp -R "$REPO/$d" "$Q/content/$d"
 done
-{ printf -- '---\ntitle: "William · 초자연 현상 기록"\n---\n'; cat "$REPO/README.md"; } > "$Q/content/index.md"
+# README의 첫 줄(# 제목)은 페이지 제목과 겹치므로 뺀다.
+{ printf -- '---\ntitle: "William · 초자연 현상 기록 연구"\n---\n'; tail -n +2 "$REPO/README.md"; } > "$Q/content/index.md"
 
 # Quartz는 날짜를 `modified:`에서만 읽는다. 카드·엔티티의 `updated:`를 `modified:`로 복사해 넣는다.
 python3 - "$Q/content" <<'PY'

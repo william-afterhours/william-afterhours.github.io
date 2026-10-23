@@ -7,7 +7,7 @@
   - 신문: Delpher(KB) SRU API `https://jsru.kb.nl/sru/sru?x-collection=DDD_artikel&query=…`가 열린다(무료, 키 없음). 1979년 지역지 De Gelderlander는 미수록. 다음 카드부터 사건 직후 신문을 먼저 찾는다(Chronicling America·Trove·Papers Past·Delpher는 전부 무료·PD).
   - Wikimedia 축소본 URL은 API가 주는 폭(예 960·1280)만 받아들인다(임의 폭은 400). `commons_fetch.py`가 처리.
 - **카드 2 완료(2026-10-22, 세션 3 후반)** `cases/DBV-GB-1924-doris.md` — **B/V1**, `independence: I0`, `countable: V`(V층만 집계).
-  - 출처: Barrett 1926 『Death-bed Visions』 전문(Wellcome 텍스트 API) + pp.10–14 쪽 이미지 열람(S7=2). **GRO 색인(FreeBMD)으로 대조**: 혼인 1923 Q2 Shoreditch(Clark, Doris G. × Bargery, Stanley), 언니 Vida M. Clark 사망 1923 Q4 West Ham(34), Doris G. Bargery 사망 1924 Q1 Hackney(22), 출생 Bargery Doris O. 1924 Q1 Hackney(모성 Clark) — 책의 순서·장소·나이와 일치. 불일치 3건은 카드 12절(수간호사 "3주"/어머니 "2주 4일", 아기 "him"/여아명, 남편 "W."/Stanley).
+  - 출처: Barrett 1926 『Death-bed Visions』 전문(Wellcome 텍스트 API) + pp.10–14 쪽 이미지 열람(S7=2). **GRO 색인(FreeBMD)으로 대조**: 혼인 1923 Q2 Shoreditch(Clark, Doris G. × Bargery, Stanley), 언니 Vida M. Clark 사망 1923 Q4 West Ham(34), Doris G. Bargery 사망 1924 Q1 Hackney(22), 출생 Bargery D. O. 1924 Q1 Hackney(모성 Clark; 생사 불명이라 이니셜) — 책의 순서·장소·나이와 일치. 불일치 3건은 카드 12절(수간호사 "3주"/어머니 "2주 4일", 아기 "him"/여아명, 남편 "W."/Stanley).
   - 등급 요지: 증인 4명이 각자 서명(S2=2), 2년 안에 출판(S3=1), 조사자 바렛이 첫 증인의 남편이자 SPR(S6=1), 1924-02 교구지 미확인(열리면 S3·S5 재검토). V2가 못 되는 이유 = 확인 이전의 날짜 있는 문서가 없고 정보(비다의 죽음)가 곁의 어머니·남편·수간호사가 알던 것(L·C 부분 배제). 이것이 DBV-V 구조의 일반 한계.
   - **I0 결정**: 기록자(레이디 바렛)가 이 모티프를 1917년에 출판한 바렛의 아내 → 독립성 경로 ② 확인. EU-W의 DBV S층은 SPR 바깥 기록(1882년 이전 또는 Osis 1961 같은 다른 조사 주체)으로 채운다.
   - 엔티티 4건 `P-Barrett-WF`·`P-Barrett-Florence`·`L-Mothers-Hospital-Clapton`·`M-dbv-visitor-unknown-dead`, 출처 요약 `sources/barrett-1926-death-bed-visions.md`(장별 OCR 오프셋 — 3·4장이 DBV·CA 후보 창고), 자료 4건(바렛 부부 초상 PD/CC BY, 병원 2018 CC BY-SA, 연표·발화·기록 사슬 도해).
@@ -16,7 +16,7 @@
 - **METHOD v0.2**(이번 세션, 내 결정, 대표님께 보고·거부 가능): NDE "요소 2개 이상"은 S층 집계에만. V층 입장 = 생명 위기 + 체외 시점 + V요소. `countable: no/S/V/SV`. 거부되면 v0.1로 되돌리고 카드 1은 "유사 사례"로 둔다(10절에 기록).
 - **기록 장소 확정(2026-10-21 "1번 좋아")**: GitHub 저장소(이 저장소 그대로) + Discussions(토론) + Quartz로 GitHub Pages(읽기용 사이트, 위키링크·백링크·그래프·검색) + giscus(페이지 댓글을 Discussions로 모음). 비용 0원. 지금은 **비공개**로 올리고 **공개 전환은 SYNTHESIS v1(10건) 시점에 대표님 확인**(되돌릴 수 없는 공개 발언). 무료 계정의 Pages·giscus는 공개 저장소에서만 되므로 사이트는 공개 전환 때 켜진다.
   - 준비 완료: `site/quartz.config.ts`·`quartz.layout.ts`·`assemble.sh`, `.github/workflows/deploy.yml`(Quartz 4.5.2 커밋 고정, 비공개 동안 deploy 단계 생략), `README.md`(= 사이트 첫 페이지), `.gitignore`. **로컬 빌드 확인함**(Node 26, 10개 문서 → 41 파일, 위키링크·백링크 정상).
-  - **저장소 개설 완료(2026-10-22)**: https://github.com/william-afterhours/william-afterhours.github.io (비공개, Discussions 켜짐, main 추적). 계정 `william-afterhours`, 이메일 `williamafterhours@proton.me`. 커밋 이메일은 GitHub noreply 주소(로컬 git config).
+  - **저장소 개설 완료(2026-10-22)**: https://github.com/william-afterhours/william-afterhours.github.io (Discussions 켜짐, main 추적). 계정 `william-afterhours`. **운영 메모는 저장소 밖에 둔다(공개 저장소에 넣지 않는다). 재개할 때 그것도 읽는다.**
   - Actions `Deploy site`(build만) 런 39784436279·39787305222(자료 층 커밋 7eb7bf1) **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
   - 공개 전환 때 할 것: Settings → Pages → Source "GitHub Actions"(API: `gh api -X POST repos/…/pages -f build_type=workflow`) → giscus 앱 설치(https://github.com/apps/giscus) → giscus.app에서 repoId·categoryId 받아 `site/quartz.layout.ts` 주석 해제 → push → 사이트 확인.
 
@@ -52,7 +52,7 @@
 ## 대표님 손
 
 - **답 1개 남음**: METHOD v0.2(NDE V층 입장 조건) 유지 여부. 답이 없으면 유지한 채 진행하고, 거부하면 v0.1로 되돌린다.
-- **GitHub 계정 — 전부 완료(2026-10-22)**: 이메일 `williamafterhours@proton.me` → GitHub `william-afterhours` 가입 → 기기 로그인(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력. 이 방식이 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다.
+- **GitHub 계정 — 전부 완료(2026-10-22)**: 계정 `william-afterhours`. 기기 로그인 방식(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력 — 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다. 세부는 저장소 밖 운영 메모에.
 - 지금 남은 대표님 손: 없음(급한 것). 다음은 SYNTHESIS v1 때 공개 전환 확인.
 - **모아 두는 것(급하지 않음, 다음 가입 요청과 묶어서)**: Trove(호주 국립도서관) API 키 — 무료 가입, 이메일 인증. 용도: 1924~26년 영연방 신문의 "Lady Barrett" 임종 환시 전재 기사 탐색(카드 2 신문 미확인 해소). 이것 하나 때문에 대표님을 부르지는 않는다.
 - **공개 전환**: SYNTHESIS v1(카드 10건) 때 한 번 확인. 그때 점검표 — 목격자 이니셜, 키·비밀번호 없음, `.claude/settings.json` 노출 여부.
