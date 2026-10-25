@@ -8,21 +8,23 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    // 공개 전환 때 giscus 앱을 저장소에 설치하고 giscus.app에서 repoId·categoryId를 받아 연다.
-    // Component.Comments({
-    //   provider: "giscus",
-    //   options: {
-    //     repo: "william-afterhours/william-afterhours.github.io",
-    //     repoId: "",
-    //     category: "카드 토론",
-    //     categoryId: "",
-    //     mapping: "pathname",
-    //     strict: true,
-    //     reactionsEnabled: true,
-    //     inputPosition: "bottom",
-    //     lang: "en",
-    //   },
-    // }),
+    // 페이지 댓글 → GitHub Discussions(giscus 앱은 2026-10-25 설치됨).
+    // 카테고리는 "Announcements" 형식(giscus 권장: 토론 생성은 관리자와 giscus만, 댓글은 누구나).
+    // repoId·categoryId는 GraphQL `repository{ id discussionCategories{ nodes{ id name } } }`로 받은 값.
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "william-afterhours/william-afterhours.github.io",
+        repoId: "R_kgDOVUuUug",
+        category: "Announcements",
+        categoryId: "DIC_kwDOVUuUus4DJarV",
+        mapping: "pathname",
+        strict: true,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+        lang: "en",
+      },
+    }),
   ],
   footer: Component.Footer({
     links: {
