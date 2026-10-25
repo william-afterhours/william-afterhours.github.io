@@ -1,47 +1,48 @@
 ---
 id: M-dbv-visitor-unknown-dead
 type: motif
-name: "임종 환시에 환자가 사망 사실을 몰랐던 사람이 방문자로 나타남"
+name: "In a deathbed vision, a person whose death the patient did not know of appears as the visitor"
 alive: ""
 role: ""
 cluster: ""
 dates: ""
-aliases: ["Peak in Darien 사례", "visions of the dying of persons unknown to be dead", "DBV-V 핵심 모티프"]
+aliases: ["Peak in Darien case", "visions of the dying of persons unknown to be dead", "core DBV-V motif"]
 links: [DBV-GB-1924-doris, P-Barrett-WF]
 status: draft
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
-# 모티프: 몰랐던 죽음의 방문자
+# Motif: the visitor whose death was unknown
 
-## 1. 한 줄 설명
+## 1. One line
 
-죽어 가는 사람이 "방문자"를 보는데, 그중에 **당사자가 죽은 줄 몰랐던** 사람이 있고 그 사람이 실제로 얼마 전 죽은 구조. DBV의 V요소이며 이 장부가 DBV V층 집계의 원천이다. 영어권에서는 Cobbe 1882의 제목을 따 "Peak in Darien" 사례라고 부른다(원문 미열람). 이 구조의 고유한 한계: 숨겨진 죽음은 보통 **곁에 있는 가족이 알고 있는 죽음**이라, 정보 누설(L)과 초심리(H2)를 선기록 없이는 가를 수 없다.
+A dying person sees "visitors", and among them is someone **the patient did not know had died**, who had in fact died shortly before. This is the V element of DBV, and this ledger is the source of the DBV V-layer count. In English it is called a "Peak in Darien" case after the title of Cobbe 1882 (now opened, see §2). The structure has an inherent limit: the concealed death is usually **a death the family at the bedside knew of**, so without a prior record, leakage (L) and psi (H2) cannot be separated.
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| 1882 | Cobbe FP. "The Peak in Darien" — 용어의 기원 | EN / EU-W | 문헌(T-, 미작성) | 미확인 | 바렛 1926 2장 제목이 같은 정의를 쓴다 |
-| 1889 (기록 Hyslop, 전재 1926) | DBV-US-1889-jennie-edith (미작성) — 디프테리아로 죽어 가던 소녀 Edith가 먼저 죽은 친구 Jennie를 봄(Savage → Hyslop → Barrett pp.14–16) | EN / EU-W | 후보 · 같은 조사 주체(SPR·ASPR) | 확인(Barrett 전재만) | 원출처 Hyslop 미열람 |
-| 1924 (기록 1926) | [[DBV-GB-1924-doris]] | EN / EU-W | **I0** · B/V1 · 조사 주체 P-Barrett-WF · 선기록 없음 | 확인 | 장부 첫 항목. 증인 4명, 공식 색인 대조 |
+| 1882 | Cobbe FP. "The Peak in Darien: the riddle of death", in *The Peak in Darien*, Boston: Geo. H. Ellis, 1882, pp. 245–266 — origin of the term | EN / EU-W | text (T-, not yet written) · baseline evidence | **confirmed** (archive.org `peakindarienocta00cobbrich`, public domain, djvu text read 2026-10-25) | Cobbe reports that deathbed recognitions of the dead recur "almost in the same words" among people "who have never heard of similar occurrences" (p. 253), and one case of this motif: a dying woman named three dead brothers and then a fourth "believed by the bystanders to be still living in India"; letters later announced that his death "had occurred some time before" (pp. 261–262). Anonymous, told to Cobbe at second hand, no dates: existence evidence only (would grade D). Cobbe herself notes the cause may be "physiological or psychical" (p. 262). Barrett's 1926 chapter II uses the same definition |
+| 1889 (recorded by Hyslop, reprinted 1926) | DBV-US-1889-jennie-edith (not written) — Edith, a girl dying of diphtheria, sees her friend Jennie, who had died first (Savage → Hyslop → Barrett pp. 14–16) | EN / EU-W | candidate · same investigating body (SPR/ASPR) | confirmed (Barrett's reprint only) | Original source, Hyslop, not opened |
+| 1924 (recorded 1926) | [[DBV-GB-1924-doris]] | EN / EU-W | **I0** · B/V1 · investigating body P-Barrett-WF · no prior record | confirmed | First entry of the ledger. Four witnesses, checked against the civil registers |
 
-## 3. 연결
+## 3. Connections
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[DBV-GB-1924-doris]] | R-MOT | 미정 | 확인 | 첫 항목 |
-| [[P-Barrett-WF]] | R-MOT | 전파(용어·수집) | 확인 | 2장 전체가 이 모티프 수집 |
+| [[DBV-GB-1924-doris]] | R-MOT | undecided | confirmed | First entry |
+| [[P-Barrett-WF]] | R-MOT | transmission (term and collection) | confirmed | The whole of chapter II collects this motif |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 2차 | Barrett 1926, ch. II pp.10–38(2장 범위는 OCR 오프셋으로 추정) | 확인(pp.10–16) | https://iiif.wellcomecollection.org/presentation/v2/b29813992 | |
-| 2 | 2차 | Greyson B. "Seeing dead people not known to have died: 'Peak in Darien' experiences". *Anthropology and Humanism* 2010;35(2) | 미확인 | — | 서지도 미확인 |
+| 1 | secondary | Barrett 1926, ch. II pp. 10–38 (chapter range estimated from OCR offsets) | confirmed (pp. 10–16) | https://iiif.wellcomecollection.org/presentation/v2/b29813992 | |
+| 2 | tertiary (anecdotes at second hand) | Cobbe FP. *The Peak in Darien, with some other inquiries touching concerns of the soul and the body*. Boston: Geo. H. Ellis, 1882. Essay VIII pp. 245–266 | confirmed (full djvu text; London edition Williams & Norgate also on archive.org) | https://archive.org/details/peakindarienocta00cobbrich | Public domain (author d. 1904) |
+| 3 | secondary | Greyson B. "Seeing dead people not known to have died: 'Peak in Darien' experiences". *Anthropology and Humanism* 2010;35(2) | unverified | — | Bibliography also unverified |
 
-## 5. 메모
+## 5. Notes
 
-- 집계는 METHOD 8절 V판정(V2 3건·조사 주체 2곳)으로 간다. 현재 V2 0건, V1 1건(바렛/SPR 1곳).
-- 다른 클러스터 후보(전부 미확인): Osis & Haraldsson 1977 『At the Hour of Death』의 인도 사례(SA) — 의사·간호사 설문이라 조사 주체가 다름(Osis/ASPR). 일본·한국의 "迎え"·"저승사자" 전승에 몰랐던 죽음 요소가 있는지는 미조사(EA). 고대·중세 문헌(ANC-)에서 이 요소가 있는 기록은 미발견.
-- 이 모티프가 V2에 닿으려면: 환자의 발화를 **곁의 사람 아무도 그 죽음을 모르는 상태에서** 날짜 있는 문서로 남긴 뒤 죽음이 확인된 사례여야 한다(예: 멀리서 죽은 친지의 소식이 아직 도착하지 않은 경우). 그런 사례는 CA와 구조가 겹친다 — 카드화할 때 코드 선택 기준을 METHOD 10절에 적을 것.
+- The count goes to the METHOD §8 V verdict (3 V2, 2 investigating bodies). At present: V2 0, V1 1 (Barrett/SPR, one body).
+- Candidates in other clusters (all unverified): the Indian cases in Osis & Haraldsson 1977, *At the Hour of Death* (SA) — a physicians' and nurses' survey, so a different investigating body (Osis/ASPR); archive.org copy borrow-only. Whether the Japanese and Korean "omukae" / "messenger from the other world" traditions contain the unknown-death element is not investigated (EA). No ancient or medieval text (ANC-) with this element has been found.
+- For this motif to reach V2: the patient's words must be put in a dated document **while nobody at the bedside knew of the death**, and the death confirmed afterwards (for example, when news of a relative's death far away had not yet arrived). Such a case overlaps structurally with CA; the rule for choosing the code is to be written in METHOD §10 when one is carded. Cobbe's India case (1882) has exactly this shape but no names, dates or documents.

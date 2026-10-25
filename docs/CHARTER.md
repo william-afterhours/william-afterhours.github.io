@@ -1,88 +1,95 @@
-# 연구 헌장 v0.1 (2026-10-21 대표님 승인 — §1 문장·기록 구조·git 포함)
+---
+title: Research charter v0.1
+updated: 2026-10-25
+---
 
-## 1. 무엇을 증명하려는가 — 추천 문장 하나
+# Research charter v0.1 (approved by the owner on 2026-10-21, including the §1 sentence, the record structure and git)
 
-> **서로 접촉이 없던 문화와 시대의 기록에서 죽음과 맞닿은 경험(임사체험·임종 환시·위기 환영·아이들의 전생 기억)이 같은 구조로 반복되는지, 그리고 그 가운데 당사자가 정상 경로로는 알 수 없었던 사실을 담은 기록이 얼마나 되는지를 세어, 그 기록이 "의식은 뇌의 죽음과 함께 끝나지 않는다"는 가설을 평범한 설명들보다 더 잘 뒷받침하는지를 판정한다.**
+This is the founding document of the study, written on 2026-10-21 and approved the same day. It is kept as approved; later decisions are logged in `METHOD.md` §10 and `NEXT_STEPS.md`. The Korean original is in git history (commit `42e7530` and earlier); this English text replaces it as the main version (2026-10-25). Where the text below says "this session", it means the session of 2026-10-21.
 
-이 문장을 고른 이유:
-- 대표님 지시("전 세계에 퍼져 있는 초자연 현상으로 증명")에서 **가장 기록이 풍부하고, 독립 문화권이 가장 많고, 반대 자료도 공개된** 범주가 죽음 인접 현상이다. 증명 가능성이 가장 높은 곳에서 시작한다.
-- 두 층을 분리했다. **구조 수렴**(같은 경험이 여러 문화에서 따로 기록됨)은 "인간 보편 현상"임을 보일 뿐 신경생리로도 설명된다. **검증 정보**(확인 전에 기록되고, 정상 경로가 배제된 사실)만이 사후 생존 가설을 평범한 설명과 갈라놓는다. 둘을 섞으면 과장이 된다.
-- "모든 가능성을 연다"는 지시에 따라 **가설을 하나로 좁히지 않는다.** 사후 생존·생존 없는 초심리·문화 전파·신경생리·기억 왜곡·사기·우연·조사자 효과를 전부 테이블 위에 두고, 사건마다 어느 가설과 양립하는지 적는다(`METHOD.md` 가설 목록). 범주도 닫지 않는다 — 1단계가 죽음 인접 현상일 뿐, 2단계에서 폴터가이스트·예지·UFO로 넓히고 범주 사이의 연관도 본다.
+## 1. What is to be shown: one recommended sentence
 
-## 2. 다루는 현상과 순서
+> **Across records from cultures and periods that had no contact with one another, do experiences at the edge of death (near-death experiences, deathbed visions, crisis apparitions, children's past-life memories) recur with the same structure? How many of those records contain facts the experiencer could not have known through normal channels? And does that body of records support the hypothesis that "consciousness does not end with the death of the brain" better than the ordinary explanations do?**
 
-| 순서 | 코드 | 현상(구조로 정의) | 왜 이 순서인가 |
+Why this sentence:
+- Of the owner's brief ("to prove, by paranormal phenomena spread across the world"), the category with **the richest records, the largest number of independent cultures and publicly available counter-evidence** is the phenomena adjacent to death. We start where the chance of showing anything is highest.
+- Two layers are kept apart. **Structural convergence** (the same experience recorded separately in several cultures) shows only that something is a universal human phenomenon, and neurophysiology explains that too. Only **verified information** (a fact recorded before it was checked, with normal routes excluded) separates the survival hypothesis from the ordinary explanations. Mixing the two produces exaggeration.
+- Following the instruction to "keep every possibility open", **the hypotheses are not narrowed to one.** Survival after death, psi without survival, cultural transmission, neurophysiology, memory distortion, fraud, chance and investigator effects all stay on the table, and each case records which hypotheses it is compatible with (`METHOD.md`, list of hypotheses). The categories are not closed either: stage 1 is the death-adjacent phenomena; stage 2 widens to poltergeists, precognition and UFOs and looks at connections between categories.
+
+## 2. Phenomena covered, and in what order
+
+| Order | Code | Phenomenon (defined by structure) | Why this order |
 |---|---|---|---|
-| 1 | NDE | 임상적 죽음 근처에서 체외 시점·타계·귀환 구조의 경험 | 전향 연구(1차)가 있고 문화권 비교 연구가 가장 많다 |
-| 2 | DBV | 임종 직전 죽은 사람을 보고 떠남을 예고하는 구조 | 100년 전 의사 기록부터 현대 호스피스 연구까지 계보가 길다. "본인이 몰랐던 사망자"를 보는 하위 구조가 검증 정보 후보 |
-| 3 | CA | 멀리 있는 사람의 죽음·위기 시점에 그 사람이 나타남 | 1886년 수집본이 서명 진술·날짜 확인 편지를 남겼고, 1894년 센서스가 기저율을 계산했다 |
-| 4 | CORT | 어린아이가 모르는 죽은 사람의 삶을 진술하고 일부가 확인됨 | 검증 정보가 구조에 내장돼 있다. 반대 자료(2021~23 논쟁)가 공개돼 있어 논증 내구성 시험에 적합 |
-| 2단계 | MED·POLT·PREC·UFO | 영매·폴터가이스트·예지·미확인 비행체 | 1단계 결과와 연관(같은 인물·장소·모티프)이 보이는 것부터 |
+| 1 | NDE | Experiences near clinical death with the structure out-of-body viewpoint · other world · return | Prospective (primary) studies exist and cross-cultural comparisons are most numerous |
+| 2 | DBV | Shortly before death the dying person sees the dead and announces departure | A long lineage from physicians' records a century ago to modern hospice research. The sub-structure "sees a dead person whose death the patient did not know of" is a candidate for verified information |
+| 3 | CA | A distant person appears at the moment of their death or crisis | The 1886 collection left signed statements and letters confirming dates, and the 1894 census computed a base rate |
+| 4 | CORT | A small child states the life of a dead stranger and part of it is confirmed | Verified information is built into the structure. Counter-evidence (the 2021–23 debate) is public, so the argument's durability can be tested |
+| Stage 2 | MED · POLT · PREC · UFO | Mediums, poltergeists, precognition, unidentified flying objects | Starting with whatever shows a connection (same person, place or motif) to stage-1 results |
 
-## 3. 첫 조사 대상 10건
+## 3. The first ten targets
 
-전부 출처의 **존재**를 이번 세션에서 확인했다. "전문 열람"은 카드 작성 단계에서 한다. 열지 못한 것은 카드에 "미확인"으로 남고 논증에 쓰지 않는다.
+For all ten, the **existence** of the source was confirmed in this session. "Reading the full text" happens when the card is written. Anything that could not be opened stays "unverified" on the card and is not used in the argument.
 
-| # | 카드 ID | 문화권·연대 | 사건 | 기록 수준(예상) | 출처 상태 |
+| # | Card id | Culture · period | Event | Expected record level | Source status |
 |---|---|---|---|---|---|
-| 1 | NDE-NL-1979-dentures | 네덜란드 1979 | 심정지 혼수 환자가 소생 후 간호사가 자기 틀니를 빼 수레에 둔 것을 지목 | 간호사 1차 진술 → Lancet 2001 보고, JNDS 2008 재조사, 2010 반박·재반박 | 서지 확인. JNDS 전문 무료(UNT) |
-| 2 | NDE-INTL-2014-aware | 영·미·오스트리아 2008–12 | 전향 연구 2,060건: 청각 자극으로 시점 검증 1건, 시각 표적 적중 0건 | 1차(전향 연구). **반대 자료 겸함** | Resuscitation 85:1799–1805 확인. 전문 유료 가능 |
-| 3 | NDE-IN-1986-pasricha | 인도 | 16건. "저승 사자가 잘못 데려감 → 돌려보냄" 구조, 터널·빛 드묾 | 2차(연구자 면담) | PubMed 확인(J Nerv Ment Dis 174:165–70). 전문 미열람 |
-| 4 | NDE-CN-1976-tangshan | 중국 탕산 | 1976 지진 생존자 81명 중 32명 | 2차, 11년 후 회고 | JNDS 11:39–48, UNT 확인 |
-| 5 | NDE-IT-0593-gregory | 6세기 로마 | 『대화』 4권: 죽었다 돌아온 스테파노 — "다른 스테파노를 데려오라 했다" | 고대 문헌(3차, 저자 논쟁 있음). 구조 층 전용 | archive.org 1911 영역본 확인. 장 번호 미확인 |
-| 6 | DBV-GB-1924-doris | 영국 | 산모 D가 임종 시 3주 전 죽은 동생 V를 봄 — 본인은 사망을 몰랐음. 산과의(배럿 부인)·간호사·어머니 증언 | 1차에 가까움(당시 기록, 복수 증인) | archive.org 1926 스캔 확인 |
-| 7 | DBV-IN-2010-kerala | 인도 케랄라 | 104가족 면담, 임종 환시 30건 | 2차(가족 회고) | Omega 62(2):97–109 확인. 전문 유료 가능 |
-| 8 | CA-GB-1886-phantasms | 영국·식민지 | 『Phantasms of the Living』 위기 환영 중 날짜 확인 편지가 붙은 사례 1~2건 + 1894 센서스 기저율 | 2차(당대 수집, 1차 문서 첨부) | archive.org 전문·1894 Proceedings 확인 |
-| 9 | CORT-LK-1996-purnima | 스리랑카 | 진술 20개 중 14 일치, 반점과 부검 기록 대조 | 2차(연구자 조사) | JSPR 64:16–25 확인. 전문 유료 가능 → 2차 요약으로 대체 |
-| 10 | CORT-US-2000-leininger | 미국 | 전투기 조종사 전생 주장. 비판(2021)·응답·재비판(2022–23) 전부 공개 | 2차 + **공개된 반대 자료** | JSE 무료(CC BY-NC) 확인 |
+| 1 | NDE-NL-1979-dentures | Netherlands 1979 | A cardiac-arrest patient in coma, after resuscitation, identifies the nurse who took out his dentures and put them on the cart | Nurse's first-hand statement → Lancet 2001 report, JNDS 2008 re-investigation, 2010 rebuttal and reply | Bibliography confirmed. JNDS full text free (UNT) |
+| 2 | NDE-INTL-2014-aware | UK · US · Austria 2008–12 | Prospective study, 2,060 cases: 1 case of viewpoint verified by auditory stimuli, 0 hits on visual targets | Primary (prospective study). **Doubles as counter-evidence** | Resuscitation 85:1799–1805 confirmed. Full text may be paywalled |
+| 3 | NDE-IN-1986-pasricha | India | 16 cases. Structure "messengers of death take the wrong person → sent back"; tunnel and light rare | Secondary (researcher interviews) | PubMed confirmed (J Nerv Ment Dis 174:165–70). Full text not opened |
+| 4 | NDE-CN-1976-tangshan | Tangshan, China | 32 of 81 survivors of the 1976 earthquake | Secondary, recollection after 11 years | JNDS 11:39–48, UNT confirmed |
+| 5 | NDE-IT-0593-gregory | Rome, 6th century | *Dialogues* book IV: Stephen, who died and came back — "they said another Stephen should have been brought" | Ancient text (tertiary; authorship debated). Structure layer only | archive.org 1911 English translation confirmed. Chapter number not confirmed |
+| 6 | DBV-GB-1924-doris | England | A mother, D., dying, sees her sister V., who had died three weeks earlier without her knowledge. Testimony of the obstetrician (Lady Barrett), nurse and mother | Close to primary (contemporary record, several witnesses) | archive.org 1926 scan confirmed |
+| 7 | DBV-IN-2010-kerala | Kerala, India | 104 families interviewed, 30 deathbed visions | Secondary (family recollection) | Omega 62(2):97–109 confirmed. Full text may be paywalled |
+| 8 | CA-GB-1886-phantasms | Britain and colonies | 1–2 crisis apparitions in *Phantasms of the Living* with date-confirming letters attached + 1894 census base rate | Secondary (contemporary collection with primary documents attached) | archive.org full text and 1894 Proceedings confirmed |
+| 9 | CORT-LK-1996-purnima | Sri Lanka | 14 of 20 statements matched; birthmarks checked against the autopsy record | Secondary (researcher's investigation) | JSPR 64:16–25 confirmed. Full text may be paywalled → replace with secondary summary |
+| 10 | CORT-US-2000-leininger | United States | Claimed past life as a fighter pilot. Critique (2021), reply, counter-critique (2022–23) all public | Secondary + **public counter-evidence** | JSE free (CC BY-NC) confirmed |
 
-**솔직한 약점**: 서양 편중(영국 3, 미국·네덜란드·유럽). 2단계 확장 후보 — 한국(구비문학대계의 저승 설화, 미확인), 일본(『遠野物語』 1910, 青空文庫 전문 확인), 나이지리아 이그보(1986), 알래스카 틀링깃, 레바논 드루즈, 터키 알레비, 미얀마. 불교 전파권(인도–중국–한국–일본)은 서로 독립이 아닐 수 있어 독립성 판정이 핵심이다.
+**Honest weakness:** a Western bias (Britain 3, United States and Netherlands, Europe). Candidates for the stage-2 extension: Korea (otherworld tales in the Comprehensive Collection of Korean Oral Literature, unverified), Japan (*Tōno monogatari* 1910, full text confirmed at Aozora Bunko), the Igbo of Nigeria (1986), the Tlingit of Alaska, the Druze of Lebanon, the Alevi of Turkey, Myanmar. The Buddhist transmission zone (India–China–Korea–Japan) may not be mutually independent, so the independence judgement is central there.
 
-## 4. 시대를 넘는 연관 — 처음부터 추적할 것
+## 4. Connections across periods, traced from the start
 
-대표님 지시대로 사건을 따로따로 두지 않는다. `entities/`에 인물·장소·문헌·모티프를 두고 사건과 링크한다. 10건에서 이미 보이는 연결:
+As the owner instructed, cases are not left in isolation. People, places, texts and motifs live in `entities/` and are linked to the cases. Connections already visible among the ten:
 
-- **모티프 "잘못 데려감"**: 6세기 로마(#5) — 1986 인도(#3) — 중국 지괴소설·한국 저승 설화(미확인). 불교 경로로 **전파**됐는지, 접촉 없이 **재발**했는지가 첫 판정 과제. 로마–인도 사이에 전파 경로가 없다면 가장 강한 구조 수렴 후보.
-- **인물**: Stevenson(#3 인도 NDE와 CORT 전체) — Haraldsson(1977 임종 환시 조사와 #9) — Greyson·Tucker(#10) — Barrett(1882 SPR 창립 멤버, #8의 시대와 #6을 잇는다). 한 집단이 여러 현상을 조사했다는 사실은 **조사자 효과 감점 요인**인 동시에 연결 추적 대상이다.
-- **문헌 계보**: Barrett 1926 → Osis 1961 → Osis & Haraldsson 1977 → Kerala 2010 → 현대 호스피스 연구. 질문지와 분류가 같은 뿌리인지 확인해야 "독립 조사"로 셀 수 있다.
-- **반박 사슬**: #1의 2010 반박자(Woerlee)와 #10의 비판자(Sudduth)는 서로 다른 입장의 회의론이다. 반대 자료도 인물 단위로 추적한다.
+- **Motif "taken by mistake":** 6th-century Rome (#5) — India 1986 (#3) — Chinese *zhiguai* tales and Korean otherworld tales (unverified). The first judgement to make is whether this **spread** along the Buddhist route or **recurred** without contact. If there is no transmission route between Rome and India, it is the strongest candidate for structural convergence.
+- **People:** Stevenson (the Indian NDEs of #3 and the whole of CORT) — Haraldsson (the 1977 deathbed-vision survey and #9) — Greyson and Tucker (#10) — Barrett (a founder of the SPR in 1882; he joins the period of #8 to #6). That one group investigated several phenomena is at once **a reason for the investigator-effect discount** and a target for tracing connections.
+- **Textual lineage:** Barrett 1926 → Osis 1961 → Osis & Haraldsson 1977 → Kerala 2010 → modern hospice studies. Whether the questionnaires and classifications share one root must be checked before these can be counted as "independent investigations".
+- **Rebuttal chain:** the 2010 rebutter of #1 (Woerlee) and the critic of #10 (Sudduth) are sceptics of different positions. Counter-evidence is traced person by person too.
 
-## 5. 어디에 기록을 남기는가 — 추천
+## 5. Where the records live: recommendation
 
-**이 폴더를 그대로 "평문 마크다운 + `[[위키링크]]` 볼트"로 운영한다.** 돈 0원, 어떤 편집기로도 열리고, 그래프로 보고 싶으면 Obsidian(무료, 현재 미설치)을 설치하면 링크 관계가 시대 순으로 보인다.
+**Run this folder as it is, as a vault of plain Markdown with `[[wikilinks]]`.** It costs nothing, opens in any editor, and if a graph view is wanted, Obsidian (free, not installed at present) shows the link relations in chronological order.
 
 ```
 William/
-  docs/      CHARTER · METHOD · NEXT_STEPS · SYNTHESIS(대표님이 읽는 본문) · TIMELINE(자동 생성, 연대순 색인)
-  cases/     1사건 1파일. 반대 자료도 같은 양식, type: counter
-  entities/  people/ places/ texts/ motifs/ — 1항목 1파일, 사건과 [[링크]]
-  sources/   확인한 출처의 요약(다시 열지 않기 위해). 공공 도메인만 발췌 저장
-  tools/     색인·연표·링크 검사 스크립트(파이썬, 의존성 없음)
+  docs/      CHARTER · METHOD · NEXT_STEPS · SYNTHESIS (the text the owner reads) · TIMELINE (generated, chronological index)
+  cases/     one file per case. Counter-evidence in the same format, type: counter
+  entities/  people / places / texts / motifs — one file each, [[linked]] to the cases
+  sources/   summaries of sources already checked (so they need not be opened again). Only public-domain excerpts are stored
+  tools/     index, timeline and link-check scripts (Python, no dependencies)
 ```
 
-- **버전 이력**: `William/`에 `git init`(로컬, 무료). 카드의 등급이 바뀐 이력이 남아야 "결론이 왜 바뀌었나"를 답할 수 있다. 승인해 주시면 다음 세션에 시작한다.
-- **왜 노션·구글 문서가 아닌가**: 계정 가입이 필요하고(대표님 손), 링크 그래프·연표를 스크립트로 못 만들고, 토큰으로 읽고 쓰기에 마크다운이 가장 싸다.
+- **Version history:** `git init` in `William/` (local, free). The history of grade changes must survive so that "why did the conclusion change?" can be answered. With approval, it starts next session.
+- **Why not Notion or Google Docs:** they need account sign-ups (the owner's hands), the link graph and timeline cannot be generated by script, and Markdown is cheapest to read and write.
 
-## 6. 수렴 판정 기준(요약)
+## 6. Criteria for a convergence verdict (summary)
 
-전문은 `METHOD.md` 2·5·8절. 핵심만:
+Full text in `METHOD.md` §2, §5 and §8. The essentials:
 
-- **사건마다 등급 둘.** R등급(기록의 질, A~D)은 출처·목격자·시점·평범한 설명 검토·조사자 독립성 5축 합산. V등급(검증 정보, V2~V0)은 "확인 **이전**에 제3자 문서로 남았는가"가 핵심. 원문을 내가 못 열었으면 D, "이렇게도 설명된다" 칸이 비면 미평가, 사기를 배제 못 하면 D, 반박 탐색을 안 했으면 집계 제외.
-- **독립성.** 접촉·번역·선교·매체·같은 조사자 — 다섯 경로가 전부 배제돼야 독립(I2). 연결 층(§4)에서 전파 연결이 확인되면 자동으로 비독립. **연결을 끝까지 파야 독립으로 셀 수 있다** — 대표님 지시(시대를 넘는 연관 추적)가 등급표 안에서 작동하는 지점이다.
-- **구조 수렴 "있음"**: 독립 문화권 4개 이상에서 B 이상(또는 원문 확인된 C 2건) + 조사 주체 2곳 이상. 2개는 미발견 접촉, 3개는 우연으로 설명될 수 있고, 4개면 하나가 오염으로 밝혀져도 3개가 남는다.
-- **검증 정보 "있음"**: V2 3건 이상, 조사 주체 2곳 이상, B급 이상의 반박 없음.
-- **"없음"은 충분히 찾아본 뒤에만**(5개 문화권 탐색, V 후보 10건 카드화). 아니면 "보류". 안 찾은 것과 없는 것을 구분한다.
-- **최강 표현은 "사후 생존 가설이 평범한 설명들보다 더 잘 지지된다"까지.** "증명됐다"는 쓸 조건이 없다. 미리 알려드릴 것: 검증 정보가 있어도 "살아 있는 사람의 초심리"와 "사후 생존"을 기록으로 가르는 사례는 드물어서, 결론이 "생존 **또는** 초심리 가설이 더 잘 지지된다"에서 멈출 가능성이 높다. 그것도 정직한 결론이다.
+- **Two grades per case.** The R grade (quality of the record, A–D) sums five axes: source, witnesses, timing, review of ordinary explanations, investigator independence. The V grade (verified information, V2–V0) turns on "was it left in a third party's document **before** it was checked?". If I could not open the original: D. If the "other ways to explain it" section is empty: not assessed. If fraud cannot be ruled out: D. If no search for rebuttals was made: excluded from the counts.
+- **Independence.** Contact, translation, mission, media, same investigator: all five routes must be excluded for independence (I2). A transmission connection confirmed in the connection layer (§4) automatically makes a record non-independent. **A record can be counted as independent only after its connections have been followed to the end**: this is where the owner's instruction (trace connections across periods) operates inside the grading scale.
+- **Structural convergence "present":** B or better (or two C with the original opened) in 4 or more independent cultures + 2 or more investigating bodies. Two can be explained by undiscovered contact, three by chance; with four, three remain even if one proves contaminated.
+- **Verified information "present":** 3 or more V2, 2 or more investigating bodies, no rebuttal of grade B or better.
+- **"Absent" only after enough searching** (5 cultures searched, 10 V candidates carded). Otherwise "undecided". Not found and not there are different things.
+- **The strongest wording goes as far as "the survival hypothesis is supported better than the ordinary explanations".** There is no condition under which "proven" can be written. A warning in advance: even with verified information, cases that separate "psi of living people" from "survival after death" by the record are rare, so the conclusion will very likely stop at "the survival **or** psi hypothesis is supported better". That too is an honest conclusion.
 
-## 7. 비용
+## 7. Cost
 
-- 카드 1장: 출처 2~4개를 필요한 부분만 읽고 등급·가설·연결까지 적으면 **8~15만 토큰**(Fable xhigh). 반대 자료가 붙은 사건(#1, #10)은 상한.
-- 세션 1회(카드 2장 + NEXT_STEPS 갱신): **25~30만 토큰**. 주 2회면 10건에 **3주**, 종합(`SYNTHESIS.md`)까지 **5주**.
-- 이번 세션(헌장·등급표·출처 확인): 약 30만 토큰 추정(검색 결과가 대부분).
-- 안 쓰는 것: 워크플로, 대량 서브에이전트. 등급표 설계에만 서브에이전트 1개를 썼다.
+- One card: reading only the needed parts of 2–4 sources and writing grades, hypotheses and connections, **80,000–150,000 tokens** (Fable, xhigh). Cases with attached counter-evidence (#1, #10) are at the upper end.
+- One session (two cards + NEXT_STEPS update): **250,000–300,000 tokens**. At two sessions a week, ten cases in **3 weeks**, synthesis (`SYNTHESIS.md`) in **5 weeks**.
+- This session (charter, grading scale, source checks): about 300,000 tokens estimated (mostly search results).
+- Not used: workflows, mass subagents. One subagent was used, for the design of the grading scale only.
 
-## 8. 대표님께 필요한 것
+## 8. What is needed from the owner
 
-- 이 헌장(특히 §1 문장)의 승인. 고칠 곳이 있으면 문장만 주시면 된다.
-- `git init` 승인(§5).
-- 돈은 0원. 가입도 없다. Obsidian 설치는 선택이다.
+- Approval of this charter (especially the §1 sentence). If anything needs changing, the sentence alone is enough.
+- Approval of `git init` (§5).
+- Money: none. Sign-ups: none. Installing Obsidian is optional.

@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="760" viewBox="0 0 1240 760" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','Noto Sans CJK KR',sans-serif">
+<rect width="1240" height="760" fill="#faf8f8"/>
+<text x="20.0" y="34.0" font-size="20" fill="#2b2b2b" font-weight="bold" text-anchor="start">1991년 피닉스 팸 레이놀즈 사례 — 수술의 시간표와 검증된 지각이 일어난 시각</text>
+<text x="20.0" y="56.0" font-size="11.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">시각은 수술 기록을 Sabom(2007)과 Augustine(2007, 그림 1)이 옮긴 것, 지각은 JNDS 2007–2011에 인용된 Sabom 1998. 카드 NDE-US-1991-reynolds 3절·6절의 사실만.</text>
+<rect x="107.7" y="84" width="1017.0" height="20" rx="3" fill="#eef2f5" stroke="#284b63" stroke-width="1"/>
+<text x="115.7" y="98.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">전신마취 7:15 → ~14:00 (티오펜탈·미다졸람·수펜타닐·베쿠로늄; 이소플루란/아산화질소)</text>
+<rect x="647.6" y="110" width="263.7" height="20" rx="3" fill="#d7e3ec" stroke="#284b63" stroke-width="1"/>
+<text x="639.6" y="124.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="end">인공심폐: 냉각 10:50부터 · 재가온 11:30 → ~12:35</text>
+<rect x="697.8" y="136" width="50.2" height="20" rx="3" fill="#fbf1ea" stroke="#b5541c" stroke-width="1"/>
+<rect x="748.0" y="136" width="87.9" height="20" rx="3" fill="none" stroke="#b5541c" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="843.9" y="150.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="start">회복 시각은 인용된 기록에 없음(마취제 재개 12:05)</text>
+<text x="689.8" y="150.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="end">뇌 전기 활동 소실: 대뇌(SSEP) 11:10부터, 뇌간(BAEP) 11:24부터</text>
+<rect x="735.4" y="162" width="12.6" height="20" rx="2" fill="#b5541c"/>
+<text x="756.0" y="176.0" font-size="11.5" fill="#b5541c" font-weight="bold" text-anchor="start">11:25–11:30 순환 정지: 혈액 배출, 동맥류 결찰 (체온 ~15.5 °C)</text>
+<line x1="70" y1="215" x2="1200" y2="215" stroke="#2b2b2b" stroke-width="1.5"/>
+<line x1="70.0" y1="210" x2="70.0" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="70.0" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">7시</text>
+<line x1="70.0" y1="80" x2="70.0" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="220.7" y1="210" x2="220.7" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="220.7" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">8시</text>
+<line x1="220.7" y1="80" x2="220.7" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="371.3" y1="210" x2="371.3" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="371.3" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">9시</text>
+<line x1="371.3" y1="80" x2="371.3" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="522.0" y1="210" x2="522.0" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="522.0" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">10시</text>
+<line x1="522.0" y1="80" x2="522.0" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="672.7" y1="210" x2="672.7" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="672.7" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">11시</text>
+<line x1="672.7" y1="80" x2="672.7" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="823.3" y1="210" x2="823.3" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="823.3" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">12시</text>
+<line x1="823.3" y1="80" x2="823.3" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="974.0" y1="210" x2="974.0" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="974.0" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">13시</text>
+<line x1="974.0" y1="80" x2="974.0" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="1124.7" y1="210" x2="1124.7" y2="220" stroke="#2b2b2b" stroke-width="1"/>
+<text x="1124.7" y="205.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="middle">14시</text>
+<line x1="1124.7" y1="80" x2="1124.7" y2="193" stroke="#284b63" stroke-width="0.4" stroke-dasharray="2,4"/>
+<line x1="107.7" y1="215" x2="107.7" y2="227" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="107.7" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="103.7" y="242.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">7:15 마취 유도</text>
+<line x1="326.1" y1="215" x2="326.1" y2="283" stroke="#b5541c" stroke-width="1.5"/>
+<polygon points="326.1,207.0 328.2,212.1 333.7,212.5 329.6,216.1 330.8,221.5 326.1,218.6 321.4,221.5 322.7,216.1 318.5,212.5 324.0,212.1" fill="#b5541c" stroke="#ffffff" stroke-width="1"/>
+<text x="322.1" y="298.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">~8:40–8:50  ★1 ★2 ★3</text>
+<text x="322.1" y="313.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">드릴 소리 · 톱 · 동맥이</text>
+<text x="322.1" y="328.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">작다는 여성의 목소리</text>
+<text x="322.1" y="343.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">(마취 중, 정상 체온, 눈 테이프)</text>
+<line x1="647.6" y1="215" x2="647.6" y2="227" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="647.6" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="643.6" y="242.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">10:50 인공심폐 시작,</text>
+<text x="643.6" y="257.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">냉각</text>
+<line x1="740.5" y1="215" x2="740.5" y2="283" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="740.5" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="736.5" y="298.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">11:25–11:30 순환 정지·</text>
+<text x="736.5" y="313.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">결찰, 인공심폐 재개,</text>
+<text x="736.5" y="328.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">재가온(65분)</text>
+<line x1="835.9" y1="215" x2="835.9" y2="227" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="835.9" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="831.9" y="242.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">12:05 이소플루란</text>
+<text x="831.9" y="257.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">재개</text>
+<line x1="948.9" y1="215" x2="948.9" y2="227" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="948.9" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="944.9" y="242.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">12:50 아산화질소</text>
+<text x="944.9" y="257.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="start">재개</text>
+<line x1="1024.2" y1="215" x2="1024.2" y2="283" stroke="#b5541c" stroke-width="1.5"/>
+<polygon points="1024.2,207.0 1026.3,212.1 1031.8,212.5 1027.6,216.1 1028.9,221.5 1024.2,218.6 1019.5,221.5 1020.8,216.1 1016.6,212.5 1022.1,212.1" fill="#b5541c" stroke="#ffffff" stroke-width="1"/>
+<text x="1020.2" y="298.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">~12:35–14:00 봉합  ★4</text>
+<text x="1020.2" y="313.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">'호텔 캘리포니아'가</text>
+<text x="1020.2" y="328.0" font-size="11.5" fill="#b5541c" font-weight="normal" text-anchor="start">흐르는 중 '돌아옴'</text>
+<line x1="1124.7" y1="215" x2="1124.7" y2="227" stroke="#6b6b6b" stroke-width="1"/>
+<circle cx="1124.7" cy="215" r="3.5" fill="#2b2b2b"/>
+<text x="1128.7" y="242.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="end">~14:00 수술 끝,</text>
+<text x="1128.7" y="257.0" font-size="11.5" fill="#2b2b2b" font-weight="normal" text-anchor="end">14:10 회복실</text>
+<text x="20.0" y="378.0" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">레이놀즈가 말한 것 중 확인된 것 (6절) — 그리고 그 시각</text>
+<rect x="20" y="390" width="1200" height="100" rx="6" fill="#eef2f5" stroke="#284b63" stroke-width="0.8"/>
+<text x="32.0" y="414.0" font-size="11.5" fill="#b5541c" font-weight="bold" text-anchor="start">★1 드릴 소리: "자연 D음"</text>
+<text x="32.0" y="433.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">공압 골 드릴이 쓰이고 있었다;</text>
+<text x="32.0" y="447.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">음높이 자체는 확인할 수 없다</text>
+<text x="32.0" y="471.0" font-size="10.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">~8:45 · 마취 중, 정상 체온</text>
+<text x="332.0" y="414.0" font-size="11.5" fill="#b5541c" font-weight="bold" text-anchor="start">★2 톱과 그 케이스</text>
+<text x="332.0" y="433.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">"소켓 렌치 케이스"에 든 날: 맞음</text>
+<text x="332.0" y="447.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">"위쪽의 홈": 그 톱에는 없음</text>
+<text x="332.0" y="471.0" font-size="10.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">~8:45 · 같음</text>
+<text x="632.0" y="414.0" font-size="11.5" fill="#b5541c" font-weight="bold" text-anchor="start">★3 "동맥이 너무 작다… 반대쪽"</text>
+<text x="632.0" y="433.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">기록: 심장외과의(여성)가</text>
+<text x="632.0" y="447.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">양쪽 대퇴 혈관을 절개</text>
+<text x="632.0" y="471.0" font-size="10.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">~8:40(유도 1시간 25분 뒤) · 같음</text>
+<text x="932.0" y="414.0" font-size="11.5" fill="#b5541c" font-weight="bold" text-anchor="start">★4 "호텔 캘리포니아"</text>
+<text x="932.0" y="433.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">봉합 중 수술실에서</text>
+<text x="932.0" y="447.0" font-size="11" fill="#2b2b2b" font-weight="normal" text-anchor="start">틀어 둔 노래</text>
+<text x="932.0" y="471.0" font-size="10.5" fill="#6b6b6b" font-weight="normal" text-anchor="start">재가온 뒤; 마취제 재개 12:05</text>
+<text x="1210.0" y="507.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="end">넷 다 수술실의 사람들이 알던 정보 → 초심리(H2)와 사후 의식(H1)을 가르지 못함. 뇌 활동 소실 구간(11:10/11:24 → ~11:30 이후) 안에 든 것은 없음.</text>
+<text x="20.0" y="532.0" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">이렇게도 설명된다 (7절) — 그래서 등급이 C / V1</text>
+<rect x="20.0" y="544" width="288.0" height="184" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
+<text x="32.0" y="568.0" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">마취 중 청각 (L·N)</text>
+<text x="32.0" y="590.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">전신마취 중 각성은 1,000명에 1–2명</text>
+<text x="32.0" y="607.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">(Augustine; Woerlee). 반대 근거:</text>
+<text x="32.0" y="624.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">양쪽 귀의 몰드 스피커, 100 dB 클릭</text>
+<text x="32.0" y="641.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">초당 11회, 백색 소음; 집도의는</text>
+<text x="32.0" y="658.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">"상상할 수 없다". Woerlee: 골전도로</text>
+<text x="32.0" y="675.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">가능; 그 자신의 결론은 "자료 불충분".</text>
+<text x="32.0" y="692.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ 부분 배제</text>
+<rect x="324.0" y="544" width="288.0" height="184" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
+<text x="336.0" y="568.0" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">나중에 들음 · 기억 (L·D)</text>
+<text x="336.0" y="590.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">첫 기록은 3년 뒤인 1994년 11월.</text>
+<text x="336.0" y="607.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">의료진은 환자에게 수술을 설명한다;</text>
+<text x="336.0" y="624.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">무엇을 들었는지 물은 출처가 없다.</text>
+<text x="336.0" y="641.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">톱에 없는 홈을 묘사했다.</text>
+<text x="336.0" y="658.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">→ L 부분 배제, D 배제 못 함</text>
+<rect x="628.0" y="544" width="288.0" height="184" rx="6" fill="#ffffff" stroke="#284b63" stroke-width="1.2"/>
+<text x="640.0" y="568.0" font-size="14" fill="#284b63" font-weight="bold" text-anchor="start">시각 (핵심)</text>
+<text x="640.0" y="590.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">수술 기록: 뇌 활동 소실 11:10/11:24,</text>
+<text x="640.0" y="607.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">순환 정지 11:25–11:30.</text>
+<text x="640.0" y="624.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">확인된 지각은 전부 그 구간 밖에 있다.</text>
+<text x="640.0" y="641.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">터널·빛·친척은 시각 표시가 없다.</text>
+<text x="640.0" y="658.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">Sabom 자신: "감질나는 단서, 그러나</text>
+<text x="640.0" y="675.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">확정적 답은 없다".</text>
+<rect x="932.0" y="544" width="288.0" height="184" rx="6" fill="#fbf1ea" stroke="#b5541c" stroke-width="2"/>
+<text x="944.0" y="568.0" font-size="14" fill="#b5541c" font-weight="bold" text-anchor="start">등급</text>
+<text x="944.0" y="590.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">출처: 조사자 면담 + 기록 발췌,</text>
+<text x="944.0" y="607.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">책은 미열람(S7=1) · 체험자 1인 ·</text>
+<text x="944.0" y="624.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">3년 뒤 · 공감적 조사자 1인 → R = C</text>
+<text x="944.0" y="641.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">검증 항목은 있으나 확인 전 기록이</text>
+<text x="944.0" y="658.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">없고 누설 차단 문서도 없음 → V = V1</text>
+<text x="944.0" y="675.0" font-size="12" fill="#2b2b2b" font-weight="normal" text-anchor="start">집계: S·V 두 층(S층은 I0)</text>
+<text x="20.0" y="748.0" font-size="11" fill="#6b6b6b" font-weight="normal" text-anchor="start">도해 · William 작성(2026-10-25) · 기록이 아님 · 생성 코드 tools/diagrams/NDE-US-1991-reynolds.py ko</text>
+</svg>

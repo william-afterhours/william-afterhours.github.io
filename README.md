@@ -6,7 +6,7 @@ A record-by-record study of experiences at the edge of death — near-death expe
 
 > Across records from cultures and periods that had no contact with one another, do experiences at the edge of death (near-death experiences, deathbed visions, crisis apparitions, children's past-life memories) recur with the same structure? How many of those records contain facts the experiencer could not have known through normal channels? And does that body of records support the hypothesis that "consciousness does not end with the death of the brain" better than the ordinary explanations do?
 
-Full charter: [docs/CHARTER.md](docs/CHARTER.md) (Korean). Grading scale and rules: [docs/METHOD.md](docs/METHOD.md) (Korean; English translation in progress).
+Full charter: [docs/CHARTER.md](docs/CHARTER.md). Grading scale and rules: [docs/METHOD.md](docs/METHOD.md). Every card and entity by year, generated from the cards: [docs/TIMELINE.md](docs/TIMELINE.md).
 
 ## Cases so far
 
@@ -20,7 +20,13 @@ A twenty-two-year-old mother, dying of heart failure after giving birth at a Sal
 
 ![Main building of the St Canisius Hospital, Nijmegen, 1960](assets/NDE-NL-1979-dentures--canisius-hospital-1960.jpg)
 
-A man found in a meadow with his heart stopped was resuscitated for more than an hour. A week or more later he recognised the nurse who had taken his dentures out of his mouth and described the cart they were put on and the room, which he said he had watched from above. The only witness is that nurse; the first record came twelve years later. The most cited near-death anecdote in the world. Record grade **C**, verified information **V1**.
+A man found in a meadow with his heart stopped was resuscitated for more than an hour. A week or more later he recognised the nurse who had taken his dentures out of his mouth and described the cart they were put on and the room, which he said he had watched from above. The only witness is that nurse; the first record came twelve years later. The most cited near-death anecdote in the world. Record grade **C**, verified information **V1**, independence **I0** (the Dutch translation of Moody's book was on sale from 1977).
+
+### [Pam Reynolds and the bone saw (Phoenix, 1991)](cases/NDE-US-1991-reynolds.md)
+
+![The Barrow Neurological Institute, Phoenix, in 2019; a later building named after the surgeon](assets/NDE-US-1991-reynolds--barrow-tower.jpg)
+
+A singer-songwriter under general anaesthesia for brain surgery, her eyes taped shut and loud clicks sounding in both ears, had her body cooled and her heart stopped so that an aneurysm could be clipped. Three years later she described the bone saw and its case, a woman's voice saying her arteries were too small, and the song that was playing when she came back. The investigator checked the saw against the manufacturer's manual and found it right. But the operative record places every checked perception about two hours before the arrest, under ordinary anaesthesia, or after the anaesthetics were resumed. The case usually said to show experience during a flat EEG does not show that. Record grade **C**, verified information **V1**, independence **I0**.
 
 A synthesis ([docs/SYNTHESIS.md](docs/SYNTHESIS.md)) will be written when ten cards are done. Progress notes: [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) (Korean).
 
@@ -35,7 +41,7 @@ A synthesis ([docs/SYNTHESIS.md](docs/SYNTHESIS.md)) will be written when ten ca
 
 ## Languages
 
-English is the main language of the cards and of this site. Korean readings of each card are under [`ko/`](ko/). The method, the charter and the entity notes are in Korean for now; translation is in progress.
+English is the main language of the cards and of this site. Korean readings of each card are under [`ko/`](ko/). The method, the charter, the entity notes and the source notes are in English; the working log ([docs/NEXT_STEPS.md](docs/NEXT_STEPS.md)) stays in Korean.
 
 ## Discussion
 

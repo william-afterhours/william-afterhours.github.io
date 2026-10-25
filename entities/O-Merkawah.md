@@ -7,44 +7,50 @@ role: O-Merkawah
 cluster: EU-W
 dates: "1988-"
 aliases: ["Merkawah Foundation", "IANDS Nederland", "Stichting Merkawah"]
-links: [NDE-NL-1979-dentures, P-TG-witness-1979, P-Woerlee-GM]
+links: [NDE-NL-1979-dentures, NDE-US-1991-reynolds, P-TG-witness-1979, P-Woerlee-GM]
 status: draft
-updated: 2026-10-21
+updated: 2026-10-25
 ---
 
-# Merkawah 재단 (IANDS 네덜란드 지부)
+# Merkawah Foundation (IANDS Netherlands)
 
-## 1. 한 줄 설명
+## 1. One line
 
-네덜란드의 NDE 체험자 지원·수집 단체. 국제임사체험학회(IANDS)의 네덜란드 지부이며, 회지 *Terugkeer*를 낸다. 카드 1(틀니)의 모든 기록자가 이 단체 소속·관련이라 조사 주체 코드로 추적한다. 현상의 실재를 전제하는 단체이므로 METHOD S6에서 최대 1점.
+Dutch organisation that supports near-death experiencers and collects their accounts. It is the Netherlands branch of the International Association for Near-Death Studies (IANDS) and publishes the periodical *Terugkeer*. Every recorder of card 1 (dentures) belonged to or was connected with it, so it is tracked as an investigating body. Because it presupposes the reality of the phenomenon, it scores at most 1 on METHOD S6. Its editor Rudolf Smit also entered the American Pam Reynolds debate (2008, 2012), which makes the foundation a cross-case link between the two NDE cards.
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| 1988 | 설립(창립자 5인 중 van Wees; van Lommel 관련) | NL / EU-W | 조사 주체 | 확인(Smit 2008 p.50 "one of the five founders") | 설립 연도는 미확인(통설) |
-| 1991 | Meijers, *Cordiaal* 3:53-56 — [[NDE-NL-1979-dentures]] 최초 기록 | NL | 기록자(Lancet 공저자) | 미확인 | K.B. 전언 |
-| 1994 | Addink, T.G. 면담 12쪽(아카이브, 미출판) | NL | 면담자 | 미확인(Smit 2008 발췌) | |
-| 2001 | van Lommel 등, *Lancet* 358:2039-45 | EN | 전향 연구 + 일화 전재 | 부분 | 틀니 일화 p.2041 |
-| 2007-08 | van Wees 아카이브 → Smit; Smit 2008 JNDS; Rivas 2008 *Terugkeer* 19(3) | EN/NL | 재조사 | 확인/미확인 | |
-| 2010 | Smit & Rivas, JNDS 28(4) 재반박 | EN | | 확인 | 심장전문의 van Lommel·Louridtz 자문 |
+| 1988 | Founded (van Wees among the five founders; van Lommel connected) | NL / EU-W | investigating body | confirmed (Smit 2008 p. 50 "one of the five founders") | Founding year unverified (received account) |
+| 1991 | Meijers, *Cordiaal* 3:53–56 — first record of [[NDE-NL-1979-dentures]] | NL | recorder (co-author of the Lancet paper) | unverified | Via K.B. |
+| 1994 | Addink, 12-page interview with T.G. (archive, unpublished) | NL | interviewer | unverified (excerpts in Smit 2008) | |
+| 2001 | van Lommel et al., *Lancet* 358:2039–45 | EN | prospective study + the anecdote reprinted | partly | Dentures anecdote p. 2041 |
+| 2007–08 | van Wees archive → Smit; Smit 2008 JNDS; Rivas 2008 *Terugkeer* 19(3) | EN/NL | re-investigation | confirmed/unverified | |
+| 2008 | Smit, letter to JNDS 26(4):308–310 "Further Commentary on Pam Reynolds's NDE" — quotes Spetzler's BBC statements against Woerlee and Augustine | EN | commentator on [[NDE-US-1991-reynolds]] | confirmed (OCR) | Signed "Editor, *Terugkeer*, The Merkawah Foundation / IANDS the Netherlands" |
+| 2010 | Smit & Rivas, JNDS 28(4), reply to Woerlee | EN | | confirmed | Advised by cardiologists van Lommel and Louridtz |
+| 2012 | Smit, letter to JNDS 30(3):188–192 "Failed Test of the Possibility that Pam Reynolds Heard Normally During Her NDE" | EN | commentator on [[NDE-US-1991-reynolds]] | confirmed (OCR) | Ran Woerlee's proposed click test himself; signed from Zwolle without the foundation's name |
 
-## 3. 연결
+## 3. Connections
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[NDE-NL-1979-dentures]] | R-INV | 중립 | 확인 | 유일 조사 주체 |
-| [[P-TG-witness-1979]] | R-PER | 중립 | 확인 | 1994·2008 면담 대상 |
-| [[P-Woerlee-GM]] | R-REB | 중립 | 확인 | 2004·2010 반박의 상대 |
+| [[NDE-NL-1979-dentures]] | R-INV | neutral | confirmed | Sole investigating body |
+| [[NDE-US-1991-reynolds]] | R-REB (defence) | neutral | confirmed | Smit 2008 and 2012 letters defending the case against Woerlee and Augustine. Not an investigating body for this case (no interviews of its own) |
+| [[P-TG-witness-1979]] | R-PER | neutral | confirmed | Interviewed in 1994 and 2008 |
+| [[P-Woerlee-GM]] | R-REB | neutral | confirmed | Opponent in the 2004 and 2010 rebuttals, and in the Reynolds exchange |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 2차 | Smit 2008 JNDS 27(1):47-61 (저자 소개·p.50) | 확인 | https://digital.library.unt.edu/ark:/67531/metadc798921/ | |
-| 2 | 2차 | Smit & Rivas 2010 JNDS 28(4):193-205 (저자 소개) | 확인 | https://digital.library.unt.edu/ark:/67531/metadc461736/ | |
+| 1 | secondary | Smit 2008, JNDS 27(1):47–61 (author note, p. 50) | confirmed | https://digital.library.unt.edu/ark:/67531/metadc798921/ | |
+| 2 | secondary | Smit & Rivas 2010, JNDS 28(4):193–205 (author note) | confirmed | https://digital.library.unt.edu/ark:/67531/metadc461736/ | |
+| 3 | commentary | Smit 2008, letter, JNDS 26(4):308–310 | confirmed (OCR) | https://digital.library.unt.edu/ark:/67531/metadc937967/ | |
+| 4 | commentary | Smit 2012, letter, JNDS 30(3):188–192 | confirmed (OCR) | https://digital.library.unt.edu/ark:/67531/metadc938051/ | |
 
-## 5. 메모
+## 5. Notes
 
-- 이 단체가 수집한 다른 사례가 카드화되면 ⑤ 같은 조사 주체로 독립성에 반영한다.
-- 회지 *Terugkeer* 온라인 아카이브 유무 미조사(Rivas 2008·T.G. 2008 원문 확보용).
+- When another case collected by this body is carded, route ⑤ (same investigating body) applies to its independence.
+- The same two people, Smit for the defence and Woerlee for the prosecution, argued both NDE-V cards now on file. Their disagreement is therefore a constant, not evidence about either case; what differs between the cards is the record.
+- Whether *Terugkeer* has an online archive is not investigated (for the originals of Rivas 2008 and T.G. 2008).

@@ -1,223 +1,236 @@
-# METHOD — 등급표와 분류 (v0.1, 2026-10-21 대표님 승인·고정)
+---
+title: METHOD — grading scale and classification (v0.2)
+updated: 2026-10-25
+---
 
-작성 2026-10-21, William. 승인됐으므로 고정이다. 바꿀 때는 10절에 날짜와 이유를 적는다. 이 문서는 방법론이라 외부 문헌을 거의 인용하지 않으며, 인용한 것은 전부 "미확인(아직 열어 보지 않음)"이다.
+# METHOD — grading scale and classification (v0.2, fixed 2026-10-25, owner-confirmed)
 
-## 0. 연구 문장과 두 층
+Written 2026-10-21 by William; v0.1 approved and fixed on 2026-10-21, v0.2 confirmed by the owner on 2026-10-25 ("keep METHOD v0.2"). Because it is fixed, every change is dated and justified in §10. This is a methods document, so it cites almost no outside literature; where it does, the citation is marked "unverified (not yet opened)" unless §10 says otherwise. The Korean original of v0.1–v0.2 is preserved in git history (commit `42e7530` and earlier).
 
-**연구 문장:** `CHARTER.md` §1의 문장(대표님 확인 전 추천안). 요지 — 죽음과 맞닿은 경험들이 서로 접촉 없던 문화·시대에서 같은 구조로, 그리고 당사자가 정상 경로로 알 수 없던 사실을 담은 채 기록됐는지를 세고, 그 기록이 "의식은 뇌의 죽음과 함께 끝나지 않는다"는 가설을 평범한 설명들보다 더 잘 뒷받침하는지 판정한다.
+## 0. The research sentence and the two layers
 
-이 연구는 두 층을 끝까지 분리한다. 섞는 순간 과장이 된다.
+**Research sentence:** the sentence in `CHARTER.md` §1 (owner-approved 2026-10-21). In short: count whether experiences at the edge of death were recorded with the same structure in cultures and periods that had no contact with each other, and whether those records contain facts the experiencer could not have known by any normal route; then judge whether the records support the hypothesis "consciousness does not end with the death of the brain" better than the ordinary explanations do.
 
-| 층 | 묻는 것 | 보여주는 것 | 한계 |
+This research keeps two layers apart to the very end. The moment they are mixed, the result is exaggeration.
+
+| Layer | Question | What it shows | Limit |
 |---|---|---|---|
-| **S 구조 수렴** | 같은 구조의 경험이 독립된 문화에서 따로 기록됐는가 | 한 문화의 창작·유행이 아닌 인간 보편 현상 | 신경생리·심리 설명과 **양립**한다. 그 자체로는 사후 생존의 근거가 아니다 |
-| **V 검증 정보** | 당사자가 정상 경로로 알 수 없던 사실이 확인 **이전**에 기록됐는가 | 정보의 출처를 평범한 설명으로 못 대면 생존 가설에 힘이 실린다 | 정보 누설·우연을 배제한 만큼만 힘이 있다 |
+| **S — structural convergence** | Was an experience of the same structure recorded separately in independent cultures? | A universal human phenomenon rather than one culture's invention or fashion | It is **compatible** with neurophysiological and psychological explanations. On its own it is not evidence of survival |
+| **V — verified information** | Was a fact the experiencer could not have known by a normal route recorded **before** it was checked? | If the source of the information cannot be supplied by an ordinary explanation, the survival hypothesis gains weight | It has only as much force as the exclusion of leakage and coincidence gives it |
 
-모든 사건 카드는 **R등급**(기록 등급, S층)과 **V등급**을 따로 받고, 가설별 양립 여부(4절)와 다른 사건·인물·문헌과의 연결(6절)을 적는다. 현상별 판정(8절)도 층마다 따로 내린다.
+Every case card receives an **R grade** (record grade, S layer) and a **V grade** separately, states for each hypothesis whether the record is compatible with it (§4), and records its connections to other cases, people and texts (§6). The per-phenomenon verdict (§8) is likewise given layer by layer.
 
-## 1. 현상 구조 분류
+## 1. Structural classification of phenomena
 
-이름이 아니라 구조로 묶는다. **필수(☑)** 요소를 모두 갖춰야 코드를 받고, 하나라도 빠지면 "유사 사례"로 기록만 하고 집계에서 뺀다. 종교적 인물의 정체(예수·야마·조상)는 세부이지 구조가 아니다. "사건"의 시점은 체험이 일어난 때(CORT는 아동이 처음 말한 때)다.
+Phenomena are grouped by structure, not by name. A case must have every **required (☑)** element to receive a code; if even one is missing it is recorded as a "similar case" and left out of the counts. The identity of religious figures (Jesus, Yama, ancestors) is detail, not structure. The date of an "event" is when the experience occurred (for CORT, when the child first spoke).
 
-| 코드 | 현상 | 핵심 구조 요소 (☑ 필수 / ☐ 선택) | V요소(검증 정보가 되는 것) |
+| Code | Phenomenon | Core structural elements (☑ required / ☐ optional) | V element (what counts as verified information) |
 |---|---|---|---|
-| **NDE** | 임사체험 | ☑ 의학적 생명 위기(심정지·호흡정지·중증 외상)가 의료 기록 또는 의료진 증언으로 확인 ☑ 위기 중 경험을 보고, 다음 중 2개 이상: 체외 시점 / 터널·어둠→빛 / 비범한 평온 / 사망한 친지·존재와 만남 / 생애 회고 / 경계·귀환 결정 ☐ 체험 후 지속적 태도 변화 | 소생 중 주변 사건(기구·대화·행동)을 묘사했고 의료진·기록이 확인 → **NDE-V** |
-| **DBV** | 임종 환시 | ☑ 환시 후 실제 사망(보통 수일 내) ☑ 환자가 "방문자"(주로 사망한 친지)를 보거나 대화하거나 떠날 준비를 말함 ☑ 그 자리의 관찰자(의료진·가족)가 기록·증언 ☐ 의식 명료 상태 기록(섬망·약물 평가) | 환자가 **사망 사실을 몰랐던** 사람이 방문자로 나타남 → **DBV-V**. 변형: 곁의 제3자도 함께 지각 → DBV-S |
-| **CA** | 위기 환영 | ☑ 수신자와 발신자가 소식이 닿을 수 없는 거리 ☑ 발신자의 사망·중상·극심한 위기가 실제로 있었음 ☑ 환영 시각이 그 시점 ±12시간 이내(시각 기록 필요) ☑ 수신자가 당시 그 사실을 몰랐음 | 소식 도착 **전에** 제3자에게 말했거나 적었음 → **CA-V**. 변형: 복수 수신자 동시 지각 → CA-C |
-| **CORT** | 아이들의 전생 기억 | ☑ 10세 미만 아동의 **자발적** 진술(최면·유도 없음) ☑ 구체적 진술 3개 이상(이름·장소·사망 방식·가족·직업) ☑ 전생 인물(PP)이 실존으로 확인 ☑ 두 가족 간 사전 접촉·친족 관계 없음(조사됨) ☐ 행동 일치(공포증·습관·기술) ☐ 신체 일치(출생점·선천 결함 ↔ PP의 상처·사인, 의료·부검 기록 대조) | 진술이 PP 확인 **이전에** 문서화 → **CORT-V**. PP가 같은 가족이면 CORT-F: S층 보조 집계만, V 불가 |
-| **MED** (보조) | 영매 통신 | ☑ 사망자의 정보를 전달한다는 주장 ☑ 블라인드 조건(의뢰인 신원을 영매가 모름, 또는 대리 의뢰인) ☑ 세션 중 속기·녹음 ☑ 사전에 정한 기준으로 정확도 평가 | V층만 쓴다. 영매 관행은 제도·전승이라 S층 "독립 발생" 집계에서 제외 |
+| **NDE** | Near-death experience | ☑ A medical life-threatening crisis (cardiac arrest, respiratory arrest, severe trauma) confirmed by medical records or medical staff ☑ An experience reported from during the crisis, with at least two of: out-of-body viewpoint / tunnel or darkness → light / extraordinary peace / meeting dead relatives or beings / life review / a boundary or a decision to return ☐ Lasting change of attitude afterwards | The experiencer described events around the resuscitation (instruments, conversation, actions) and medical staff or records confirmed them → **NDE-V** |
+| **DBV** | Deathbed vision | ☑ Actual death after the vision (usually within days) ☑ The patient sees or converses with a "visitor" (mostly a dead relative) or speaks of getting ready to leave ☑ An observer present (medical staff, family) recorded or testified ☐ A record of lucidity (delirium and medication assessed) | A person **whose death the patient did not know of** appears as the visitor → **DBV-V**. Variant: a third person at the bedside also perceives the visitor → DBV-S |
+| **CA** | Crisis apparition | ☑ Receiver and sender at a distance beyond which news could reach ☑ The sender's death, serious injury or extreme crisis actually occurred ☑ The time of the apparition within ±12 hours of that moment (a time record is required) ☑ The receiver did not know the fact at the time | Told to a third party or written down **before** the news arrived → **CA-V**. Variant: several receivers perceive it at once → CA-C |
+| **CORT** | Children's past-life memories | ☑ **Spontaneous** statements by a child under 10 (no hypnosis or prompting) ☑ Three or more specific statements (name, place, manner of death, family, occupation) ☑ The previous personality (PP) confirmed as a real person ☑ No prior contact or kinship between the two families (investigated) ☐ Behavioural match (phobias, habits, skills) ☐ Physical match (birthmarks or birth defects ↔ the PP's wounds or cause of death, checked against medical or autopsy records) | Statements documented **before** the PP was identified → **CORT-V**. If the PP is in the same family, CORT-F: auxiliary S-layer count only, no V |
+| **MED** (auxiliary) | Mediumistic communication | ☑ A claim to convey information from a dead person ☑ Blind conditions (the medium does not know the sitter's identity, or a proxy sitter) ☑ Shorthand or recording during the session ☑ Accuracy assessed by criteria fixed in advance | V layer only. Mediumship is an institution and a tradition, so it is excluded from the S-layer "independent occurrence" count |
 
-**NDE의 층별 구조 요건(v0.2, 2026-10-21, 이유는 10절):** "다음 중 2개 이상" 요건은 **S층(구조 수렴) 집계에만** 적용한다. **V층** 집계는 ☑ 생명 위기 확인 + 체외 시점 + V요소(소생 중 주변 사건 묘사가 의료진·기록으로 확인)만 요구한다. 체외 시점 하나뿐인 검증 사례는 코드 NDE·`variant: V`를 받되 `countable`에 S가 들어가지 않는다(`countable: V`). 검증 정보는 체험 서사의 모양이 아니라 정보의 출처를 묻는 층이므로, 터널·빛 같은 서사 요소를 V층의 입장 조건으로 두면 문화적으로 정형화된 서사만 골라 세는 셈이 된다.
+**Layer-specific structural requirement for NDE (v0.2, 2026-10-21; reason in §10):** the "at least two of" requirement applies **only to the S-layer (structural convergence) count**. For the **V-layer** count only ☑ confirmed life-threatening crisis + out-of-body viewpoint + V element (description of events around the resuscitation confirmed by medical staff or records) is required. A verified case with nothing but an out-of-body viewpoint receives the code NDE and `variant: V`, but S does not enter its `countable` field (`countable: V`). The verified-information layer asks where the information came from, not what shape the narrative had; making narrative elements such as tunnel or light an entry condition for the V layer would amount to counting only culturally stereotyped narratives.
 
-**1단계 범위 밖(v0.1, 배제가 아니라 순서):** 유령·흉가, 폴터가이스트, 예지, UFO — 연구 문장(사후 의식)과 직접 닿지 않거나 V구조가 없어 뒤로 둔다. 1단계 사례·인물·장소와 연결(6절)이 발견되면 그 시점에 구조 정의를 추가한다(CHARTER §2 2단계). 최면 퇴행·성인의 전생 회상은 CORT가 아니다. 말기 명료(치매 환자가 임종 직전 의식을 되찾는 것)는 체험 기록이 아니라 관찰 기록이므로 2차 확장 후보로만 둔다.
+**Outside the scope of stage 1 (v0.1; a matter of order, not exclusion):** ghosts and haunted houses, poltergeists, precognition, UFOs. They either do not touch the research sentence (consciousness after death) directly or have no V structure, so they come later. If a connection (§6) to a stage-1 case, person or place is found, a structural definition is added at that point (CHARTER §2, stage 2). Hypnotic regression and adults' past-life recollections are not CORT. Terminal lucidity (a dementia patient regaining awareness shortly before death) is an observation record rather than an experience record, so it is kept only as a candidate for a second extension.
 
-## 2. 기록 등급표
+## 2. The record grading scale
 
-7개 축을 0·1·2점으로 채점한다. S1~S4·S6을 합산해 **R등급**을 내고, S5가 **V등급**을, S7이 **상한**을 정한다. 위키백과·커뮤니티 게시물은 출처가 아니라 단서다. 출처 목록에 적되 채점은 원출처로만 한다.
+Seven axes are scored 0, 1 or 2. S1–S4 and S6 are summed into the **R grade**; S5 sets the **V grade**; S7 sets a **cap**. Wikipedia and community posts are leads, not sources: list them among the sources, but score only from the original source.
 
-| 축 | 2점 | 1점 | 0점 |
+| Axis | 2 points | 1 point | 0 points |
 |---|---|---|---|
-| **S1 출처** | 1차: 당시 문서·법정·진료 기록·공식 조사 보고, 당사자가 당시 쓴 편지·일기 | 2차: 당대 신문, 조사자가 증인을 직접 면담한 학술 수집·논문 | 3차: 후대 전승·대중서·웹·백과사전 |
-| **S2 목격자** | 서로 독립적으로 진술한 신원 확인 증인 2명 이상(각자 면담되었거나 각자 기록) | 신원 확인된 단일 증인, 또는 상의 후 공동 진술한 복수 | 익명, 또는 그 자리에 없던 사람의 전언 |
-| **S3 시점** | 최초 기록이 사건 후 30일 이내 | 2년 이내 | 2년 초과, 또는 시점 불명 |
-| **S4 평범한 설명 검토** | 3절의 S층 항목(F·M·D·E·X)이 모두 배제됨/부분 배제이고 F는 배제됨 | F가 최소 부분 배제이고, '배제 못 함·검토 불가'가 1개 이하 | 그 외 |
-| **S5 선기록 (V축)** | 검증 대상 정보가 확인 이전에 제3자(조사자·의료진·기록자)의 날짜 있는 문서로 남음 | 확인 이전에 제3자에게 구두 전달되어 그가 후에 독립 증언, 또는 당사자 본인의 날짜 있는 기록 | 확인 이후 기록, 또는 순서 불명. V 주장이 없으면 "—" |
-| **S6 조사자 독립성** | 당사자·가족과 이해관계 없는 조사자가 현장에서 증인을 직접(가능하면 개별) 면담하고 보고서 공개 | 조사자가 있으나 서면·원격 조사만, 또는 현상의 실재를 전제하는 종교·영성 단체 소속 | 조사자 없음(자기 보고·언론 보도만) |
-| **S7 원문 열람** | 내가 원문(또는 스캔·공식 전재)을 열어 확인 | 신뢰할 수 있는 학술 2차 요약만 열어 확인 | 미열람 |
+| **S1 Source** | Primary: contemporary documents, court or medical records, official investigation reports, letters or diaries written by the person at the time | Secondary: contemporary newspapers; scholarly collections or papers in which the investigator interviewed the witnesses in person | Tertiary: later tradition, popular books, web, encyclopaedias |
+| **S2 Witnesses** | Two or more identified witnesses who testified independently of each other (each interviewed or each recorded separately) | A single identified witness, or several who gave a joint statement after conferring | Anonymous, or hearsay from someone who was not present |
+| **S3 Timing** | First record within 30 days of the event | Within 2 years | More than 2 years, or timing unknown |
+| **S4 Review of ordinary explanations** | All S-layer items of §3 (F·M·D·E·X) are ruled out or partly ruled out, and F is ruled out | F at least partly ruled out, and at most one item is "not ruled out / cannot assess" | Otherwise |
+| **S5 Prior record (V axis)** | The information to be verified was recorded, before it was checked, in a dated document by a third party (investigator, medical staff, recorder) | Told orally to a third party before it was checked, who later testified independently; or the person's own dated record | Recorded after the check, or order unknown. "—" if there is no V claim |
+| **S6 Investigator independence** | An investigator with no interest in common with the experiencer or family interviewed the witnesses in person on site (separately where possible) and published a report | An investigator exists but worked only by letter or at a distance, or belongs to a religious or spiritual body that presupposes the reality of the phenomenon | No investigator (self-report or press report only) |
+| **S7 Original opened** | I opened the original (or a scan or official reprint) and checked it | I checked only a reliable scholarly secondary summary | Not opened |
 
-**R등급 = S1+S2+S3+S4+S6 (0~10점).** S7은 합산하지 않고 상한으로만 쓴다(내가 열어 봤는지는 기록의 질이 아니라 내 확인의 질이다).
+**R grade = S1 + S2 + S3 + S4 + S6 (0–10).** S7 is not summed; it works only as a cap (whether I have opened the source is the quality of my checking, not the quality of the record).
 
-| 등급 | 점수 | 추가 조건 | 쓰임 |
+| Grade | Score | Extra conditions | Use |
 |---|---|---|---|
-| **A** | 9~10 | S1=2, S7=2 | 논증의 핵심 사례 |
-| **B** | 6~8 | S7≥1 | 논증 사용 가능. 집계 대상 |
-| **C** | 3~5 | — | 보조. S층에서 S7=2·I2이면 2건을 B 1건으로 환산 가능(8절). V2 불가 |
-| **D** | 0~2 | — | 존재 단서. 논증 불가 |
+| **A** | 9–10 | S1 = 2, S7 = 2 | Core cases of the argument |
+| **B** | 6–8 | S7 ≥ 1 | Usable in the argument. Counted |
+| **C** | 3–5 | — | Auxiliary. In the S layer, two C cards with S7 = 2 and I2 may be converted into one B (§8). V2 impossible |
+| **D** | 0–2 | — | Evidence that the case exists. Not usable in the argument |
 
-**상한 규칙(점수보다 먼저 적용):** ① S7=0(원문 미열람) → **D**, 논증 불가 ② "이렇게도 설명된다" 칸이 비었거나 구조 필수 요소 미충족 → **—(미평가)**, 집계 제외 ③ S1=0 또는 S2=0 → 상한 **C** ④ F(사기)가 '배제 못 함' → **D** ⑤ 반대 자료 탐색을 하지 않은 사례(`counter: unsearched`) → 집계 제외.
+**Cap rules (applied before the score):** ① S7 = 0 (original not opened) → **D**, not usable ② the "other ways to explain it" section is empty, or a required structural element is missing → **— (not assessed)**, excluded from counts ③ S1 = 0 or S2 = 0 → cap **C** ④ F (fraud) "not ruled out" → **D** ⑤ a case for which no search for counter-evidence was made (`counter: unsearched`) → excluded from counts.
 
-**V등급:** **V2** = S5=2 이고 F·L·C가 모두 '배제됨' 이고 R≥B / **V1** = S5≥1 이고 F·L·C가 최소 '부분 배제' 이고 R≥C / **V0** = V 주장은 있으나 미달 / **V—** = V 주장 없음. V등급은 R등급을 넘지 못한다(나쁜 기록 속의 검증 주장은 힘이 없다). 카드에는 `B/V1`처럼 적는다.
+**V grades:** **V2** = S5 = 2 and F·L·C all "ruled out" and R ≥ B / **V1** = S5 ≥ 1 and F·L·C at least "partly ruled out" and R ≥ C / **V0** = a V claim exists but falls short / **V—** = no V claim. The V grade never exceeds the R grade (a verification claim inside a poor record has no force). Cards write it as `B/V1`.
 
-## 3. 평범한 설명 체크리스트
+## 3. Checklist of ordinary explanations
 
-모든 카드의 "이렇게도 설명된다" 칸은 아래 8항목을 **배제됨 / 부분 배제 / 배제 못 함 / 검토 불가** 중 하나로, 근거 한 줄과 함께 채운다. '검토 불가'는 채점에서 '배제 못 함'과 같다. 한 항목이라도 비면 미평가다.
+The "other ways to explain it" section of every card fills in the eight items below with one of **ruled out / partly ruled out / not ruled out / cannot assess**, each with a one-line reason. "Cannot assess" counts as "not ruled out" when scoring. If even one item is empty, the card is not assessed.
 
-| 항목 | 걸리는 층 | '배제됨'의 기준 | '부분 배제'의 기준 |
+| Item | Layer affected | Criterion for "ruled out" | Criterion for "partly ruled out" |
 |---|---|---|---|
-| **F 사기** | S·V | 금전·명성 동기 없음 + 독립 조사자의 증인 교차 확인 + 사후 폭로 없음 | 동기 없음이지만 교차 확인 없음 |
-| **M 오인** | S·V | 환경(조명·거리·소리·약물)이 기록돼 있고 오인이 어려움 | 환경 일부만 기록 |
-| **D 기억 왜곡·사후 각색** | S·V | 선기록 있음(S3=2 또는 S5=2) | 2년 이내 기록 |
-| **L 정보 누설·정상 경로** | V | 정보 경로(가족 접촉·신문·소문·cold reading)를 조사했고 선기록으로 차단 | 조사했으나 완전 차단 못 함 |
-| **E 문화적 기대·암시** | S | 내용이 당사자 문화의 기대와 어긋나거나, 당사자가 그 현상 개념을 몰랐음 | 문화 기대와 일치하지만 세부가 독자적 |
-| **N 신경생리·약물·심리** | (기록만) | S층은 N과 양립하므로 감점하지 않는다. V층에서는 N이 검증 정보를 만들 수 없으므로 L·C가 판정한다. SYNTHESIS의 종합 해석에서만 쓴다 | — |
-| **C 우연 일치·기저율** | V | 구체적 항목 3개 이상이 선기록 상태로 일치해 우연 확률을 낮게 볼 수 있음 | 구체적이나 선기록 없음 |
-| **X 선택 보고·기록자 편향** | S | 전수 조사·전향적 연구 안에서 보고됨(모집단이 알려짐) | 수집 기준이 공개된 수집 |
+| **F Fraud** | S·V | No financial or reputational motive + cross-checking of witnesses by an independent investigator + no later exposure | No motive, but no cross-checking |
+| **M Misperception** | S·V | The environment (lighting, distance, sound, medication) is recorded and misperception would have been difficult | Only part of the environment recorded |
+| **D Memory distortion, later embellishment** | S·V | A prior record exists (S3 = 2 or S5 = 2) | Recorded within 2 years |
+| **L Leakage, normal channels** | V | The information routes (family contact, newspapers, rumour, cold reading) were investigated and blocked by a prior record | Investigated but not completely blocked |
+| **E Cultural expectation, suggestion** | S | The content contradicts the expectations of the person's culture, or the person did not know the concept of the phenomenon | Matches cultural expectation but the details are the person's own |
+| **N Neurophysiology, drugs, psychology** | (record only) | The S layer is compatible with N, so no points are deducted. In the V layer, N cannot produce verified information, so L and C decide. Used only in the overall interpretation in SYNTHESIS | — |
+| **C Coincidence, base rate** | V | Three or more specific items match while on prior record, so the probability of chance can be judged low | Specific, but no prior record |
+| **X Selective reporting, recorder bias** | S | Reported within a complete survey or prospective study (the population is known) | A collection whose criteria of collection are published |
 
-## 4. 가설 목록 (열린 가설)
+## 4. The list of hypotheses (open hypotheses)
 
-사전에 어떤 가설도 배제하지 않는다. 조사는 "이 기록은 어느 가설과 양립하는가"를 가설마다 묻는 일이다. 단 **"모든 가능성 열림"은 "모든 가설 동등"이 아니다.** 가중치는 기록이 가설을 차별할 때만 준다: 어떤 가설에 '불리'를 적으려면 그 카드의 구체적 기록(선기록·조사 결과·환경 기록)이 근거여야 하고, 근거 없는 '불리'는 '판단불가'로 되돌린다. '양립'이 기본값이다 — 기록이 침묵하면 그 가설은 살아 있다.
+No hypothesis is excluded in advance. The investigation asks, for each hypothesis, "is this record compatible with it?" But **"all possibilities open" does not mean "all hypotheses equal".** Weight is given only where the record discriminates between hypotheses: to write "unfavourable" against a hypothesis, the card's specific record (prior record, investigation result, environmental record) must be the reason, and an "unfavourable" without a reason reverts to "undetermined". "Compatible" is the default: where the record is silent, the hypothesis stays alive.
 
-| 코드 | 가설 | 설명하려는 것 | 카드에서 '불리'가 되는 조건(예) | 연결되는 축·항목 |
+| Code | Hypothesis | What it tries to explain | What makes a card "unfavourable" to it (examples) | Related axes and items |
 |---|---|---|---|---|
-| **H1 사후 생존** | 의식·기억의 일부가 뇌 죽음 뒤에도 이어져 정보원이 된다 | V 정보, 사망자만 아는 정보 | V 주장이 없거나 V0; 정보가 생존자에게 흔히 알려진 것 | S5, 8절 V판정 |
-| **H2 초심리(생존 없음)** | 살아 있는 사람의 텔레파시·투시·예지가 V 정보를 만든다 | V 정보 | 그 정보를 당시 살아 있는 누구도 몰랐고 문서에만 있었거나 아직 일어나지 않은 일이었음(투시·예지까지 요구). '불리'이지 배제는 아니다 | 카드 6절 |
-| **H3 문화 전파** | 접촉·번역·선교·매체로 서사가 퍼졌다 | S 구조 유사성 | 기록이 기준 연도 이전이거나 당사자가 서사에 접근 불가(I2) | 5절, 연결 R-TXT |
-| **H4 신경생리·심리** | 뇌 상태·기대·해리가 체험을 만든다 | S 구조, 체험 내용 | V2 정보(뇌 상태는 외부 정보를 만들지 못함). S층에서는 거의 항상 양립 | N |
-| **H5 기억 왜곡·사후 각색** | 회고 과정에서 구조와 정확성이 만들어졌다 | S·V 모두 | 선기록(S3=2 또는 S5=2) | D, S3, S5 |
-| **H6 사기** | 당사자·가족·기록자가 지어냈다 | S·V 모두 | 동기 없음 + 독립 교차 확인 + 폭로 없음 | F |
-| **H7 우연·기저율** | 일치는 흔한 사건의 확률적 결과다 | V 정보, 시간 일치 | 구체 항목 3개 이상 선기록 일치; CA는 시각 기록 | C |
-| **H8 조사자 효과** | 유도 질문·선택·번역이 모양을 만들었다 | S·V 모두 | 조사 주체 2곳 이상, 개별 면담, 원어 기록 | X, S6, 연결 R-INV |
+| **H1 Survival** | Part of consciousness and memory continues after brain death and becomes a source of information | V information; information known only to the dead | No V claim or V0; the information was commonly known to living people | S5, §8 V verdict |
+| **H2 Psi without survival** | Telepathy, clairvoyance or precognition of living people produces the V information | V information | No living person knew the information at the time; it existed only in documents or had not yet happened (so clairvoyance or precognition would be required). "Unfavourable", not excluded | Card §6 |
+| **H3 Cultural transmission** | The narrative spread through contact, translation, mission or media | S structural similarity | The record predates the baseline year, or the person had no access to the narrative (I2) | §5, connection R-TXT |
+| **H4 Neurophysiology, psychology** | Brain state, expectation and dissociation produce the experience | S structure, content of the experience | V2 information (a brain state cannot produce outside information). Almost always compatible in the S layer | N |
+| **H5 Memory distortion, later embellishment** | Structure and accuracy were created in the process of recollection | S and V | Prior record (S3 = 2 or S5 = 2) | D, S3, S5 |
+| **H6 Fraud** | The person, family or recorder invented it | S and V | No motive + independent cross-checking + no exposure | F |
+| **H7 Chance, base rate** | The match is the probabilistic result of common events | V information, time coincidence | Three or more specific items on prior record; for CA a time record | C |
+| **H8 Investigator effect** | Leading questions, selection or translation shaped the account | S and V | Two or more investigating bodies, separate interviews, records in the original language | X, S6, connection R-INV |
 
-H1과 H2를 기록으로 갈라내는 것이 가장 어렵다. 그래서 SYNTHESIS의 V판정에는 "V2 사례 중 H2에 '불리'인 사례 수"를 별도 줄로 적고, 그것이 0이면 최강 표현을 "생존 또는 초심리 가설이…"로 쓴다(8절).
+Separating H1 from H2 by the record is the hardest task. SYNTHESIS therefore adds to its V verdict a separate line, "number of V2 cases unfavourable to H2"; if it is 0, the strongest wording becomes "the survival or psi hypothesis is…" (§8).
 
-## 5. 문화 독립성 판정
+## 5. Judging cultural independence
 
-**독립의 정의.** 두 기록은 뒤 기록의 작성 시점에 다섯 경로가 모두 '배제'일 때 독립이다: ① 직접 접촉(같은 가족·마을·정보원망) ② 번역·출판(앞 기록이 뒤 기록자의 언어로 접근 가능) ③ 선교·종교 전파(그 현상 개념이 외부 교리로 도입) ④ 대중매체(기준 연도 이후 매체 접근) ⑤ 같은 조사 주체. 카드 11절에 경로별로 배제/불명/확인을 적고, 6절의 전파 연결을 그대로 반영한다.
+**Definition of independence.** Two records are independent when, at the time the later record was made, all five routes are "excluded": ① direct contact (same family, village or informant network) ② translation and publication (the earlier record accessible in the later recorder's language) ③ missionary or religious transmission (the concept of the phenomenon introduced through an outside doctrine) ④ mass media (media access after the baseline year) ⑤ the same investigating body. Card §11 states, for each route, excluded / unknown / confirmed, and takes over the transmission connections of §6 as they stand.
 
-**독립성 등급.** **I2** = 다섯 경로 모두 배제(기록 연도가 기준 연도 이전이면 ④는 자동 배제) / **I1** = '불명'이 하나라도 있음 / **I0** = '확인'이 하나라도 있음(비독립, 앞 기록과 같은 클러스터로 센다). S층 집계에는 I2만 쓰고 I1은 '보류' 근거로만 쓴다. **매체 노출은 S층 독립성만 깎고 V층에는 영향이 없다**(책을 읽어서 검증 정보를 알 수는 없다).
+**Independence grades.** **I2** = all five routes excluded (if the record year is before the baseline year, ④ is automatically excluded) / **I1** = at least one "unknown" / **I0** = at least one "confirmed" (not independent; counted in the same cluster as the earlier record). Only I2 counts in the S layer; I1 serves only as a reason for "undecided". **Media exposure lowers S-layer independence only and has no effect on the V layer** (one cannot learn verified information by reading a book).
 
-**매체 확산 기준 연도(잠정, 근거 문헌 미확인 — 1회차 조사에서 확정하고 10절에 기록):** NDE 1975(서구 대중서로 서사가 전 세계 확산) / CORT 1956(서구 대중매체의 전생 회귀 유행) / CA·DBV 1900(대중 인쇄·전신망 보급; 뚜렷한 단일 확산 사건 없음) / MED 해당 없음.
+**Baseline years of media diffusion (NDE confirmed, others provisional; evidence recorded in §10):**
 
-**클러스터(독립 문화권 단위, 잠정).** 언어 계통·종교 전통·지역이 함께 다르면 다른 클러스터다. 고대·중세 기록은 지역 코드 앞에 `ANC-`를 붙여 별도로 센다(기록 연대가 기준 연도 이전이고, 다른 클러스터와의 문헌 전승 경로가 미확인일 때).
-
-| 코드 | 범위 | 코드 | 범위 |
-|---|---|---|---|
-| EU-W | 서유럽·북미(기독교권) | SEA | 동남아(미얀마·태국; 상좌부·토착) |
-| EU-E | 동유럽·러시아(정교권) | EA | 동아시아(한국·중국·일본; 유교·불교·샤머니즘) |
-| ISL | 이슬람권(아랍·튀르키예·이란). 환생 교리를 가진 드루즈·알레비는 CORT에서 별도 `ISL-R` | AFR | 사하라 이남 아프리카 토착 |
-| SA | 남아시아(인도·스리랑카·네팔; 힌두·불교) | AME-N / AME-S | 북미 원주민·북극권 / 중남미 |
-| OCE | 오세아니아 원주민 | ANC-* | 고대·중세 문헌(예: ANC-EU 그리스·로마·중세 유럽, ANC-EA 고대 중국) |
-
-**조사 주체 감점.** 조사 주체 = 보고서를 낸 기관(같은 기관의 공동 연구자는 같은 주체, 다른 기관이면 공동 연구 경력이 있어도 다른 주체). 집계된 사례가 모두 한 조사 주체에서 나왔으면 S층 판정은 최대 '보류'다. 한 조사자의 면담 방식·선택 기준이 여러 문화에 같은 모양을 찍어낼 수 있기 때문이다.
-
-## 6. 연결 층 (entities/와 관계)
-
-사건은 섬이 아니다. 같은 인물·장소·문헌·모티프가 시대를 넘어 다시 나타나는지를 추적한다. 연결은 두 방향으로 읽힌다: **전파**(한 기록이 다른 기록의 원천 — "독립 발생"의 반대 증거)이거나 **재발**(접촉 없이 같은 구조가 다시 나타남 — S층의 근거)이다. 그래서 연결마다 어느 쪽인지 판정하고 근거를 적는다.
-
-**항목.** `entities/` 1항목 1파일, 양식은 `entities/_TEMPLATE.md`. 파일명 접두어로 종류를 구분한다. 살아 있거나 생사 불명인 목격자·당사자는 이니셜로만 적고, 사망이 확인된 역사적 인물과 공개 저자(조사자)만 실명을 쓴다.
-
-| 접두어 | 종류 | 예 | 꼭 적는 것 |
-|---|---|---|---|
-| `P-` | 인물(조사자·목격자·당사자) | `P-AB-witness-1885` | 역할, 관여 사건, 생사(이니셜 여부의 근거) |
-| `O-` | 기관(조사 주체) | `O-SPR` | 소속 조사자, 수집 방식, 수집한 사건 |
-| `L-` | 장소 | `L-<slug>` | 사건들, 시기, 환경 요인 |
-| `T-` | 문헌(텍스트와 번역·전승 계보) | `T-<slug>` | 원문 → 번역 → 후대 전재의 **계보 연표**(언어·연도·열람 여부) |
-| `M-` | 모티프(구조 요소) | `M-taken-by-mistake-returned` ("저승에서 잘못 데려감 → 돌려보냄") | 등장 사례 **연표**(카드 id·클러스터·연도·독립성) — S층의 장부 |
-
-**관계 유형.** 사건 카드와 항목, 항목과 항목, 카드와 카드를 `[[id]]` 위키링크로 잇고, 연결마다 유형을 붙인다.
-
-| 코드 | 관계 | 어디에 쓰이나 |
+| Code | Baseline year | Status (2026-10-25) |
 |---|---|---|
-| R-PER | 같은 인물 | 증인 중복(S2 독립성), 당사자·조사자 재등장 |
-| R-LOC | 같은 장소 | 환경 요인(M), 지역 전승 |
-| R-TXT | 같은 문헌 계보(전파 경로) | **5절 독립성 경로 ②③④에 직접 반영** |
-| R-MOT | 같은 모티프(구조 재발) | S층 집계, 1절 체크리스트의 세부 |
-| R-INV | 같은 조사자·기관 | 5절 조사 주체 감점, H8 |
-| R-REB | 반박–피반박 | 7절 반대 자료 |
+| NDE | **1975** | **Confirmed.** Raymond A. Moody, *Life After Life*, St. Simons Island, GA: Mockingbird Books, 1975 (catalogue record of the archive.org copy `lifeafterlifeinv0000mood_y9q8`, borrow-only; the book itself not opened). The Dutch edition *Leven na dit leven* was reviewed and advertised in Dutch newspapers from September 1977 (Delpher, see `cases/NDE-NL-1979-dentures.md` §11). Earlier narratives exist, but this is the point from which the narrative shape became available to the general public across languages |
+| CORT | 1956 | Provisional (the past-life-regression fashion in Western mass media; reference work not yet opened) |
+| CA · DBV | 1900 | Provisional (spread of mass print and the telegraph; no single diffusion event). Evidence that the DBV motif was already collected and circulating in English print before 1900: Frances Power Cobbe, "The Peak in Darien: the riddle of death", in *The Peak in Darien*, Boston: Geo. H. Ellis, 1882, pp. 245–266 (archive.org `peakindarienocta00cobbrich`, public domain, **opened**), which reports deathbed recognitions of the dead "described almost in the same words by persons who have never heard of similar occurrences" (p. 253) and one case of a dying woman recognising a brother believed still alive in India, whose death letters later announced (pp. 261–262). So any post-1882 English-language DBV record of the "unknown dead" type cannot claim route ② excluded by date alone |
+| MED | — | Not applicable |
 
-**연결의 판정과 등급.** 판정 = **전파 / 재발 / 중립 / 미정**. 등급 = **확인**(열람한 출처가 연결을 직접 보여줌) / **추정**(시기·지역·언어가 맞지만 직접 근거 없음) / **미확인**(단서만, 아직 열어 보지 않음). 독립성과의 연동: '확인' 등급의 전파 연결 → 해당 경로 '확인'(I0) / '추정'·'미확인' 전파 연결 → 해당 경로 '불명'(I1) / 조사해서 '재발'로 판정되면 그 경로는 '배제'. 즉 **연결을 끝까지 파야 I2가 나온다.** 연결이 없다는 것도 적는다(탐색 날짜·방법). 모티프 항목의 연표가 곧 "같은 구조가 몇 개 문화에서, 언제" 나타났는지의 장부이므로, SYNTHESIS는 그 연표에서 집계한다.
+**Clusters (units of independent culture, provisional).** Where language family, religious tradition and region all differ, the cluster differs. Ancient and medieval records are counted separately with the prefix `ANC-` before the regional code (when the record predates the baseline year and no textual-transmission route to another cluster has been confirmed).
 
-## 7. 반대 자료 기록 규칙
-
-- **같은 등급표.** 폭로된 사기·재현 실패·회의론 조사도 7축으로 채점한다. 사례 특정 반박은 그 사례 카드의 "반대 자료" 표에, 현상 일반 반박(재현 실패·모집단 연구·방법 비판)은 `cases/X-<코드>-<슬러그>.md`에 같은 양식으로 쓴다. 반박과 피반박은 R-REB로 잇는다.
-- **강등 규칙.** 반박의 R등급이 사례의 R등급 이상이고 사기·정보 누설·오인을 '확인'했으면, 해당 체크리스트 항목을 '배제 못 함'으로 바꾸고 등급을 재계산한다(F면 D). 반박 등급이 더 낮으면 기록만 하고 `counter:` 필드에 그 등급을 적는다. 회의론 조사가 사기를 못 찾았다면 그것도 적는다 — F 배제의 근거가 된다.
-- **탐색 의무.** R≥B 사례는 반박 탐색을 최소 1회 하고 검색어·날짜·결과(없음 포함)를 카드에 남긴다. 안 한 사례는 집계에서 뺀다(2절 상한 ⑤).
-- **결론의 재계산.** 판정은 사례 집합의 함수다. 집계에 쓰인 사례가 강등되면 그 현상의 8절 판정을 즉시 다시 계산하고, SYNTHESIS의 "판정 이력"에 날짜·원인·변경 전후를 적는다. 핵심 사례 하나가 빠지면 '있음'이 '보류'로 떨어지는 구조라면 애초에 '있음'이라고 쓰지 않는다 — 8절의 여유분 조건이 그래서 있다.
-
-## 8. 수렴 판정 기준
-
-현상마다 S판정과 V판정을 따로 내리고 마지막에 종합 문장으로 합친다. 모든 숫자는 **I2 독립성 · 반박 탐색 완료 · 상한 미적용** 사례만 센다. S층에서 클러스터 하나는 "B 이상 1건" 또는 "C(S7=2·I2) 2건"으로 채운다.
-
-| 판정 | S 구조 수렴 | V 검증 정보 지지 |
-|---|---|---|
-| **있음** | 채워진 클러스터 **4개 이상**, 그중 B 이상으로 채운 클러스터 **2개 이상**, B 이상 총 **4건 이상**, 조사 주체 **2곳 이상** | **V2 3건 이상**, 조사 주체 **2곳 이상**, 어느 건에도 R≥B 반박 카드 없음. 클러스터 2개 이상이면 '있음(강)' |
-| **보류** | 채워진 클러스터 2~3개, 또는 4개 이상이지만 조사 주체 1곳 또는 B 클러스터 1개 이하 | V2 1~2건, 또는 V1만 3건 이상 |
-| **없음** | 5개 이상 클러스터에서 후보를 찾아 카드화했는데 채워진 클러스터가 1개 이하 | V 주장 후보 10건 이상을 카드화했는데 V2 0건, V1 2건 이하 |
-
-이유 한 줄씩. **4클러스터**: 2개는 미발견 접촉으로, 3개는 우연으로 설명될 수 있고, 4개면 하나가 나중에 오염으로 밝혀져도 3개가 남는다. **C 2건=B 1건**: 고대·민속 기록은 구조상 B에 닿기 어렵지만 한 문화에서 독립된 두 약한 기록이 동시에 오기록일 가능성은 낮다. 단 B 클러스터 2개 이상을 요구해 C만으로 '있음'이 되는 길은 막는다. **조사 주체 2곳**: 한 조사자의 방식이 모양을 찍어낼 가능성 차단. **V2 3건**: 1건은 못 찾은 누설일 수 있고, 다른 조사 주체의 3건이 같은 구멍을 공유할 가능성은 낮다. **V에 클러스터 조건이 없는 이유**: 검증 정보는 문화 전파로 만들어지지 않으므로 문화 독립은 V의 조건이 아니고 조사자 독립이 조건이다. **'없음'에 탐색량 조건이 붙는 이유**: 안 찾은 것과 없는 것을 구분하기 위해 — 탐색량이 모자라면 '보류'다.
-
-**분모 공개.** SYNTHESIS의 현상별 표에는 탐색한 클러스터·출처, 후보 수, 카드화 수, 등급별 수를 적는다. 몇 건 중 몇 건인지 없는 집계는 선택 보고다.
-
-**종합 문장(S × V).**
-
-| S \ V | 있음 | 보류 | 없음 |
+| Code | Scope | Code | Scope |
 |---|---|---|---|
-| **있음** | 인간 보편 현상이며, 기록은 사후 생존 가설을 평범한 설명들보다 더 잘 지지한다 — **이 연구의 최강 표현** | 인간 보편 현상. 생존 가설의 우위는 미정 | 인간 보편 현상이지만 기록은 신경생리·심리 설명과 양립. 생존 가설 지지 없음 |
-| **보류** | 개별 사례는 생존 가설을 지지하나 현상의 보편성은 미확인 | 더 조사 | 보편성도 생존 가설 지지도 미확인 |
-| **없음** | 개별 사례 수준의 지지. 보편 현상이라 말할 수 없음 | 더 조사 | 이 현상은 논증에서 제외 |
+| EU-W | Western Europe and North America (Christian) | SEA | South-East Asia (Myanmar, Thailand; Theravada and indigenous) |
+| EU-E | Eastern Europe and Russia (Orthodox) | EA | East Asia (Korea, China, Japan; Confucian, Buddhist, shamanic) |
+| ISL | Islamic world (Arab, Turkish, Iranian). The Druze and Alevi, who hold a doctrine of rebirth, are a separate `ISL-R` for CORT | AFR | Sub-Saharan Africa, indigenous |
+| SA | South Asia (India, Sri Lanka, Nepal; Hindu and Buddhist) | AME-N / AME-S | Indigenous North America and the Arctic / Latin America |
+| OCE | Indigenous Oceania | ANC-* | Ancient and medieval texts (e.g. ANC-EU Greece, Rome and medieval Europe; ANC-EA ancient China) |
 
-**H1 vs H2 줄.** V '있음'이라도 종합 문장 아래에 "V2 사례 중 H2(초심리)에 '불리'인 사례 n건"을 따로 적는다. n=0이면 최강 표현은 "사후 생존 또는 초심리 가설이 평범한 설명들보다 더 잘 지지된다"로 쓴다. 생존 가설만을 지지한다고 쓰려면 n≥2(조사 주체 2곳)여야 한다.
+**Investigating-body discount.** An investigating body is the institution that published the report (co-workers in the same institution are one body; different institutions are different bodies even if they have collaborated). If every counted case comes from one investigating body, the S-layer verdict is at most "undecided": one investigator's interview method and selection criteria can stamp the same shape onto several cultures.
 
-**"증명됐다"는 쓰지 않는다. 쓸 수 있는 조건이 없다.** 역사 기록은 재현·통제가 불가능하고, 평범한 설명을 '전부' 배제했음을 보일 방법이 없다. 이 연구가 쓸 수 있는 최강 문장은 위 표의 "더 잘 지지한다"이며, 그 이상은 사전 등록된 전향적 실험의 몫이고 이 연구의 범위(기록 연구, 현장 조사 없음) 밖이다. 대표님이 "믿는다"고 하셔도 이 문장은 바뀌지 않는다.
+## 6. The connection layer (`entities/` and relations)
 
-## 9. 사건 카드 양식
+Cases are not islands. We trace whether the same people, places, texts and motifs recur across periods. A connection is read in one of two directions: **transmission** (one record is the source of another: counter-evidence to "independent occurrence") or **recurrence** (the same structure reappears without contact: evidence for the S layer). Every connection therefore receives a verdict and a reason.
 
-`cases/` 1사건 1파일. 파일명 `<코드>-<ISO 국가코드>-<연도>-<슬러그>.md` (예: `NDE-NL-1979-dentures.md`; 연도 불명은 `c1880`; 반대 자료 카드는 `X-<코드>-<슬러그>.md`). 살아 있는(또는 생사 불명인) 목격자·당사자는 공개 기록에 이름이 있어도 이니셜로 적는다. 채울 수 있는 전체 양식은 `cases/_TEMPLATE.md`이고, 구성은 아래와 같다.
+**Entities.** One entity per file in `entities/`, template `entities/_TEMPLATE.md`. The file-name prefix gives the kind. Witnesses and experiencers who are alive or whose status is unknown are written as initials only; only historical persons whose death is confirmed and public authors (investigators) appear by name.
 
-카드는 **두 층**이다(2026-10-23). 위층 **읽는 글**은 사람이 위에서 아래로 읽는 글이다: 한 단락 리드(인용문), "What happened"(사진·지도·도해를 해당 대목 사이에 넣는다), "How far can this record be trusted"(R·V·I 등급을 말로 풀어 쓴다), "Other ways to explain it"(7절의 항목을 말로). 위층은 아래층에 출처 번호와 함께 있는 사실만 말하고 새 사실을 더하지 않는다. 아래층 **조사 장부**는 `---` 아래 `## Investigation ledger` 안내문과 1~13절이고 등급표 규칙대로 적는다. **언어**: 카드 본문(두 층 모두)은 영어로 쓴다 — 사이트의 주 언어(2026-10-23 대표님 확인). 한국어 읽는 글은 `ko/cases/<같은 id>.md`에 두고 영어 장부로 링크한다. 장부는 영어 하나만 둔다(두 벌을 유지하면 어긋난다). 사진·출처·등급 판정은 어느 언어에서도 같아야 한다.
+| Prefix | Kind | Example | Must record |
+|---|---|---|---|
+| `P-` | Person (investigator, witness, experiencer) | `P-AB-witness-1885` | Role, cases involved, alive or dead (the reason for initials or name) |
+| `O-` | Organisation (investigating body) | `O-SPR` | Affiliated investigators, method of collection, cases collected |
+| `L-` | Place | `L-<slug>` | Cases, period, environmental factors |
+| `T-` | Text (a text and its lineage of translation and transmission) | `T-<slug>` | **Lineage timeline** original → translation → later reprint (language, year, opened or not) |
+| `M-` | Motif (structural element) | `M-taken-by-mistake-returned` ("taken to the other world by mistake → sent back") | **Timeline** of occurrences (card id, cluster, year, independence): the ledger of the S layer |
 
-| 칸 | 내용 |
+**Relation types.** Case cards and entities, entities and entities, cards and cards are joined by `[[id]]` wikilinks, and each connection carries a type.
+
+| Code | Relation | Where it is used |
+|---|---|---|
+| R-PER | Same person | Overlapping witnesses (S2 independence); experiencers and investigators reappearing |
+| R-LOC | Same place | Environmental factors (M), local tradition |
+| R-TXT | Same textual lineage (transmission route) | **Feeds §5 independence routes ②③④ directly** |
+| R-MOT | Same motif (structural recurrence) | S-layer count; detail of the §1 checklist |
+| R-INV | Same investigator or institution | §5 investigating-body discount, H8 |
+| R-REB | Rebuttal and rebutted | §7 counter-evidence |
+
+**Verdict and grade of a connection.** Verdict = **transmission / recurrence / neutral / undecided**. Grade = **confirmed** (an opened source shows the connection directly) / **inferred** (period, region and language fit, but no direct evidence) / **unverified** (a lead only, not yet opened). Coupling with independence: a "confirmed" transmission connection → that route "confirmed" (I0) / an "inferred" or "unverified" transmission connection → that route "unknown" (I1) / investigated and judged "recurrence" → that route "excluded". In other words, **I2 is reached only by following connections to the end.** The absence of a connection is recorded too (date and method of search). Because the timeline of a motif entity is the ledger of "the same structure appeared in how many cultures, and when", SYNTHESIS counts from that timeline.
+
+## 7. Rules for recording counter-evidence
+
+- **The same scale.** Exposed frauds, failed replications and sceptical investigations are scored on the same seven axes. A rebuttal aimed at a specific case goes into the "counter-evidence" table of that case's card; a rebuttal of the phenomenon in general (failed replication, population study, methodological critique) goes into `cases/X-<code>-<slug>.md` in the same format. Rebuttal and rebutted are joined by R-REB.
+- **Demotion rule.** If a rebuttal's R grade is equal to or higher than the case's R grade and it has "confirmed" fraud, leakage or misperception, the corresponding checklist item changes to "not ruled out" and the grade is recalculated (F → D). If the rebuttal's grade is lower, it is recorded only and its grade is written in the `counter:` field. If a sceptical investigation failed to find fraud, that too is recorded: it is a reason for ruling F out.
+- **Duty to search.** For every case with R ≥ B, at least one search for rebuttals is made and the search terms, date and result (including "none") are left on the card. A case without one is excluded from the counts (§2, cap ⑤).
+- **Recalculating conclusions.** A verdict is a function of the set of cases. If a counted case is demoted, the §8 verdict for that phenomenon is recalculated at once, and the date, cause and before/after are written in the "verdict history" of SYNTHESIS. If the structure is such that losing one core case would drop "present" to "undecided", "present" is not written in the first place: that is why §8 has margin conditions.
+
+## 8. Criteria for a convergence verdict
+
+For each phenomenon the S verdict and the V verdict are given separately and then combined in one summary sentence. Every number counts **only cases with I2 independence, a completed search for rebuttals and no cap applied**. In the S layer a cluster is "filled" by one card of B or better, or by two C cards (S7 = 2, I2).
+
+| Verdict | S — structural convergence | V — support from verified information |
+|---|---|---|
+| **Present** | **4 or more** filled clusters, of which **2 or more** filled with B or better, **4 or more** cards of B or better in total, **2 or more** investigating bodies | **3 or more V2**, **2 or more** investigating bodies, no rebuttal card with R ≥ B against any of them. With 2 or more clusters: "present (strong)" |
+| **Undecided** | 2–3 filled clusters, or 4 or more but a single investigating body or at most 1 B cluster | 1–2 V2, or 3 or more V1 only |
+| **Absent** | Candidates sought and carded in 5 or more clusters, yet at most 1 cluster filled | 10 or more V-claim candidates carded, yet 0 V2 and at most 2 V1 |
+
+One line of reasoning each. **Four clusters:** two can be explained by undiscovered contact, three by chance; with four, three remain even if one later proves contaminated. **Two C = one B:** ancient and folk records can structurally hardly reach B, but two independent weak records from one culture are unlikely both to be misrecordings; still, requiring 2 or more B clusters closes the road to "present" on C alone. **Two investigating bodies:** blocks the possibility that one investigator's method stamps the shape. **Three V2:** one could be an undetected leak; three from different bodies are unlikely to share the same hole. **Why V has no cluster condition:** verified information is not produced by cultural transmission, so cultural independence is not a condition of V; investigator independence is. **Why "absent" carries a search-volume condition:** to distinguish "not found" from "not there"; with too little search the verdict is "undecided".
+
+**Publish the denominator.** The per-phenomenon table in SYNTHESIS states the clusters and sources searched, the number of candidates, the number carded and the numbers per grade. A count without "n of how many" is selective reporting.
+
+**Summary sentence (S × V).**
+
+| S \ V | Present | Undecided | Absent |
+|---|---|---|---|
+| **Present** | A universal human phenomenon, and the records support the survival hypothesis better than the ordinary explanations do — **the strongest wording of this research** | A universal human phenomenon. Whether the survival hypothesis is favoured is undetermined | A universal human phenomenon, but the records are compatible with neurophysiological and psychological explanations. No support for the survival hypothesis |
+| **Undecided** | Individual cases support the survival hypothesis, but the universality of the phenomenon is unconfirmed | Investigate further | Neither universality nor support for the survival hypothesis is confirmed |
+| **Absent** | Support at the level of individual cases. It cannot be called a universal phenomenon | Investigate further | This phenomenon is excluded from the argument |
+
+**The H1 vs H2 line.** Even with V "present", a separate line under the summary sentence states "V2 cases unfavourable to H2 (psi): n". If n = 0, the strongest wording is "the survival or psi hypothesis is supported better than the ordinary explanations". To write that only the survival hypothesis is supported, n ≥ 2 (from 2 investigating bodies) is required.
+
+**"Proven" is never written. There is no condition under which it could be.** Historical records cannot be replicated or controlled, and there is no way to show that "all" ordinary explanations have been excluded. The strongest sentence this research can write is the "supports better" of the table above; anything beyond that belongs to pre-registered prospective experiments, outside the scope of this work (record research, no fieldwork). The owner saying "I believe it" does not change this sentence.
+
+## 9. Case card format
+
+One case per file in `cases/`. File name `<code>-<ISO country>-<year>-<slug>.md` (e.g. `NDE-NL-1979-dentures.md`; unknown year `c1880`; counter-evidence cards `X-<code>-<slug>.md`). Witnesses and experiencers who are alive (or whose status is unknown) are written as initials even if public records name them. The full fillable template is `cases/_TEMPLATE.md`; the layout is as follows.
+
+A card has **two layers** (2026-10-23). The upper layer, the **reading layer**, is prose a person reads from top to bottom: a one-paragraph lede (blockquote), "What happened" (photographs, maps and diagrams placed at the relevant passage), "How far can this record be trusted" (the R, V and I grades explained in words), "Other ways to explain it" (the §7 items in words). The upper layer states only facts that appear in the lower layer with a source number and adds no new facts. The lower layer, the **investigation ledger**, follows `---`: the `## Investigation ledger` note and sections 1–13, written by the rules of the grading scale. **Language:** the card body (both layers) is written in English, the main language of the site (owner-confirmed 2026-10-23). The Korean reading layer lives in `ko/cases/<same id>-ko.md` and links to the English ledger. There is only one ledger, in English (two copies would drift apart). Photographs, sources and grade verdicts must be identical in every language.
+
+| Section | Content |
 |---|---|
-| 읽는 글(위층) | 리드 1단락(인용문) → `## What happened`(사실 서술, 사진·지도·도해와 한 줄 캡션: 무엇 · 출처 · 라이선스) → `## How far can this record be trusted`(R·V·I를 말로) → `## Other ways to explain it`(7절을 말로, 마지막에 양립 판정) → `---` → `## Investigation ledger` 안내문 |
-| YAML 프론트매터 | `id`, `code`, `variant`(V/S/C/F), `cluster`, `country`, `event_year`, `record_year`, `investigator`(조사 주체 코드, 없으면 none), `independence`(I2/I1/I0), `scores`{S1~S7}, `grade_R`, `grade_V`, `cap`(적용된 상한 번호), `unfavorable`('불리'인 가설 코드 목록), `links`(연결 대상 id 목록), `counter`(반박 최고 R등급 / none=탐색했으나 없음 / unsearched), `countable`(집계 자격. `S` = S층: R≥B ∧ I2 ∧ counter≠unsearched ∧ cap 없음 ∧ 구조 요소 2개 이상 / `V` = V층: V1 이상 ∧ counter≠unsearched ∧ cap 없음 / `SV` 둘 다 / `no`), `status`(draft/reviewed/final), `updated` |
-| 1 한 줄 요약 | 누가·언제·어디서·무엇을 경험했고 무엇이 확인됐는가. 2문장 이내 |
-| 2 현상 구조 체크리스트 | 1절 표의 코드별 요소를 ☑/☐로. 필수가 하나라도 ☐면 코드 미부여("유사 사례"). V요소 있음/없음 |
-| 3 사건 기술 | 사실만, 문장마다 출처 번호 `[#n]`. 해석·형용사 금지 |
-| 4 출처 목록 | 표: #, 종류(1/2/3차), 서지, 열람(확인/미확인), 링크, 메모 |
-| 5 축별 점수와 등급 | 표: S1~S7 점수와 근거 한 줄. 합계 → R등급, 적용된 상한, V등급 |
-| 6 검증 정보(V 주장) | 표: 정보, 누가 말함, 언제·어디에 기록, 언제·누가 확인, 정상 경로 조사, 당시 살아 있는 누가 알았나(H2용). 없으면 "없음" |
-| 7 이렇게도 설명된다 | 표: F·M·D·L·E·N·C·X 각각 상태와 근거. 하나라도 비면 미평가 |
-| 8 양립 가설 | 표: H1~H8 각각 양립/불리/판단불가와 근거. '불리'는 카드의 구체 기록이 근거일 때만(4절) |
-| 9 반대 자료 | 탐색 기록(날짜·검색어·결과) + 표: 출처, R등급, 요지, 이 카드에 미친 영향 |
-| 10 연결 | 표: 대상 `[[id]]`, 관계 유형(R-*), 판정(전파/재발/중립/미정), 등급(확인/추정/미확인), 근거. 연결 없음도 탐색 기록과 함께(6절) |
-| 11 문화 독립성 | 클러스터, 기록 연도 vs 기준 연도, 다섯 경로 각각 배제/불명/확인과 근거(10절의 전파 연결 반영) → 독립성 등급 |
-| 12 메모 | 미해결 질문, 다음에 열어볼 출처, 등급을 바꿀 수 있는 정보 |
-| 13 자료 | 자료 **목록**(표: 파일·종류·무엇·출처·라이선스), 넣지 않은 것과 이유, 신문·기록 탐색 기록(0건도), 다음에 찾을 것. 그림 자체는 위층 "읽는 글"에 들어 있고 여기는 목록이다. 파일은 `assets/`, 전체 목록과 규칙은 `assets/index.md`. 아래 "시각 자료 규칙" |
+| Reading layer (upper) | Lede, one paragraph (blockquote) → `## What happened` (factual narrative; photographs, maps and diagrams each with a one-line caption: what · source · licence) → `## How far can this record be trusted` (R, V, I in words) → `## Other ways to explain it` (§7 in words, ending with the compatibility verdict) → `---` → `## Investigation ledger` note |
+| YAML front matter | `id`, `code`, `variant` (V/S/C/F), `cluster`, `country`, `event_year`, `record_year`, `investigator` (code of the investigating body, or none), `independence` (I2/I1/I0), `scores`{S1–S7}, `grade_R`, `grade_V`, `cap` (number of the cap applied), `unfavorable` (list of hypothesis codes marked unfavourable), `links` (ids of connected items), `counter` (highest R grade among rebuttals / none = searched, nothing found / unsearched), `countable` (eligibility for counting: `S` = S layer: R ≥ B ∧ I2 ∧ counter ≠ unsearched ∧ no cap ∧ 2 or more structural elements / `V` = V layer: V1 or better ∧ counter ≠ unsearched ∧ no cap / `SV` both / `no`), `status` (draft/reviewed/final), `updated` |
+| 1 One-line summary | Who experienced what, when and where, and what was confirmed. Two sentences at most |
+| 2 Structure checklist | The elements of the §1 table for the code, marked ☑/☐. If any required element is ☐, no code is given ("similar case"). V element present/absent |
+| 3 Account | Facts only, every sentence with a source number `[#n]`. No interpretation, no adjectives |
+| 4 Sources | Table: #, type (primary/secondary/tertiary), reference, opened (confirmed/unverified), link, notes |
+| 5 Scores and grades | Table: S1–S7 scores with a one-line reason each. Sum → R grade, cap applied, V grade |
+| 6 Verified information (V claim) | Table: the information, who said it, when and where it was recorded, when and by whom it was checked, investigation of normal routes, which living person knew it at the time (for H2). "None" if there is none |
+| 7 Other ways to explain it | Table: F·M·D·L·E·N·C·X, each with state and reason. If any is empty, not assessed |
+| 8 Compatible hypotheses | Table: H1–H8, each compatible/unfavourable/undetermined with reason. "Unfavourable" only where the card's specific record is the reason (§4) |
+| 9 Counter-evidence | Search log (date, terms, result) + table: source, R grade, gist, effect on this card |
+| 10 Connections | Table: target `[[id]]`, relation type (R-*), verdict (transmission/recurrence/neutral/undecided), grade (confirmed/inferred/unverified), reason. "No connection" also recorded, with the search log (§6) |
+| 11 Cultural independence | Cluster, record year vs baseline year, each of the five routes excluded/unknown/confirmed with reason (taking over the transmission connections of §10) → independence grade |
+| 12 Notes | Open questions, sources to open next, information that could change the grade |
+| 13 Materials | **List** of materials (table: file, kind, what, source, licence), what was not used and why, the search log for newspapers and records (even 0 hits), what to look for next. The pictures themselves sit in the reading layer; this is the list. Files live in `assets/`; the full list and rules are in `assets/index.md`. See "rules for visual materials" below |
 
-### 시각 자료 규칙 (2026-10-22, 대표님 지시)
+### Rules for visual materials (2026-10-22, owner's instruction)
 
-사진·그림·삽화는 **이해를 돕는 것이지 증거가 아니다.** 등급(R·V·I)에 영향을 주지 않는다. 예외는 ① 기록 사본뿐이다: 1차 문서의 스캔은 4절 출처 목록의 '열람 확인' 근거가 된다.
+Photographs, pictures and illustrations **help understanding; they are not evidence.** They do not affect the grades (R, V, I). The one exception is ① copies of records: a scan of a primary document is evidence that the source in §4 was "opened".
 
-| 종류 | 무엇 | 예 |
+| Kind | What | Examples |
 |---|---|---|
-| ① 기록 사본 | 1차 문서·당대 간행물의 해당 쪽 스캔 | 1926년 책의 사례 수록 쪽, 법정 기록, 신문 기사 |
-| ② 인물·장소 | 사망이 확인된 인물의 초상, 사건 장소(당시 건물·지형) | 조사자 초상, 병원 건물(사건 당시 건물인지 확인) |
-| ③ 당대 삽화 | 사건 당시 또는 그 문화권의 그림·판화 | 임종 장면 판화, 민속 자료집 삽화 |
-| ④ 도해 | William이 카드의 사실을 그림으로 옮긴 것. **기록이 아니다** | 사건 순서도, 검증 정보가 놓인 자리, 전파 경로 지도 |
+| ① Copy of a record | Scan of the relevant page of a primary document or contemporary publication | The case page of a 1926 book, a court record, a newspaper article |
+| ② Person or place | Portrait of a person whose death is confirmed; the site of the event (the building or terrain of the time) | An investigator's portrait; a hospital building (checked to be the building of the time) |
+| ③ Contemporary illustration | A picture or print from the time of the event or from that culture | A deathbed engraving; an illustration from a folklore collection |
+| ④ Diagram | William's rendering of the card's facts as a picture. **Not a record** | Sequence of events, where the verified information sits, a map of transmission routes |
 
-- **공개 저장소에 올라가므로 퍼블릭 도메인·CC0·CC BY·CC BY-SA·정부 저작물만** 쓴다. 저작권이 있는 논문·책의 쪽은 넣지 않고 링크한다(예: UNT의 JNDS는 ⓒ IANDS → 링크만).
-- **사진도 출처처럼 열어서 본 뒤 넣는다.** 캡션은 사진이 실제로 보여주는 것만 적는다. 사건 장소·당사자가 아닌 것은 "참고"라고 명시한다(오늘날의 비슷한 물건, 같은 지역의 다른 해 풍경).
-- 자료마다 `assets/index.md`에 무엇·출처 URL·저자·연도·라이선스·열람일을 적는다. 카드에서는 그림을 위층 "읽는 글"의 해당 대목에 표준 마크다운 문법 `![대체 텍스트](../assets/파일명)`으로 넣고(GitHub·Obsidian·사이트에서 모두 보인다) 바로 아래 한 줄 캡션(무엇 · 출처 · 라이선스)을 둔다. 13절에는 같은 자료를 표로 목록만 적는다(두 번 넣지 않는다). 지도·사진에 William이 표시를 덧붙였으면 캡션에 그렇게 적고 "대략의 위치"임을 밝힌다(2026-10-23).
-- **쓰지 않는 것**: 생성형 이미지(사건·인물·장소를 그럴듯하게 그린 AI 그림), 재연 사진, 출처 불명 이미지, 살아 있거나 생사 불명인 목격자·당사자의 얼굴(이니셜 규칙의 연장). 도해는 코드(`tools/diagrams/`)로 그리고 그림 안에 "도해 · 기록 아님"을 적는다.
-- 파일명 `assets/<카드 또는 항목 id>--<slug>.<ext>`, 긴 변 1600px 이하·400KB 이하(저장소 크기). 자료가 없으면 13절에 "없음(탐색: 날짜·어디)"이라고 적는다.
+- Because the repository is public, **only public domain, CC0, CC BY, CC BY-SA and government works** are used. Pages of copyrighted papers and books are not included but linked (e.g. UNT's JNDS is © IANDS → link only).
+- **Photographs, like sources, are opened and looked at before use.** The caption says only what the photograph actually shows. Anything that is not the site or the person of the event is marked "reference" (a similar object today, the same area in another year).
+- Each item is recorded in `assets/index.md` with what it is, source URL, author, year, licence and date viewed. In a card the picture goes into the reading layer at the relevant passage in standard Markdown syntax `![alt text](../assets/filename)` (renders on GitHub, in Obsidian and on the site), with a one-line caption directly below (what · source · licence). §13 lists the same materials in a table only (never inserted twice). If William added marks to a map or photograph, the caption says so and states that the position is approximate (2026-10-23).
+- **Never used:** generative images (AI pictures of plausible events, people or places), re-enactment photographs, images of unknown provenance, faces of witnesses or experiencers who are alive or whose status is unknown (an extension of the initials rule). Diagrams are drawn in code (`tools/diagrams/`) and carry the words "diagram · not a record" inside the picture.
+- File name `assets/<card or entity id>--<slug>.<ext>`, long side ≤ 1600 px, ≤ 400 KB (repository size). If no material exists, §13 says "none (searched: date, where)".
 
-## 10. 변경 기록
+## 10. Change log
 
-| 날짜 | 버전 | 변경 | 이유 |
+| Date | Version | Change | Reason |
 |---|---|---|---|
-| 2026-10-21 | v0.1 | 초안 작성 | 첫 임무(연구 헌장). 대표님 승인 대기 |
-| 2026-10-21 | v0.1 | 4절 가설 목록·6절 연결 층 추가, 카드에 양립 가설·연결 칸 추가, `entities/` 신설 | 대표님 지시: 모든 가능성을 열고 집요하게 조사하며, 사건·인물·문헌의 연관을 시대를 넘어 추적할 것 |
-| 2026-10-21 | v0.1 | 대표님 승인, 고정 | 헌장 §1 문장과 함께 승인("그래") |
-| 2026-10-21 | v0.2 | 1절: NDE "요소 2개 이상" 요건을 S층 집계에만 적용, V층은 위기+체외 시점+V요소로 입장. 9절·템플릿: `countable`을 no/S/V/SV로 세분 | 카드 1(NDE-NL-1979-dentures)이 체외 시점 외 서사 요소가 없어(터널·빛·회고 없음, Smit 2008 p.59) v0.1 규칙으로는 "유사 사례"가 돼 V층에서도 빠진다. V층은 정보의 출처를 묻는 층이라 서사 요소가 입장 조건일 이유가 없고, 그대로 두면 정형 서사만 세게 된다. 첫 카드에서 규칙을 바꾸는 것이라 범위를 V층 입장 조건으로만 좁혔고 S층 요건은 그대로다. 대표님이 거부하면 v0.1로 되돌리고 카드 1은 "유사 사례"로 둔다 |
-| 2026-10-22 | v0.2 | 9절에 13절 "자료"와 시각 자료 규칙 추가, `assets/` 신설. 등급 규칙은 변경 없음 | 대표님 지시: "자료 사진 그림 삽화 등으로 잘 모아서 같이 정리". 공개 저장소에 올라가므로 라이선스·검증·생성 이미지 금지 규칙을 같이 고정 |
-| 2026-10-23 | v0.2 | 9절: 카드를 두 층(읽는 글 / 조사 장부)으로. 그림은 읽는 글에 마크다운 문법으로 넣고 13절은 목록만. 카드 본문 언어는 영어, 한국어 읽는 글은 `ko/`. 등급 규칙은 변경 없음 | 대표님 피드백(2026-10-23): "사람이 쓴 것 같지 않아 읽기 어렵다", "삽화·사진이 안 보인다", 사이트 제목의 이름은 저자란으로, "출처도 중요한 단서니까 꼭 기록", "영문판이 main". 장부의 출처 번호와 등급 판정은 그대로 두고 그 위에 읽는 층을 얹는다 |
+| 2026-10-21 | v0.1 | First draft | First assignment (research charter). Awaiting the owner's approval |
+| 2026-10-21 | v0.1 | §4 hypothesis list and §6 connection layer added; hypothesis and connection sections added to cards; `entities/` created | Owner's instruction: keep every possibility open, investigate relentlessly, and trace connections between cases, people and texts across periods |
+| 2026-10-21 | v0.1 | Approved by the owner, fixed | Approved together with the CHARTER §1 sentence ("그래") |
+| 2026-10-21 | v0.2 | §1: the NDE "at least two elements" requirement applies to the S-layer count only; the V layer is entered with crisis + out-of-body viewpoint + V element. §9 and template: `countable` split into no/S/V/SV | Card 1 (NDE-NL-1979-dentures) has no narrative element besides the out-of-body viewpoint (no tunnel, light or review; Smit 2008 p. 59), so under v0.1 it would be a "similar case" and drop out of the V layer too. The V layer asks where the information came from, so narrative elements have no reason to be an entry condition; left as it was, only stereotyped narratives would be counted. Because this changes a rule at the first card, the scope was narrowed to the V-layer entry condition only; the S-layer requirement is unchanged. Had the owner rejected it, v0.1 would have been restored and card 1 left as a "similar case" |
+| 2026-10-22 | v0.2 | §9: section 13 "materials" and the rules for visual materials added; `assets/` created. No change to grading rules | Owner's instruction: "collect and arrange photographs, pictures and illustrations together". Because the repository is public, the licence, verification and no-generative-image rules were fixed at the same time |
+| 2026-10-23 | v0.2 | §9: cards split into two layers (reading layer / investigation ledger). Pictures go into the reading layer in Markdown syntax; §13 is a list only. Card language is English; Korean reading layers in `ko/`. No change to grading rules | Owner's feedback (2026-10-23): "it does not read as if written by a person", "the illustrations and photographs are not visible", the name in the site title belongs in the byline, "sources are important clues, so always record them", "the English version is the main one". The ledger's source numbers and grade verdicts stay as they are; the reading layer is laid over them |
+| 2026-10-25 | v0.2 | **Owner confirmed v0.2 ("METHOD v0.2 유지하세요") → fixed.** Document rewritten in English (the Korean text remains in git history at `42e7530`). §5: NDE baseline year 1975 confirmed from the catalogue record of Moody 1975 and the Dutch edition of 1977 (Delpher); CA·DBV baseline 1900 kept provisional, with Cobbe 1882 opened as evidence that the DBV motif circulated in English print before 1900 | Owner's instruction of 2026-10-25. English is the site's main language (2026-10-23). Baseline evidence gathered during card 1's independence review and the DBV motif search |

@@ -1,44 +1,48 @@
 ---
 id: M-obe-veridical-resuscitation
 type: motif
-name: "소생 중 체외 시점에서 주변 사건을 보고, 의료진·기록이 확인함"
+name: "During resuscitation or surgery the experiencer reports events around them from an out-of-body viewpoint, and staff or records confirm them"
 alive: ""
 role: ""
 cluster: ""
 dates: ""
-aliases: ["veridical OBE during resuscitation", "NDE-V 핵심 모티프"]
-links: [NDE-NL-1979-dentures, NDE-INTL-2014-aware]
+aliases: ["veridical OBE during resuscitation", "core NDE-V motif"]
+links: [NDE-NL-1979-dentures, NDE-US-1991-reynolds, NDE-INTL-2014-aware]
 status: draft
-updated: 2026-10-21
+updated: 2026-10-25
 ---
 
-# 모티프: 소생 중 체외 시점의 검증 가능한 지각
+# Motif: verifiable perception from an out-of-body viewpoint during resuscitation
 
-## 1. 한 줄 설명
+## 1. One line
 
-심정지·소생 중 당사자가 "위에서" 장면을 봤다고 하고, 그 내용(기구·대화·행동·인물)이 의료진 증언이나 기록과 대조되는 구조. NDE V층의 핵심 모티프이며, 이 장부가 V층 집계의 원천이다. S층 모티프(터널·빛 등)와 달리 문화 전파로 만들어질 수 없는 종류의 주장이므로 클러스터보다 **조사 주체·선기록 유무**를 적는다.
+During cardiac arrest, resuscitation or surgery the experiencer says they watched the scene "from above", and the content (instruments, conversation, actions, people) is checked against staff testimony or records. This is the core motif of the NDE V layer and this ledger is the source of the V-layer count. Unlike S-layer motifs (tunnel, light), it is a kind of claim that cultural transmission cannot produce, so the ledger records **investigating body and prior record** rather than cluster.
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| 1979 (기록 1991) | [[NDE-NL-1979-dentures]] | NL / EU-W | I1 · C/V1 · 조사 주체 O-Merkawah · 선기록 없음 | 확인 | 단일 증인, 12년 후 기록 |
-| 2008-2012 (기록 2014) | [[NDE-INTL-2014-aware]] | EN / 다국 · 전향 연구 | 미작성 | 미확인 | 전향·선기록(표적 그림) 설계. 대조군 겸 |
+| 1979 (recorded 1991) | [[NDE-NL-1979-dentures]] | NL / EU-W | I0 · C/V1 · investigating body O-Merkawah · no prior record | confirmed | Single witness, recorded 12 years later |
+| 1991 (recorded 1994, published 1998) | [[NDE-US-1991-reynolds]] | EN / EU-W | I0 · C/V1 · investigator P-Sabom-MB (no body) · no prior record | confirmed (through JNDS 2007–2012; the 1998 book unopened) | Four auditory/visual items checked against the operative record and the surgeon; all four fall in the anaesthetised, normothermic phase about two hours before cardiac standstill |
+| 2008–2012 (recorded 2014) | [[NDE-INTL-2014-aware]] | EN / multinational · prospective study | not written | unverified | Prospective design with records made in advance (target pictures). Doubles as a control |
 
-## 3. 연결
+## 3. Connections
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[NDE-NL-1979-dentures]] | R-MOT | 미정 | 확인 | 첫 항목 |
-| [[NDE-INTL-2014-aware]] | R-MOT | 미정 | 미확인 | 카드 미작성 |
+| [[NDE-NL-1979-dentures]] | R-MOT | undecided | confirmed | First entry |
+| [[NDE-US-1991-reynolds]] | R-MOT | undecided | confirmed | Second entry. Same two debaters as card 1 (Smit, Woerlee), different investigator |
+| [[NDE-INTL-2014-aware]] | R-MOT | undecided | unverified | Card not written |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 2차 | Smit 2008 JNDS 27(1):47-61 | 확인 | https://digital.library.unt.edu/ark:/67531/metadc798921/ | |
+| 1 | secondary | Smit 2008, JNDS 27(1):47–61 | confirmed | https://digital.library.unt.edu/ark:/67531/metadc798921/ | |
+| 2 | secondary | Sabom 2007, commentary, JNDS 25(4):257–260 | confirmed (OCR) | https://digital.library.unt.edu/ark:/67531/metadc799458/ | Timeline of the Reynolds operation from the records |
 
-## 5. 메모
+## 5. Notes
 
-- 이 모티프의 집계는 METHOD 8절 V판정(V2 3건·조사 주체 2곳)으로 간다. 현재 V2 0건, V1 1건.
-- 후보(미카드화): Pam Reynolds 1991(Sabom 1998; Woerlee 2011 반박), Parnia 2001 사우샘프턴 파일럿, Sartori 2006(웨일스 ICU 전향 연구). 전부 미확인.
+- The count goes to the METHOD §8 V verdict (3 V2, 2 investigating bodies). At present: V2 0, V1 2 (two different investigators: Merkawah; Sabom). Still no V2 because neither case has a dated third-party document made before the check that also blocks leakage.
+- Candidates (not carded): Parnia 2001 Southampton pilot; Sartori 2006 (Welsh ICU prospective study). Both unverified.
+- Pattern visible after two cards: the verified items in both cases sit at the edges of the crisis (before the machine was switched on; under anaesthesia before cooling), not inside the period of absent brain function. Whether any case anchors a verified perception inside documented flat EEG is the question the next NDE-V cards must answer.

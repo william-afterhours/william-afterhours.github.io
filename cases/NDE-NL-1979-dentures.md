@@ -8,7 +8,7 @@ country: NL
 event_year: 1979
 record_year: 1991
 investigator: O-Merkawah
-independence: I1
+independence: I0
 scores: {S1: 1, S2: 1, S3: 0, S4: 0, S5: 1, S6: 1, S7: 2}
 grade_R: C
 grade_V: V1
@@ -18,7 +18,7 @@ links: [O-Merkawah, P-TG-witness-1979, P-Woerlee-GM, M-obe-veridical-resuscitati
 counter: C
 countable: V
 status: reviewed
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 # The man with the dentures — a patient resuscitated from cardiac arrest describes, from above, the nurse who removed his dentures and the cart they were put on (Nijmegen, 1979)
@@ -69,7 +69,7 @@ So this record is **compatible** with the hypothesis that consciousness continue
 
 ## Investigation ledger
 
-Everything above rests on the sources numbered below. The ledger is this study's working record: the facts with their source numbers (§3–§4), the scores behind the grades (§5), the verified information (§6), the ordinary explanations (§7), the hypotheses the record can and cannot separate (§8), counter-evidence (§9), connections to people, organisations and motifs (§10), cultural independence (§11), notes (§12) and the list of materials (§13). The scoring rules are in `docs/METHOD.md` (Korean; English translation in progress).
+Everything above rests on the sources numbered below. The ledger is this study's working record: the facts with their source numbers (§3–§4), the scores behind the grades (§5), the verified information (§6), the ordinary explanations (§7), the hypotheses the record can and cannot separate (§8), counter-evidence (§9), connections to people, organisations and motifs (§10), cultural independence (§11), notes (§12) and the list of materials (§13). The scoring rules are in `docs/METHOD.md`.
 
 ## 1. One-line summary
 
@@ -185,7 +185,7 @@ Search: 2026-10-21 / references of #2, #3, #4; UNT JNDS index / Result: below
 |---|---|---|---|---|
 | [[O-Merkawah]] | R-INV | Neutral | Confirmed | All recorders belonged to it (Meijers, van Wees, Addink, Smit, Rivas); van Lommel connected with its founding [#2 #4] |
 | [[P-TG-witness-1979]] | R-PER | Neutral | Confirmed | Sole witness. Interviews 1994 and 2008; written comment 2008 |
-| [[P-Woerlee-GM]] | R-REB | Neutral | Confirmed | Rebuttals 2004 and 2010. The same author also rebutted the Pam Reynolds case (JNDS 30(1), 2011) — shares R-REB with candidate card NDE-US-1991-reynolds |
+| [[P-Woerlee-GM]] | R-REB | Neutral | Confirmed | Rebuttals 2004 and 2010. The same author also rebutted the Pam Reynolds case (JNDS 30(1), 2011) — shares R-REB with [[NDE-US-1991-reynolds]] |
 | [[M-obe-veridical-resuscitation]] | R-MOT | Undecided | Confirmed | First entry in the motif ledger. Not eligible for the S-layer count but recorded in the motif timeline |
 | [[NDE-INTL-2014-aware]] | R-TXT | Transmission (research design) | Unverified | Assumption that van Lommel 2001 is a precursor of the AWARE design. To check in the AWARE card's references |
 
@@ -196,18 +196,18 @@ Cluster: EU-W / record year 1991 vs baseline year for NDE 1975 → after / inves
 | Path | Ruled out / unknown / confirmed | Reason (including transmission links from §10) |
 |---|---|---|
 | ① Direct contact | Ruled out | No overlap of family, village or informant with any other card |
-| ② Translation, publication | Unknown | Whether a Dutch edition of Moody's *Life After Life* circulated by 1979 not investigated |
+| ② Translation, publication | Confirmed | The Dutch edition of Moody's *Life After Life*, *Leven na dit leven*, was reviewed and advertised in Dutch newspapers from September 1977, two years before the event (Delpher, KB: "Nieuwe boeken" 1977-09-12, resolver `ABCDDD:010827312:mpeg21:a0129`; advertisements 1977-10-22 and 1979-02-10; 20 hits 1977–79 for "Leven na dit leven" AND Moody, checked 2026-10-25). The narrative was available in B.'s language. Whether B. himself read it is unknown and does not matter for this route |
 | ③ Missionary, religious transmission | Ruled out | Not applicable (within Christendom; no outside doctrine introduced) |
-| ④ Mass media | Unknown | Both the record (1991) and the event (1979) fall after the baseline year. T.G. believes B. did not know the concept, but that is an impression |
+| ④ Mass media | Confirmed | Both the record (1991) and the event (1979) fall after the baseline year 1975 (Moody 1975, Mockingbird Books; catalogue record confirmed 2026-10-25), and the Dutch press carried the book from 1977 (route ②). T.G. believes B. did not know the concept, but that is an impression |
 | ⑤ Same investigating body | Ruled out | No other card at present with a Merkawah-investigated case (AWARE is a different body) |
 
-→ Independence grade **I1** (no effect on the verdict since the S layer is not counted; the V layer does not condition on independence)
+→ Independence grade **I0** (changed from I1 on 2026-10-25 when routes ② and ④ were checked; no effect on the verdict since the S layer is not counted and the V layer does not condition on independence)
 
 ## 12. Notes
 
-- This card gave rise to METHOD v0.2 (NDE V-layer entry conditions). If the owner rejects it, the card reverts to "similar case".
+- This card gave rise to METHOD v0.2 (NDE V-layer entry conditions). The owner confirmed v0.2 on 2026-10-25 ("keep v0.2"), so the card stays in the V-layer count.
 - What the result means: the most famous verified-NDE anecdote grades **C/V1** on this scale. The record is weak, not the event: a single witness, first record 12 years later, one investigating body, version discrepancies. It is a specimen of "a famous anecdote is not evidence", and shows why AWARE (prospective, with records made in advance) is needed as a control.
-- Unresolved: ① circulation of Dutch-language popular NDE books (the Moody translation) around 1977 — if confirmed, ② and ④ in §11 could change to "confirmed", with little effect since the S layer is not counted. ② "upper and lower dentures" (1994) vs "upper" (Lancet). ③ The circulatory state at denture removal — whether the difference between the Lancet version (during massage) and T.G.'s 2008 version (before the machine was switched on) comes from the Lancet authors' reconstruction or from a change in T.G.'s memory is unknown. ④ The year 1979 rests on Woerlee 2010 alone (presumably from the Rivas 2008 interview). ⑤ The possibility of information passing via ICU staff (L) was asked by no investigator.
+- Resolved 2026-10-25: the Dutch Moody translation circulated from September 1977 (Delpher), so §11 routes ② and ④ are "confirmed" and independence is I0 (no effect on the grades). Unresolved: ② "upper and lower dentures" (1994) vs "upper" (Lancet). ③ The circulatory state at denture removal — whether the difference between the Lancet version (during massage) and T.G.'s 2008 version (before the machine was switched on) comes from the Lancet authors' reconstruction or from a change in T.G.'s memory is unknown. ④ The year 1979 rests on Woerlee 2010 alone (presumably from the Rivas 2008 interview). ⑤ The possibility of information passing via ICU staff (L) was asked by no investigator.
 - To open next: the entry on this case in the English edition of Rivas, Dirven & Smit, *The Self Does Not Die* (2016), which may contain the result of Anny Dirven's search for B. — remains unverified if no free copy exists. Woerlee's 2005 letters (metadc799324, metadc938056). Lancet 2001 full text (paywalled; no copy found on the authors' sites).
 - Tools: UNT PDFs block automated access, but the IIIF `manifest/` and `m1/<p>/annotations/ocr/` open → `tools/unt_ocr.py`. Full JNDS index in `sources/unt-jnds-index.tsv`.
 

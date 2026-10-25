@@ -1,47 +1,47 @@
 ---
 id: L-Mothers-Hospital-Clapton
 type: place
-name: "The Mothers' Hospital, Clapton (구세군 산과 병원)"
+name: "The Mothers' Hospital, Clapton (Salvation Army maternity hospital)"
 alive: ""
 role: ""
 cluster: EU-W
 dates: "1913-1986"
-aliases: ["Salvation Army Mothers' Hospital", "Mothers' Hospital, Lower Clapton Road", "Mothers' Square(현재)"]
+aliases: ["Salvation Army Mothers' Hospital", "Mothers' Hospital, Lower Clapton Road", "Mothers' Square (today)"]
 links: [DBV-GB-1924-doris, P-Barrett-Florence]
 status: draft
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
-# Mothers' Hospital, 클랩턴 — 1924년 사례의 장소
+# The Mothers' Hospital, Clapton — the place of the 1924 case
 
-## 1. 한 줄 설명
+## 1. One line
 
-런던 해크니 Lower Clapton Road 153–156번지의 구세군 산과 병원(1913–1986). 1824년에 지은 주택 네 채를 정면으로 쓰고 뒤편에 단층 병동을 두었다. 1924년 1월 도리스가 출산하고 죽은 곳이며, 레이디 바렛이 산과 외과의로 일한 병원이다. 폐원 후 정면 주택은 남고 부지는 주거 단지(Mothers' Square)가 됐다.
+Salvation Army maternity hospital at 153–156 Lower Clapton Road, Hackney, London (1913–1986). Four houses built in 1824 served as its frontage, with single-storey wards behind. It is where Doris gave birth and died in January 1924, and where Lady Barrett worked as an obstetric surgeon. After closure the front houses remained and the site became a housing estate (Mothers' Square).
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| 1913 | 개원(구세군) | EU-W | 장소 | 확인(Lost Hospitals of London) | |
-| 1924-01-12 | [[DBV-GB-1924-doris]] | EU-W | 사건 장소(R-LOC) | 확인(Barrett 1926 p.10 "Mothers' Hospital, at Clapton") | 병동 이름·위치는 기록 없음 |
-| 1986 | 폐원 | | | 확인(Lost Hospitals of London) | 이후 주거 단지 |
-| 2018 | 정면 건물 사진(Commons) | | | 확인(열람) | `assets/DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg` |
+| 1913 | Opened (Salvation Army) | EU-W | place | confirmed (Lost Hospitals of London) | |
+| 1924-01-12 | [[DBV-GB-1924-doris]] | EU-W | site of the event (R-LOC) | confirmed (Barrett 1926 p. 10 "Mothers' Hospital, at Clapton") | Ward name and position not recorded |
+| 1986 | Closed | | | confirmed (Lost Hospitals of London) | Housing estate afterwards |
+| 2018 | Photograph of the front buildings (Commons) | | | confirmed (viewed) | `assets/DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg` |
 
-## 3. 연결
+## 3. Connections
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[DBV-GB-1924-doris]] | R-LOC | 중립 | 확인 | 사건 장소 |
-| [[P-Barrett-Florence]] | R-LOC | 중립 | 확인 | 근무 병원 |
+| [[DBV-GB-1924-doris]] | R-LOC | neutral | confirmed | Site of the event |
+| [[P-Barrett-Florence]] | R-LOC | neutral | confirmed | Her hospital |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 3차(병원 이력) | Lost Hospitals of London, "Mothers' Hospital" | 확인 | https://ezitis.myzen.co.uk/mothers.html | 개원·폐원·주소·건물 |
-| 2 | 참고(사진) | Commons "The Salvation Army Mothers' Hospital, Front Buildings, Lower Clapton Rd" (Paul the Archivist, 2018-05-05), CC BY-SA 4.0 | 확인(열람: 아치에 "THE MOTHERS' SQUARE AND MAITLAND HOUSE") | https://commons.wikimedia.org/wiki/File:The_Salvation_Army_Mothers%27_Hospital,_Front_Buildings,_Lower_Clapton_Rd.jpg | |
+| 1 | tertiary (hospital history) | Lost Hospitals of London, "Mothers' Hospital" | confirmed | https://ezitis.myzen.co.uk/mothers.html | Opening, closure, address, buildings |
+| 2 | reference (photograph) | Commons "The Salvation Army Mothers' Hospital, Front Buildings, Lower Clapton Rd" (Paul the Archivist, 2018-05-05), CC BY-SA 4.0 | confirmed (viewed: the arch reads "THE MOTHERS' SQUARE AND MAITLAND HOUSE") | https://commons.wikimedia.org/wiki/File:The_Salvation_Army_Mothers%27_Hospital,_Front_Buildings,_Lower_Clapton_Rd.jpg | |
 
-## 5. 메모
+## 5. Notes
 
-- 1920년대 병원 사진은 찾지 못했다(Commons 검색 2026-10-22). 구세군 국제유산센터(런던)에 소장 가능성 — 미조사.
-- 같은 병원의 다른 임종 환시 보고가 있는지는 미조사. 있다면 같은 장소·같은 기록자 집단(R-LOC·⑤)으로 묶인다.
+- No 1920s photograph of the hospital was found (Commons search 2026-10-22). The Salvation Army International Heritage Centre (London) may hold one — not investigated.
+- Whether other deathbed visions were reported from the same hospital is not investigated. If so, they would group by place and recording circle (R-LOC, route ⑤).

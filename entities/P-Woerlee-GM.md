@@ -5,43 +5,50 @@ name: "Gerald M. Woerlee"
 alive: unknown
 role: author
 cluster: EU-W
-dates: "2004-2011 (JNDS 게재)"
+dates: "2004-2012 (JNDS publications)"
 aliases: ["G. M. Woerlee", "Gerry Woerlee"]
-links: [NDE-NL-1979-dentures, O-Merkawah]
+links: [NDE-NL-1979-dentures, NDE-US-1991-reynolds, O-Merkawah, P-Sabom-MB, P-Augustine-K]
 status: draft
-updated: 2026-10-21
+updated: 2026-10-25
 ---
 
-# Gerald M. Woerlee — 마취과 의사, NDE 회의론 저자
+# Gerald M. Woerlee — anaesthesiologist, sceptical author on NDEs
 
-## 1. 한 줄 설명
+## 1. One line
 
-레이던(Leiden) 소재 마취과 의사(Rijnland 병원·LUMC 부교수, 본인 소개 2010). NDE·OBE를 저산소·CPR 관류·마취 생리로 설명하는 연속 반박을 JNDS에 실었다. 공개 저자이므로 실명. 반박자로서 여러 카드에 R-REB로 재등장할 가능성이 커서 추적한다.
+Anaesthesiologist based in Leiden (Rijnland Hospital; associate professor at LUMC by his own description, 2010). He published in the *Journal of Near-Death Studies* a series of rebuttals explaining NDEs and out-of-body experiences by hypoxia, CPR perfusion and the physiology of anaesthesia. A public author, so named. Tracked because, as a rebutter, he recurs across cards as R-REB: so far he has rebutted both the Dutch "dentures" case and the American Pam Reynolds case.
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| 2004 | JNDS 22(4):235-249 "Cardiac arrest and near-death experiences" — [[NDE-NL-1979-dentures]] 비판 | EN | 반박자 | 확인(OCR) | Lancet 요약만 근거; 사실 오류(서랍·눈·"형제"·통증 없음) |
-| 2005 | JNDS 23(3) 편지 왕복(metadc799324, metadc938056) | EN | | 미확인 | |
-| 2010 | JNDS 28(4):181-191 — 틀니 사례 재반박 | EN | 반박자 | 확인(OCR) | 저체온·CPR 관류·잠금 상태 가설 |
-| 2011 | JNDS 30(1) "Could Pam Reynolds Hear?"(metadc461684) + 재반박(metadc461715) | EN | 반박자 | 미확인 | 후보 카드 NDE-US-1991-reynolds |
+| 2004 | JNDS 22(4):235–249 "Cardiac arrest and near-death experiences" — critique of [[NDE-NL-1979-dentures]] | EN | rebutter | confirmed (OCR) | Based on the Lancet summary only; factual errors (drawer, eyes, "brother", no pain) |
+| 2005 | JNDS 23(3) exchange of letters (metadc799324, metadc938056) | EN | | unverified | |
+| 2010 | JNDS 28(4):181–191 — second rebuttal of the dentures case | EN | rebutter | confirmed (OCR) | Hypothermia, CPR perfusion, locked-in-like state |
+| 2011 | JNDS 30(1):3–25 "Could Pam Reynolds Hear?" (metadc461684) + rejoinder 30(1):54–61 (metadc461715) — critique of [[NDE-US-1991-reynolds]] | EN | rebutter | confirmed (OCR, both) | Argues normal hearing under general anaesthesia (anaesthesia awareness, bone conduction); invites readers to test the click stimulus with a tone-generator program. Also lists his earlier treatments of the case: *Skeptiker* 2004, *The Skeptic* 2005 (two parts), *Mortal Minds* 2005 (unverified) |
+| 2012 | Reply on an Amazon discussion board to Smit's test of his click experiment (Smit 2012 p. 191) | EN | | confirmed (as reported by Smit) | Position unchanged |
 
-## 3. 연결
+## 3. Connections
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
-| [[NDE-NL-1979-dentures]] | R-REB | 중립 | 확인 | 2004·2010 |
-| [[O-Merkawah]] | R-REB | 중립 | 확인 | Smit·Rivas와 논쟁 |
+| [[NDE-NL-1979-dentures]] | R-REB | neutral | confirmed | 2004 and 2010 |
+| [[NDE-US-1991-reynolds]] | R-REB | neutral | confirmed | 2011 article and rejoinder |
+| [[O-Merkawah]] | R-REB | neutral | confirmed | Debate with Smit and Rivas over both cases (dentures 2008–2010; Reynolds 2008, 2012) |
+| [[P-Sabom-MB]] | R-REB | neutral | confirmed | Sabom's 1998 book is the record Woerlee 2011 argues against; Sabom replied to Augustine, not to Woerlee directly |
+| [[P-Augustine-K]] | R-INV | neutral | confirmed | Augustine 2007 builds its treatment of the Reynolds case on Woerlee's analysis and personal communications (Augustine 2007a p. 218; Smit 2008 p. 308) |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | 반박 | Woerlee 2004 JNDS 22(4):235-249 | 확인 | https://digital.library.unt.edu/ark:/67531/metadc799067/ | |
-| 2 | 반박 | Woerlee 2010 JNDS 28(4):181-191 | 확인 | https://digital.library.unt.edu/ark:/67531/metadc461689/ | |
+| 1 | rebuttal | Woerlee 2004, JNDS 22(4):235–249 | confirmed | https://digital.library.unt.edu/ark:/67531/metadc799067/ | |
+| 2 | rebuttal | Woerlee 2010, JNDS 28(4):181–191 | confirmed | https://digital.library.unt.edu/ark:/67531/metadc461689/ | |
+| 3 | rebuttal | Woerlee 2011, "Could Pam Reynolds Hear? A new investigation into the possibility of hearing during this famous near-death experience", JNDS 30(1):3–25 | confirmed (OCR) | https://digital.library.unt.edu/ark:/67531/metadc461684/ | |
+| 4 | rebuttal | Woerlee 2011, "Rejoinder to responses to 'Could Pam Reynolds Hear?'", JNDS 30(1):54–61 | confirmed (OCR) | https://digital.library.unt.edu/ark:/67531/metadc461715/ | |
 
-## 5. 메모
+## 5. Notes
 
-- 반박의 패턴: 생리학 문헌은 풍부하나 사례의 1차 자료(면담 기록)를 읽기 전에 쓴 경우가 있음(2004). 반박도 같은 등급표로 채점한다 — 그의 반박은 자체 증인이 없어 상한 C.
-- 그의 CPR 중 의식 회복 문헌(Lewinter 1989; Bihari & Rajajee 2008)은 N 항목의 일반 근거로 다른 NDE-V 카드에도 쓰일 수 있다. 미열람.
+- Pattern of the rebuttals: physiological literature is abundant, but in 2004 he wrote before reading the primary interview records of the case. Rebuttals are scored on the same scale; his carry no witnesses of their own, so they are capped at C.
+- His own conclusion in the 2011 rejoinder is narrower than his title suggests: a physical explanation is "provably possible", the immaterial one "unproven", and "the available data are insufficient" to exclude either (p. 60). That sentence is the fair summary of the Reynolds debate and is quoted in the card.
+- His literature on consciousness during CPR (Lewinter 1989; Bihari & Rajajee 2008) can serve as general grounds for item N on other NDE-V cards. Not opened.

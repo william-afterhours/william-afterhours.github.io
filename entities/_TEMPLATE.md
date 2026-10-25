@@ -1,45 +1,45 @@
 ---
-id: X-slug                     # 파일명과 같게. 접두어: P-인물 / O-기관 / L-장소 / T-문헌 / M-모티프
+id: X-slug                     # same as the file name. Prefix: P- person / O- organisation / L- place / T- text / M- motif
 type: ""                       # person / org / place / text / motif
-name: ""                       # 인물: 살아 있거나 생사 불명인 목격자·당사자는 이니셜만. 사망 확인된 역사적 인물·공개 저자(조사자)는 실명
-alive: unknown                 # 인물만: yes / no / unknown (이니셜 여부의 근거)
-role: ""                       # 인물: investigator / witness / subject / author. 기관: 조사 주체 코드
-cluster: ""                    # 해당되면 METHOD 5절 클러스터 코드
-dates: ""                      # 활동·존재 연대. 예: 1882-1920, c.700, 1979
-aliases: []                    # 다른 표기·번역명
-links: []                      # 연결 대상 id 목록(빠른 집계용)
+name: ""                       # persons: witnesses and experiencers who are alive or of unknown status get initials only. Historical persons whose death is confirmed and public authors (investigators) by name
+alive: unknown                 # persons only: yes / no / unknown (the reason for initials or name)
+role: ""                       # persons: investigator / witness / subject / author. Organisations: investigating-body code
+cluster: ""                    # METHOD §5 cluster code where applicable
+dates: ""                      # period of activity or existence, e.g. 1882-1920, c.700, 1979
+aliases: []                    # other spellings, translated names
+links: []                      # ids of connected items (for quick counting)
 status: draft                  # draft / reviewed / final
 updated: YYYY-MM-DD
 ---
 
-# <항목 이름>
+# <Entity name>
 
-## 1. 한 줄 설명
+## 1. One line
 
-(무엇·누구이고, 이 연구에서 왜 추적하는가.)
+(What or who it is, and why this study tracks it.)
 
-## 2. 계보 / 연표
+## 2. Lineage / timeline
 
-(종류별로 채운다. **문헌**: 원문 → 번역 → 후대 전재의 계보. **모티프**: 등장 사례의 연표 — 이것이 S층의 장부다. **인물·기관**: 관여 사건과 역할. **장소**: 사건과 시기.)
+(Filled according to kind. **Text:** the lineage original → translation → later reprint. **Motif:** the timeline of cases in which it appears — this is the ledger of the S layer. **Person, organisation:** cases involved and role. **Place:** cases and period.)
 
-| 연도 | 항목·사건 `[[id]]` | 언어·클러스터 | 독립성(I2/I1/I0) 또는 역할 | 열람 | 메모 |
+| Year | Item / case `[[id]]` | Language · cluster | Independence (I2/I1/I0) or role | Opened | Notes |
 |---|---|---|---|---|---|
-| | | | | 확인 / 미확인 | |
+| | | | | confirmed / unverified | |
 
-## 3. 연결
+## 3. Connections
 
-(METHOD 6절. 관계 유형: R-PER 같은 인물 / R-LOC 같은 장소 / R-TXT 같은 문헌 계보 / R-MOT 같은 모티프 / R-INV 같은 조사자 / R-REB 반박–피반박. 판정: 전파 / 재발 / 중립 / 미정. 등급: 확인 / 추정 / 미확인.)
+(METHOD §6. Relation types: R-PER same person / R-LOC same place / R-TXT same textual lineage / R-MOT same motif / R-INV same investigator / R-REB rebuttal–rebutted. Verdict: transmission / recurrence / neutral / undecided. Grade: confirmed / inferred / unverified.)
 
-| 대상 `[[id]]` | 관계 유형 | 판정 | 등급 | 근거 |
+| Target `[[id]]` | Relation | Verdict | Grade | Reason |
 |---|---|---|---|---|
 | | | | | |
 
-## 4. 출처
+## 4. Sources
 
-| # | 종류(1/2/3차) | 서지 | 열람 | 링크 | 메모 |
+| # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
 |---|---|---|---|---|---|
-| 1 | | | 확인 / 미확인 | | |
+| 1 | | | confirmed / unverified | | |
 
-## 5. 메모
+## 5. Notes
 
-(미해결 질문, 다음에 열어볼 출처, 연결 판정을 바꿀 수 있는 정보.)
+(Open questions, sources to open next, information that could change a connection verdict.)
