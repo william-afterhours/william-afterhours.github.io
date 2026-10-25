@@ -29,13 +29,13 @@
   - 준비 완료: `site/quartz.config.ts`·`quartz.layout.ts`·`assemble.sh`, `.github/workflows/deploy.yml`(Quartz 4.5.2 커밋 고정, 비공개 동안 deploy 단계 생략), `README.md`(= 사이트 첫 페이지), `.gitignore`. **로컬 빌드 확인함**(Node 26, 10개 문서 → 41 파일, 위키링크·백링크 정상).
   - **저장소**: https://github.com/william-afterhours/william-afterhours.github.io — 2026-10-22 비공개로 개설, 2026-10-23 공개 전환 때 같은 이름의 새 공개 저장소로 교체(옛것은 `william-afterhours-private-archive`, 비공개 보관). Discussions 켜짐, main 추적. 계정 `william-afterhours`. **운영 메모는 저장소 밖에 둔다(공개 저장소에 넣지 않는다). 재개할 때 그것도 읽는다.**
   - Actions `Deploy site`(build만) 런 39784436279·39787305222(자료 층 커밋 7eb7bf1) **success** 확인(2026-10-22). 비공개라 deploy 단계는 건너뜀.
-  - Pages 소스는 GitHub Actions(API로 설정 완료). **남은 것은 giscus뿐**: 대표님이 giscus 앱 설치(https://github.com/apps/giscus) → William이 GraphQL로 repoId·categoryId 받아 `site/quartz.layout.ts`의 `Component.Comments` 주석 해제(토론 카테고리는 영어 이름으로 새로 만든다) → push → 댓글 창 확인.
+  - Pages 소스는 GitHub Actions(API로 설정 완료). **giscus 연결 완료(2026-10-25)**: 대표님이 giscus 앱 설치(범위 "All repositories" — 토론 읽기·쓰기 권한뿐이라 그대로 둠), William이 GraphQL로 repoId(`R_kgDOVUuUug`)·카테고리 목록을 받아 `site/quartz.layout.ts`의 `Component.Comments`를 켬. 카테고리는 기본 생성된 **Announcements**(giscus 권장 형식: 토론 생성은 관리자·giscus만, 댓글은 GitHub 계정이면 누구나; 카테고리는 API로 못 만들어 기존 것을 씀), `mapping: pathname`, `strict: true`, 언어 en. 배포 런 40194829156 success, 라이브 페이지 HTML에 위젯 설정 확인. 댓글은 저장소 Discussions의 Announcements에 페이지별 스레드로 쌓인다.
 
 ## 다음 세션에 할 일
 
 **먼저**: 영어 주판 마무리 — `docs/METHOD.md`·`CHARTER.md`·`entities/*`·`sources/*`·`assets/index.md` 본문을 영어로(한국어는 `ko/`에 읽는 글만). 엔티티 제목이 영어가 되면 영어 카드의 백링크·그래프 표시도 영어가 된다.
 
-1. 대표님 답을 반영: METHOD v0.2 유지/복귀. giscus 앱이 설치돼 있으면 댓글 연결(현재 상태의 giscus 항목).
+1. 대표님 답을 반영: METHOD v0.2 유지/복귀.
 2. 카드 3(추천): `NDE-US-1991-reynolds`(Sabom 1998; Woerlee 2011 반박 UNT metadc461684·461715 — 반대 자료가 무료로 열려 있어 counter 축을 제대로 쓸 수 있는 첫 카드). 대안 `NDE-INTL-2014-aware`(V층 대조군; Resuscitation 2014 저자 사본 탐색).
 3. DBV 다음 카드는 **SPR 바깥·다른 클러스터**로: Osis & Haraldsson 1977 『At the Hour of Death』 인도 사례(SA, 조사 주체 ASPR/Osis) 무료 사본 탐색; Barrett 1926 3장(OCR 오프셋 38,885–112,510)에서 1882년 이전 기록이 있는 사례 목록 추출. Jennie & Edith 1889(미국)는 같은 조사 주체라 V 후보로만.
 4. `tools/build_index.py` — 프론트매터 → `docs/TIMELINE.md` + 깨진 `[[링크]]` 목록. 지금 깨진 링크: `NDE-INTL-2014-aware`(카드 미작성, 의도적). 카드 2의 후보 id(`DBV-US-1889-jennie-edith`, `T-Cobbe-1882-peak-in-darien`)는 일부러 위키링크로 안 적었다.
@@ -66,7 +66,7 @@
 
 - **답 1개 남음**: METHOD v0.2(NDE V층 입장 조건) 유지 여부. 답이 없으면 유지한 채 진행하고, 거부하면 v0.1로 되돌린다.
 - **GitHub 계정 — 전부 완료(2026-10-22)**: 계정 `william-afterhours`. 기기 로그인 방식(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력 — 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다. 세부는 저장소 밖 운영 메모에.
-- ~~공개 전환 확인~~ → **2026-10-23 승인·완료.** 지금 남은 대표님 손: **giscus 앱 설치 1개** — https://github.com/apps/giscus 에서 Install → 저장소 `william-afterhours.github.io`만 선택(William 계정 `william-afterhours`로 로그인한 브라우저). 급하지 않으니 아래 Trove 키와 묶어서 한 번에. 설치되면 나머지(ID 받기·설정·push)는 William이 한다.
+- ~~공개 전환 확인~~ → **2026-10-23 승인·완료.** ~~giscus 앱 설치~~ → **2026-10-25 대표님이 설치, William이 연결 완료.** 지금 남은 대표님 손은 **없음**(아래 Trove 키는 급하지 않은 선택 사항).
 - **모아 두는 것(급하지 않음, 다음 가입 요청과 묶어서)**: Trove(호주 국립도서관) API 키 — 무료 가입, 이메일 인증. 용도: 1924~26년 영연방 신문의 "Lady Barrett" 임종 환시 전재 기사 탐색(카드 2 신문 미확인 해소). 이것 하나 때문에 대표님을 부르지는 않는다.
 - **공개 전환 점검표(2026-10-23 작업 트리 기준 통과)**: 목격자 이니셜(카드 1·2 확인), 키·비밀번호 없음(이력까지 grep), `.claude/settings.json`은 모델·effort만이라 공개해도 됨, `tools/commons_fetch.py`의 UA 이메일은 공개 연락처라 유지. git 이력의 운영 문장 정리도 공개 전환 때 완료(전 커밋 grep 0건).
 
@@ -78,6 +78,7 @@
 - 세션 4(2026-10-23, 공개 준비): 추정 입력 누적 약 10–15만(사이트 스크린샷 4장 열람 포함), 출력 약 1만. 큰 읽기 없음.
 - 세션 4 후반(2026-10-23, 읽기 개편·영어 주판): 컨텍스트 요약 1회. 추정 입력 누적 약 30만(스크린샷 12장·도해 렌더 3장), 출력 약 5만(카드 2건 영어 재작성, 한국어 읽는 글 2건, 템플릿·README·도해 코드 2벌). 기록용 한 줄 — 보고에는 쓰지 않는다(대표님 지시).
 - 세션 4 끝(2026-10-23, 공개 전환): 추정 입력 누적 약 10만(스크린샷 2장), 출력 약 1만. 기록용.
+- 세션 5(2026-10-25, giscus 연결): 짧은 세션, 추정 입력 누적 약 3만(스크린샷 2장), 출력 약 5천. 기록용.
 - 세션 2: `/cost`를 직접 볼 수 없어 추정. 컨텍스트가 한 번 가득 차 요약됐으므로 본 세션 입력 누적 약 25–35만(웹·OCR 본문 읽기가 대부분, Woerlee 2010·Smit&Rivas 2010·Smit 2008·Woerlee 2004 전문 4편), 출력 약 3만. 대표님이 `/cost`를 치면 정확한 수치가 나온다.
 - 비용 절감 메모: JNDS 색인(OAI)을 받아 두어 다음 NDE 카드는 검색 토큰이 거의 들지 않는다. 전문은 스크래치패드에만 두고 저장소에는 요약만(저작권).
 - 등급표의 잠정값(1회차 조사에서 확정할 것): 매체 확산 기준 연도(NDE 1975 / CORT 1956 / CA·DBV 1900)는 근거 문헌 미확인. 수렴 판정 숫자(4클러스터·V2 3건)는 William의 판단이라 대표님이 조정 가능.
