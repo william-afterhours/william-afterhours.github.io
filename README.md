@@ -10,6 +10,12 @@ Full charter: [docs/CHARTER.md](docs/CHARTER.md). Grading scale and rules: [docs
 
 ## Cases so far
 
+### [Louisa Browning calls her sister's name (London, 1883)](cases/DBV-GB-1883-browning.md)
+
+![Page 422 of the Journal of the American Society for Psychical Research, July 1909, where the 1883 letter was printed](assets/DBV-GB-1883-browning--jaspr-1909-p422.jpg)
+
+A woman of seventy-eight, unconscious after a fall, said "Oh Amelia! Amelia!", reached out her hand "to welcome some one their earthly eyes were not permitted to see", and died. Amelia was her sister, dead sixteen years. Eight days later her niece wrote this in a family letter to the sister's widower, the engineer John Ericsson, in New York. The letter was never meant for print; it survived in Ericsson's papers, was found by his biographer, and was printed by the American Society for Psychical Research in 1909. The civil registers confirm both deaths. The niece was not in the room, and the people who were are unnamed. Record grade **C** (capped: hearsay from unnamed witnesses), no verified information, independence **I2**: the first record in this study that was not borrowed from another culture or shaped by an investigator.
+
 ### [Doris sees Vida (London, 1924)](cases/DBV-GB-1924-doris.md)
 
 ![The front buildings of the Mothers' Hospital, Clapton, in 2018](assets/DBV-GB-1924-doris--mothers-hospital-clapton-2018.jpg)

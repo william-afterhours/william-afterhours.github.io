@@ -7,9 +7,9 @@ role: investigator
 cluster: EU-W
 dates: "1844-1925"
 aliases: ["Sir William Barrett", "W. F. Barrett", "William F. Barrett"]
-links: [DBV-GB-1924-doris, P-Barrett-Florence, M-dbv-visitor-unknown-dead]
+links: [DBV-GB-1924-doris, DBV-GB-1883-browning, P-Barrett-Florence, M-dbv-visitor-unknown-dead, M-dbv-visitor-known-dead, P-Hyslop-JH]
 status: draft
-updated: 2026-10-25
+updated: 2026-10-31
 ---
 
 # William Fletcher Barrett — physicist, founder of the SPR, collector of deathbed visions
@@ -36,6 +36,9 @@ British physicist (1844–1925). He led the founding of the Society for Psychica
 | [[DBV-GB-1924-doris]] | R-INV | neutral | confirmed | Collector and publisher |
 | [[P-Barrett-Florence]] | R-PER | neutral | confirmed | His wife and the first witness — a relation that lowers investigator independence (S6) |
 | [[M-dbv-visitor-unknown-dead]] | R-MOT | transmission (term and collection) | confirmed | The title of chapter II is the definition of the motif itself |
+| [[M-dbv-visitor-known-dead]] | R-MOT | transmission (collection) | confirmed | Chapter III collects this motif (pp. 39–71) |
+| [[DBV-GB-1883-browning]] | R-TXT | neutral | confirmed | Reprinted the 1883 letter, abridged, at pp. 44–45, from JASPR 1909. Post-record; the case is not SPR-collected, so it carries no route ⑤ link to him |
+| [[P-Hyslop-JH]] | R-TXT | transmission (reprint) | confirmed | Chapter III reprints several JASPR cases (1909, 1918) edited by Hyslop |
 
 ## 4. Sources
 

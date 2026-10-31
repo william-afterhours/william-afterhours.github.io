@@ -1,6 +1,6 @@
 ---
 title: Timeline
-updated: 2026-10-25
+updated: 2026-10-31
 ---
 
 # Timeline (generated)
@@ -13,6 +13,7 @@ Columns: event year → year of the first record · card · phenomenon code and 
 
 | Years | Card | Type | Cluster | Investigator | Grades | Status |
 |---|---|---|---|---|---|---|
+| 1883 → 1883 | [[DBV-GB-1883-browning\|Louisa Browning calls her sister's name (London, 1883)]] | DBV ·  | EU-W · GB | [[O-ASPR]] | C · V— · I2 · no | reviewed |
 | 1924 → 1926 | [[DBV-GB-1924-doris\|Doris sees Vida (London, 1924)]] | DBV · V | EU-W · GB | [[P-Barrett-WF]] | B · V1 · I0 · V | reviewed |
 | 1979 → 1991 | [[NDE-NL-1979-dentures\|The man with the dentures (Nijmegen, 1979)]] | NDE · V | EU-W · NL | [[O-Merkawah]] | C · V1 · I0 · V | reviewed |
 | 1991 → 1994 | [[NDE-US-1991-reynolds\|Pam Reynolds and the bone saw (Phoenix, 1991)]] | NDE · V | EU-W · US | [[P-Sabom-MB]] | C · V1 · I0 · SV | reviewed |
@@ -21,8 +22,10 @@ Columns: event year → year of the first record · card · phenomenon code and 
 
 | Dates | Entity | Type · role | Linked to |
 |---|---|---|---|
-| 1844-1925 | [[P-Barrett-WF\|William Fletcher Barrett]] | person · investigator | [[DBV-GB-1924-doris]], [[P-Barrett-Florence]], [[M-dbv-visitor-unknown-dead]] |
+| 1844-1925 | [[P-Barrett-WF\|William Fletcher Barrett]] | person · investigator | [[DBV-GB-1924-doris]], [[DBV-GB-1883-browning]], [[P-Barrett-Florence]], [[M-dbv-visitor-unknown-dead]], [[M-dbv-visitor-known-dead]], [[P-Hyslop-JH]] |
+| 1854-1920 | [[P-Hyslop-JH\|James Hervey Hyslop]] | person · investigator | [[DBV-GB-1883-browning]], [[O-ASPR]], [[P-Barrett-WF]], [[M-dbv-visitor-known-dead]], [[M-dbv-visitor-unknown-dead]] |
 | 1867-1945 | [[P-Barrett-Florence\|Florence Elizabeth Barrett (née Willey)]] | person · witness | [[DBV-GB-1924-doris]], [[P-Barrett-WF]], [[L-Mothers-Hospital-Clapton]] |
+| 1885- | [[O-ASPR\|American Society for Psychical Research (ASPR)]] | org · ASPR | [[DBV-GB-1883-browning]], [[P-Hyslop-JH]], [[P-Barrett-WF]] |
 | 1913-1986 | [[L-Mothers-Hospital-Clapton\|The Mothers' Hospital, Clapton (Salvation Army maternity hospital)]] | place ·  | [[DBV-GB-1924-doris]], [[P-Barrett-Florence]] |
 | 1956-2010 | [[P-Reynolds-Pam\|Pam Reynolds]] | person · subject | [[NDE-US-1991-reynolds]], [[P-Sabom-MB]], [[P-Spetzler-RF]], [[L-Barrow-Neurological-Institute]], [[M-obe-veridical-resuscitation]] |
 | 1982-2008 (publications on NDEs) | [[P-Sabom-MB\|Michael B. Sabom]] | person · investigator | [[NDE-US-1991-reynolds]], [[P-Reynolds-Pam]], [[P-Augustine-K]], [[P-Woerlee-GM]], [[M-obe-veridical-resuscitation]] |
@@ -31,13 +34,16 @@ Columns: event year → year of the first record · card · phenomenon code and 
 | 1991 (operation) | [[L-Barrow-Neurological-Institute\|Barrow Neurological Institute, St Joseph's Hospital and Medical Center, Phoenix, Arizona]] | place ·  | [[NDE-US-1991-reynolds]], [[P-Spetzler-RF]], [[P-Reynolds-Pam]] |
 | 2004-2012 (JNDS publications) | [[P-Woerlee-GM\|Gerald M. Woerlee]] | person · author | [[NDE-NL-1979-dentures]], [[NDE-US-1991-reynolds]], [[O-Merkawah]], [[P-Sabom-MB]], [[P-Augustine-K]] |
 | 2007 (JNDS) | [[P-Augustine-K\|Keith Augustine]] | person · author | [[NDE-US-1991-reynolds]], [[P-Sabom-MB]], [[P-Woerlee-GM]] |
-|  | [[M-dbv-visitor-unknown-dead\|In a deathbed vision, a person whose death the patient did not know of appears as the visitor]] | motif ·  | [[DBV-GB-1924-doris]], [[P-Barrett-WF]] |
+|  | [[M-dbv-visitor-known-dead\|In a deathbed vision, the dying person sees, greets or calls a dead relative who seems to have come for them]] | motif ·  | [[DBV-GB-1883-browning]], [[DBV-GB-1924-doris]], [[M-dbv-visitor-unknown-dead]], [[P-Barrett-WF]], [[P-Hyslop-JH]] |
+|  | [[M-dbv-visitor-unknown-dead\|In a deathbed vision, a person whose death the patient did not know of appears as the visitor]] | motif ·  | [[DBV-GB-1924-doris]], [[P-Barrett-WF]], [[M-dbv-visitor-known-dead]], [[P-Hyslop-JH]] |
 |  | [[M-obe-veridical-resuscitation\|During resuscitation or surgery the experiencer reports events around them from an out-of-body viewpoint, and staff or records confirm them]] | motif ·  | [[NDE-NL-1979-dentures]], [[NDE-US-1991-reynolds]], [[NDE-INTL-2014-aware]] |
+| c.1805-1883 | [[P-Browning-Louisa\|Louisa Browning]] | person · subject | [[DBV-GB-1883-browning]], [[P-Chute-Ellen]], [[M-dbv-visitor-known-dead]] |
 | event 1979; interviews 1994 and 2008 | [[P-TG-witness-1979\|T.G.]] | person · witness | [[NDE-NL-1979-dentures]], [[O-Merkawah]] |
+| fl. 1868-1883 | [[P-Chute-Ellen\|Ellen Chute, Lady Chute (née Browning)]] | person · author | [[DBV-GB-1883-browning]], [[P-Browning-Louisa]] |
 
 ## Link check
 
-- 171 wikilinks in 34 files checked on 2026-10-25.
+- 225 wikilinks in 42 files checked on 2026-10-31.
 - 4 link(s) point to pages that do not exist yet (planned cards count as leads, not records):
   - `cases/NDE-NL-1979-dentures.md` → `NDE-INTL-2014-aware`
   - `entities/M-obe-veridical-resuscitation.md` → `NDE-INTL-2014-aware`

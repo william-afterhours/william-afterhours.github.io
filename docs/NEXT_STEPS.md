@@ -1,6 +1,17 @@
 # NEXT_STEPS — 재개할 때 이것부터
 
-## 현재 상태 (2026-10-25, 세션 6)
+## 현재 상태 (2026-10-31, 세션 7)
+
+- **카드 4 완료 `cases/DBV-GB-1883-browning.md` — C(상한 ③)/V—, I2, `countable: no`.** 이 연구의 **첫 I2** 기록. 1883년 10월 28일 런던 켄싱턴, 당뇨와 낙상 뒤 의식이 없던 루이자 브라우닝(78)이 "Oh Amelia! Amelia!"(1867년 죽은 언니) 하고 손을 내밀고 사망. 조카 엘런 슈트 부인(Lady Chute, 브랙넬)이 8일 뒤 언니의 남편 존 에릭슨(모니터호 설계자, 뉴욕)에게 쓴 가족 편지가 기록. 편지는 에릭슨 문서 → 전기 작가 W. C. 처치 → 1908 『오픈 코트』 편집자 → D. P. 애벗 → 하이슬롭 → **JASPR 1909년 7월호 422–423쪽**(archive.org, 퍼블릭 도메인, 전문·쪽 스캔 확인) → 바렛 1926 44–45쪽 재수록. **FreeBMD 대조**: 1883년 4분기 켄싱턴 Browning Louisa 78세 / 1867년 3분기 메릴본 Ericsson Amelia Jane 50세 — 편지·처치의 설명과 일치.
+  - 점수 S1 2·S2 0·S3 2·S4 1·S6 1·S7 2 = 6이지만 **S2=0(쓴 이는 현장에 없었고 지켜본 이들은 무명) → 상한 ③ → C**. 검증 주장 없음. 불리 가설 H5·H8. 반대 자료 탐색: 사건 특정 반박 없음(`counter: none`). 같은 클러스터에서 같은 질의 C 카드가 하나 더 나오면 METHOD §8 짝 규칙으로 EU-W S층 한 자리를 채운다.
+  - 엔티티 5건 신설 `P-Browning-Louisa`·`P-Chute-Ellen`·`P-Hyslop-JH`·`O-ASPR`·`M-dbv-visitor-known-dead`(DBV S층 모티프 원장), 기존 `P-Barrett-WF`·`M-dbv-visitor-unknown-dead`에 연결 추가. 출처 요약 `sources/jaspr-1909-browning.md`(archive.org `sim_` 정기간행물 접근법·FreeBMD 파싱법 포함). 자료: JASPR 422·423쪽 스캔(PD), 전달 경로 도해 en/ko(`tools/diagrams/DBV-GB-1883-browning.py`, 1240×600), 에릭슨 초상(LoC, PD, 참고용). 한국어 읽는 글 `ko/cases/DBV-GB-1883-browning-ko.md`.
+  - **METHOD §5 보충(2026-10-31, §10 기록)**: 독립성 다섯 경로는 **다른 클러스터의 기록**에 대해 판정한다. 같은 클러스터 안의 모티프 유통(기독교 임종 문헌, Cobbe 1882)은 E·H3로 채점하고, 기록자가 수집 주체이거나 모티프를 이미 출판한 사람이면 ⑤(와 ②)를 적용한다(카드 2의 I0는 그대로). 등급·상한·I 정의는 바꾸지 않았다. 이유: 문자 그대로 읽으면 서구 DBV는 전부 I1 이하가 되어 S층에 서구 클러스터가 영원히 못 들어가고, 수렴 검증이 엄격한 게 아니라 불가능해진다.
+  - 바렛 1926 3장에서 1882년 이전 날짜가 붙은 사례를 전부 열어 봤고(De Morgan 1863 pp. 184–185 archive.org 열람, Atlantic Monthly 1879-03 p. 289 열람) 둘 다 무명·연대 불명이라 D → 카드 대신 모티프 원장에 존재 단서로만 기록. 1883년 편지가 유일하게 당대 1차 문서였다.
+  - 미열람: 편지 원본(1909년 ASPR 이후 소재 불명), 『오픈 코트』 1908–09 게재 여부, 처치 『에릭슨 전기』(1890), 1883년 런던 부고(BNA 유료).
+- **GoatCounter(방문자 집계) 제안 2026-10-27 — 대표님 답 없음.** 아래 "대표님 손"에 둠. 그 전까지 방문자 수는 알 수 없다(저장소 조회는 14일 1회, 복제 53곳은 봇).
+- 로컬 미리보기: 스크래치패드의 Quartz 소스가 시스템 정리로 지워져 세션 7에 다시 받았다(`git clone --filter=blob:none` → `git checkout d25a6eab` → `npm ci`, 약 1분). 스크린샷은 Node 스크립트 대신 **헤드리스 Chrome 직접 호출**(`--headless=new --screenshot=<png> --window-size=1240,600 --user-data-dir=<scratch>`)이 간단하다.
+
+### 세션 6 요약 (2026-10-25)
 
 - **METHOD v0.2 확정(2026-10-25, 대표님 "METHOD v0.2 유지하세요, 다음 세션 진행하세요")**: METHOD §10에 기록. 카드 1은 V층 집계에 남는다(카드 1 §12의 되돌림 문장을 확정 문장으로 바꿈). 되돌림 조건은 해제.
 - **영어 주판 완료(2026-10-25)**: `docs/METHOD.md`·`CHARTER.md`·`entities/*`·`sources/*`·`assets/index.md`·폴더 `index.md` 본문을 전부 영어로 옮겼다. 한국어 원문은 git 이력(커밋 `42e7530` 이전)에 있다. README·`ko/index.md`·`docs/index.md`의 "translation in progress"/"(한국어)" 표기를 지웠다. 저장소에서 한국어는 `ko/`(읽는 글)와 이 파일뿐.
@@ -33,9 +44,9 @@
 
 ## 다음 세션에 할 일
 
-**먼저(카드 4 추천)**: DBV를 **SPR 바깥·다른 클러스터**로 채운다. 1순위 — Barrett 1926 3장(OCR 오프셋 38,885–112,510)에서 **1882년 이전**의 1차·2차 기록(당대 편지·일기·출판)이 붙은 사례를 추려 EU-W 1882년 이전 DBV 1건을 카드로(S층 I2 후보; Cobbe 1882 원문은 열려 있다). 2순위 — 비서구 클러스터 DBV: Osis & Haraldsson의 인도 조사는 1977 책이 대출 전용이라, 그들의 학술지 논문(JASPR 1977 등)이나 Haraldsson의 후속 논문이 무료로 열리는지 먼저 찾는다. 3순위 — `NDE-INTL-2014-aware`(V층 대조군; Resuscitation 2014 저자 사본 탐색).
+**먼저(카드 5 추천)**: **비서구 클러스터의 DBV**. 지금 네 카드가 전부 EU-W라 S층 수렴은 클러스터 하나도 못 채웠다. 1순위 — Osis & Haraldsson의 인도 조사(SA): 1977년 책은 대출 전용이지만 **JASPR 1977년 논문**은 archive.org `sim_journal-of-the-american-society-for-psychical-research_1977-*`로 열릴 가능성이 크다(1909년호와 같은 경로). 조사 방법(의사·간호사 설문)과 개별 사례의 기록 수준을 보고 카드 1건을 고른다. 2순위 — 고대·중세(ANC-EU): 그레고리우스 『대화』 4권(6세기, 영역 archive.org `cu31924029222076`)의 임종 환시 — 기준 연도 이전이라 ④ 자동 배제, 다른 클러스터 기록과의 경로만 보면 된다. 3순위 — EU-W의 두 번째 C 카드(짝 규칙으로 S층 한 자리): JASPR 1918 vol. XII의 Pratt·Bennett·Gittermann 사례(archive.org `sim_` 1918년호, 미열람) 중 당대 문서가 붙은 것.
 
-1. 카드 3 미열람 출처 탐색(위 '미열람' 목록). 특히 Sabom 1982 『Recollections of Death』(archive.org 대출 전용 여부 확인)와 Tart 2007.
+1. 카드 4 미열람 출처(위 '미열람' 목록) — 급하지 않음. 카드 3 미열람 출처 탐색(세션 6 '미열람' 목록). 특히 Sabom 1982 『Recollections of Death』(archive.org 대출 전용 여부 확인)와 Tart 2007.
 2. 카드 2 미해결(기회 되면): All Saints Haggerston 교구지 1924-02(런던 메트로폴리탄 아카이브 목록), 레이디 바렛 메모 원본(SPR 아카이브·케임브리지 대학도서관), BMJ 1945 부고(브라우저로).
 3. 카드 2의 후보 id(`DBV-US-1889-jennie-edith`, `T-Cobbe-1882-peak-in-darien`)는 일부러 위키링크로 안 적었다. 카드 4가 Cobbe를 쓰면 `T-Cobbe-1882-peak-in-darien` 엔티티를 만든다.
 4. SYNTHESIS v1은 10건 때. 그 전에 `docs/TIMELINE.md`가 중간 집계 역할.
@@ -56,6 +67,9 @@
 - **GRO 잉글랜드·웨일스 출생·혼인·사망 색인 = FreeBMD**(무료, 키 없음): `https://www.freebmd.org.uk/cgi/search.pl`에 multipart POST(`type`=Births/Marriages/Deaths, `surname`, `given`, `start`/`end` 연도, `countyid=all`, 숨은 필드 `db`·`v`, `js=`, `find.x/y`). 결과 html을 저장해 `sed 's/<[^>]*>/ /g'`로 읽는다. 이름·나이·등록구·분기·권/면만 나온다(1911년 이후 출생 색인은 모성 포함). 영국 사례의 인물 실재·사망 순서 확인에 가장 싼 1차 자료.
 - 봇 차단·키 필요(2026-10-22 확인): Papers Past(NZ)·Chronicling America/loc.gov·HathiTrust 403; PMC·Europe PMC PDF는 reCAPTCHA/403(서지는 eutils로); Trove(호주)는 API 키 필요(무료 가입). 브라우저 자동화로 열거나 대표님 손. Chronicling America는 1963년까지라 1991년 미국 신문은 어차피 없다.
 - **Delpher(KB) SRU**는 1977–79년 서평·광고 검색까지 됐다(카드 1 §11에 resolver 기록). archive.org **대출 전용(borrow-only)** 책은 본문을 읽을 수 없다(Osis & Haraldsson 1977 확인).
+- **archive.org `sim_` 정기간행물(JASPR 1907–1920, Open Court, Atlantic Monthly 등)은 전부 열린다(세션 7)**: `<id>_djvu.txt`(전문), `<id>_djvu.xml`(쪽별 OBJECT → 검색어가 든 leaf 번호), 쪽 이미지는 `https://<server>/BookReader/BookReaderImages.php?zip=<dir>/<id>_jp2.zip&file=<id>_jp2/<id>_NNNN.jp2&id=<id>&scale=2`(**`id=` 필수**, server·dir는 `/metadata/<id>`). `iiif.archive.org`는 404. 상세는 `sources/jaspr-1909-browning.md`.
+- **FreeBMD 결과는 HTML 표가 아니라 `searchData` JS 배열에 들어 있다**(세션 7): 행 `"색;성;이름;나이;?;등록구;권;면;id"`, 머리행 `" ;1;분기;연도"`, 빈 칸은 윗줄 반복. Python으로 파싱. start/end 연도는 무시되고 전 연도가 돌아오므로 머리행 연도로 거른다. 숨은 필드 `db`·`v`는 매번 폼 페이지에서 다시 읽는다.
+- **Wellcome 쪽별 OCR**: `https://iiif.wellcomecollection.org/annotations/v2/<bnumber>/<bnumber>_NNNN.jp2/line`(JSON) — 전문 오프셋을 인쇄 쪽수로 바꿀 때 쓴다(바렛 1926: 캔버스 라벨 = 인쇄 쪽, 이미지 번호 = 캔버스 색인 + 1).
 - Wikidata API로 인물 생몰년 확인(됨): W. F. Barrett Q369067, Florence Barrett Q5460561, Pam Reynolds Q2499174, Michael Sabom Q27899174, Robert Spetzler Q7344217.
 - archive.org advancedsearch API로 공공 도메인 스캔 검색(됨). 식별자: Phantasms vol.1 `phantasmsoflivin001gurn`, vol.2 `phantasmsoflivin02gurn`, Barrett 1926 `b29813992`, Osis 1961 `deathbedobservat0000unse`, SPR Proceedings 1894 `proceedingssoci03britgoog`, Gregory 『대화』 1911 영역 `cu31924029222076`.
 - JSE: journalofscientificexploration.org 무료. Sudduth 2021 = article 2361, Tucker 2022 = 2487, Sudduth 응답 = 2515, Matlock 2022 = 2529, 2023 = 2765.
@@ -64,7 +78,8 @@
 
 ## 대표님 손
 
-- ~~METHOD v0.2 유지 여부~~ → **2026-10-25 "유지하세요" 답 받음, 반영 완료.** 지금 남은 대표님 손은 **없음**(아래 Trove 키는 급하지 않은 선택 사항).
+- ~~METHOD v0.2 유지 여부~~ → **2026-10-25 "유지하세요" 답 받음, 반영 완료.**
+- **GoatCounter 가입(방문자 집계) — 2026-10-27 제안, 답 대기.** 무료(개인·소규모 사이트 명시), 쿠키·IP 저장 없음, Quartz 설정 한 줄로 붙는다. 가입 양식은 계정 이름·이메일·비밀번호·"9를 입력" 한 칸뿐(CAPTCHA 없음). 붙여넣을 값: 주소 `https://www.goatcounter.com/signup` / 계정 이름 `william-afterhours` / 사이트 `william-afterhours.github.io` / 이메일 `williamafterhours@proton.me` / 비밀번호는 대표님만 / 사람 확인 `9`. 가입 뒤 "되었다"만 알려주시면 William이 설정·배포하고, 통계 공개 보기를 켜 주시면 비밀번호 없이 읽어 세션마다 보고한다. 답이 없으면 그대로 둔다(연구에는 영향 없음).
 - **GitHub 계정 — 전부 완료(2026-10-22)**: 계정 `william-afterhours`. 기기 로그인 방식(William이 세션에서 `gh auth login -w`를 띄우고 대표님이 브라우저에서 코드 입력 — 터미널을 안 열어도 돼서 다음에도 쓴다). 비밀번호는 대표님만 안다. 세부는 저장소 밖 운영 메모에.
 - ~~공개 전환 확인~~ → **2026-10-23 승인·완료.** ~~giscus 앱 설치~~ → **2026-10-25 대표님이 설치, William이 연결 완료.**
 - **모아 두는 것(급하지 않음, 다음 가입 요청과 묶어서)**: Trove(호주 국립도서관) API 키 — 무료 가입, 이메일 인증. 용도: 1924~26년 영연방 신문의 "Lady Barrett" 임종 환시 전재 기사 탐색(카드 2 신문 미확인 해소). 이것 하나 때문에 대표님을 부르지는 않는다.
@@ -81,5 +96,6 @@
 - 세션 4 끝(2026-10-23, 공개 전환): 추정 입력 누적 약 10만, 출력 약 1만.
 - 세션 5(2026-10-25, giscus 연결): 짧은 세션, 추정 입력 누적 약 3만, 출력 약 5천.
 - 세션 6(2026-10-25, v0.2 확정·영어 주판 완료·카드 3·build_index): 컨텍스트 요약 2회 이상. 추정 입력 누적 약 40–50만(JNDS OCR 12편의 창 읽기, Delpher·archive.org 확인, 도해 렌더 3장, 스크린샷), 출력 약 7만(영어 번역 전체, 카드 3과 한국어 읽는 글, 엔티티 5건, 출처 요약, 도해 코드, build_index). 기록용.
+- 세션 7(2026-10-31, 카드 4): 컨텍스트 요약 1회. 추정 입력 누적 약 20–25만(바렛 3장 창 읽기, JASPR·De Morgan·Atlantic 전문 검색, 이미지 열람 6장), 출력 약 4만(카드·한국어 읽는 글·엔티티 5건·출처 요약·도해 코드). 기록용.
 - 비용 절감 메모: JNDS 색인(OAI)을 받아 두어 다음 NDE 카드는 검색 토큰이 거의 들지 않는다. 전문은 스크래치패드에만 두고 저장소에는 요약만(저작권).
 - 등급표의 잠정값: 매체 확산 기준 연도 중 NDE 1975는 확정(세션 6), CORT 1956 / CA·DBV 1900은 잠정. 수렴 판정 숫자(4클러스터·V2 3건)는 William의 판단이라 대표님이 조정 가능.

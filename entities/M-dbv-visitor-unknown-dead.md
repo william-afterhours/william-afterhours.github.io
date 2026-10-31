@@ -7,9 +7,9 @@ role: ""
 cluster: ""
 dates: ""
 aliases: ["Peak in Darien case", "visions of the dying of persons unknown to be dead", "core DBV-V motif"]
-links: [DBV-GB-1924-doris, P-Barrett-WF]
+links: [DBV-GB-1924-doris, P-Barrett-WF, M-dbv-visitor-known-dead, P-Hyslop-JH]
 status: draft
-updated: 2026-10-25
+updated: 2026-10-31
 ---
 
 # Motif: the visitor whose death was unknown
@@ -32,6 +32,8 @@ A dying person sees "visitors", and among them is someone **the patient did not 
 |---|---|---|---|---|
 | [[DBV-GB-1924-doris]] | R-MOT | undecided | confirmed | First entry |
 | [[P-Barrett-WF]] | R-MOT | transmission (term and collection) | confirmed | The whole of chapter II collects this motif |
+| [[M-dbv-visitor-known-dead]] | R-MOT | neutral | confirmed | Sibling motif without the V element: the S-layer ledger of DBV (first entry [[DBV-GB-1883-browning]], 2026-10-31) |
+| [[P-Hyslop-JH]] | R-MOT | neutral | confirmed | Jennie & Edith 1889 reached Barrett through Hyslop |
 
 ## 4. Sources
 
