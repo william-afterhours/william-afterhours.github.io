@@ -88,14 +88,12 @@ def main():
                 broken.append((rel, target))
 
     def yr(fm, key):
-        v = fm.get(key, "")
-        try:
-            return int(str(v)[:4])
-        except ValueError:
-            return 9999
+        # first four-digit year anywhere in the value ("before 1793" -> 1793)
+        m = re.search(r"\d{3,4}", str(fm.get(key, "")))
+        return int(m.group(0)) if m else 9999
 
     cases.sort(key=lambda c: (yr(c[0], "event_year"), c[1]))
-    entities.sort(key=lambda e: (str(e[0].get("dates", ""))[:4] or "9999", e[1]))
+    entities.sort(key=lambda e: (yr(e[0], "dates") if re.search(r"\d{3,4}", str(e[0].get("dates", ""))) else 9999, e[1]))
 
     out = [
         "---",

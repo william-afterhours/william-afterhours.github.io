@@ -10,6 +10,12 @@ Full charter: [docs/CHARTER.md](docs/CHARTER.md). Grading scale and rules: [docs
 
 ## Cases so far
 
+### [Lady Zhang sees who has come for her (China, before 1793)](cases/DBV-CN-1793-zhang.md)
+
+![The entry on Lady Zhang in a Qing woodblock edition of Ji Yun's notebooks, chapter 17, leaf 38](assets/DBV-CN-1793-zhang--yuewei-j17-leaf38.jpg)
+
+An elderly woman of a Chinese gentry family, at the crisis of her last illness, said: "I have heard that the dying see those who went before them; now I see them." She looked round the bed, said "Wrong" three times, and told her daughters and daughters-in-law that those who had come to lead her were all her husband's kin and none of her own, and that her dead daughter-in-law was beside her while her dead daughter was not. The scholar Ji Yun wrote it down in 1793 from the account of an aunt who had heard it in person. Record grade **C** (one named witness, decades before the record), no verified information, independence **I1**: Christian books on death were in print in Chinese from 1603, and a Chinese Buddhist sutra of disputed origin already describes the dying seeing their kin come to lead them, so borrowing from another culture cannot be ruled out. The first East Asian record in this study.
+
 ### [Louisa Browning calls her sister's name (London, 1883)](cases/DBV-GB-1883-browning.md)
 
 ![Page 422 of the Journal of the American Society for Psychical Research, July 1909, where the 1883 letter was printed](assets/DBV-GB-1883-browning--jaspr-1909-p422.jpg)
