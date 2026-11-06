@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Diagram: DBV-CN-1793-zhang — the record's path, and the two transmission routes that stay open.
-도해: 기록이 남은 길, 그리고 열려 있는 두 전파 경로.
+"""Diagram: DBV-CN-1793-zhang — the record's path, the transmission route that stays open (②) and the one ruled out (③, 2026-11-06).
+도해: 기록이 남은 길, 열려 있는 전파 경로(②)와 배제된 경로(③, 2026-11-06).
 
 Only facts from §3, §4 and §11 of the card are drawn. This is not a record.
 카드 3·4·11절의 사실만 그림으로 옮긴다. 기록이 아니다.
@@ -22,8 +22,8 @@ BG, INK, MUTE, LINE, ACC, ACC_BG, SOFT, SOFT2 = "#faf8f8", "#2b2b2b", "#6b6b6b",
 
 T_EN = dict(
     font="'Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif",
-    title="Lady Zhang, China, before 1793 — how the record reached paper, and the two routes of borrowing that stay open",
-    sub="Facts from §3, §4 and §11 of card DBV-CN-1793-zhang (Ji Yun, Guwang tingzhi, preface dated 1793; Siku catalogue ch. 125; Taishō no. 412). This is a diagram by William, not a record.",
+    title="Lady Zhang, China, before 1793 — how the record reached paper, the route of borrowing that stays open, and the one ruled out",
+    sub="Facts from §3, §4 and §11 of card DBV-CN-1793-zhang (Ji Yun, Guwang tingzhi, preface 1793; Siku catalogue ch. 125; Taishō nos. 412, 2154, 2157, 721, 360). A diagram by William, not a record.",
     rows=[
         ("RECORD", ACC_BG, [
             ("Before 1793 · undated", ["At the crisis of her illness", "Lady Zhang says she sees", "'those who went before', and", "that her guides are her", "husband's kin"]),
@@ -40,17 +40,17 @@ T_EN = dict(
         ("ROUTE ③", SOFT2, [
             ("Attributed 7th century", ["Sutra of the Fundamental Vows", "of Ksitigarbha (Taishō 412),", "said to be translated by", "Śikṣānanda of Khotan"]),
             ("Its deathbed passage", ["Even good people, at death,", "see ghosts 'changed into", "parents and other kin' who", "come to lead them away"]),
-            ("Origin disputed", ["No Sanskrit original found;", "some scholars think it was", "composed in China (lead only:", "Buswell 1990, not opened)"]),
-            ("In the record itself", ["'I have heard that the dying", "see those who went before' —", "the idea was already a saying", "in her household → unknown"]),
+            ("730 and 800", ["The Tang catalogues list 19", "works by Śikṣānanda; this", "sutra is not among them. CBETA", "collates only Ming canons (1372–)"]),
+            ("Indian scriptures", ["Deathbed visions there are", "Amitābha's welcome or signs", "of the next birth, not dead", "kin → route ③ ruled out"]),
         ]),
     ],
-    foot="Grades: S1 1 (a collector who heard the witness in person) · S2 1 (one named witness, present) · S3 0 (decades; undated) · S4 0 · S6 1 (collector with a family interest, no checking) · S7 2 (Qing woodblock edition, scan opened) → 3/10 → R C · no verified information (V—) · independence I1 (routes ② and ③ unknown; ① ④ ⑤ ruled out)",
+    foot="Grades: S1 1 (a collector who heard the witness in person) · S2 1 (one named witness, present) · S3 0 (decades; undated) · S4 0 · S6 1 (collector with a family interest, no checking) · S7 2 (Qing woodblock edition, scan opened) → 3/10 → R C · no verified information (V—) · independence I1 (route ② unknown; ① ③ ④ ⑤ ruled out)",
 )
 
 T_KO = dict(
     font="'Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic','Helvetica Neue',Arial,sans-serif",
-    title="장 부인, 중국, 1793년 이전 — 기록이 종이에 이르는 길, 그리고 열려 있는 두 차용 경로",
-    sub="카드 DBV-CN-1793-zhang 3·4·11절의 사실(지윤 『고망청지』 1793년 서문, 『사고전서총목』 125권, 대정장 412번). 윌리엄이 그린 도해이며 기록이 아니다.",
+    title="장 부인, 중국, 1793년 이전 — 기록이 종이에 이르는 길, 열려 있는 차용 경로 하나와 배제된 하나",
+    sub="카드 DBV-CN-1793-zhang 3·4·11절의 사실(지윤 『고망청지』 1793년 서문, 『사고전서총목』 125권, 대정장 412·2154·2157·721·360번). 윌리엄의 도해이며 기록이 아니다.",
     rows=[
         ("기록", ACC_BG, [
             ("1793년 이전 · 날짜 없음", ["병이 위중해지자 장 부인이", "'먼저 간 이들이 보인다'고", "말하고, 이끌러 온 이들이", "모두 시댁 사람이라고 함"]),
@@ -67,11 +67,11 @@ T_KO = dict(
         ("경로 ③", SOFT2, [
             ("7세기로 전해짐", ["『지장보살본원경』(대정장 412),", "우전국 승려 실차난타가", "번역했다고 전함"]),
             ("그 경의 임종 대목", ["착한 사람도 죽을 때 귀신들이", "'부모와 친척으로 변해'", "와서 이끌어 간다"]),
-            ("기원 논쟁", ["산스크리트 원본 없음.", "중국 찬술설 있음(단서만:", "버스웰 1990, 미열람)"]),
-            ("기록 안에서", ["'죽어 가는 사람은 먼저 간", "이들을 본다더니' — 이미", "집안에 돌던 말", "→ 알 수 없음"]),
+            ("730년·800년", ["당나라 경전 목록 두 권이", "실차난타의 번역 19부를 적는데", "이 경은 없다. CBETA 대조본은", "명나라 대장경뿐(1372년~)"]),
+            ("인도 경전", ["임종 환시는 아미타불의 마중", "또는 다음 생의 징조이고", "죽은 가족이 아니다", "→ 경로 ③ 배제"]),
         ]),
     ],
-    foot="등급: S1 1(증인에게 직접 들은 수집가) · S2 1(이름 있는 증인 한 명, 현장에 있었음) · S3 0(수십 년, 날짜 없음) · S4 0 · S6 1(집안 사람인 수집가, 검증 없음) · S7 2(청대 목판본 스캔 열람) → 3/10 → R C · 검증 정보 없음(V—) · 독립성 I1(경로 ②·③ 알 수 없음, ①④⑤ 배제)",
+    foot="등급: S1 1(증인에게 직접 들은 수집가) · S2 1(이름 있는 증인 한 명, 현장에 있었음) · S3 0(수십 년, 날짜 없음) · S4 0 · S6 1(집안 사람인 수집가, 검증 없음) · S7 2(청대 목판본 스캔 열람) → 3/10 → R C · 검증 정보 없음(V—) · 독립성 I1(경로 ② 알 수 없음, ①③④⑤ 배제)",
 )
 
 T = T_EN if LANG == "en" else T_KO

@@ -1,6 +1,6 @@
 ---
 title: Timeline
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # Timeline (generated)
@@ -46,7 +46,7 @@ Columns: event year → year of the first record · card · phenomenon code and 
 
 ## Link check
 
-- 296 wikilinks in 47 files checked on 2026-11-02.
+- 298 wikilinks in 48 files checked on 2026-11-06.
 - 4 link(s) point to pages that do not exist yet (planned cards count as leads, not records):
   - `cases/NDE-NL-1979-dentures.md` → `NDE-INTL-2014-aware`
   - `entities/M-obe-veridical-resuscitation.md` → `NDE-INTL-2014-aware`

@@ -18,7 +18,7 @@ links: [P-Ji-Yun, T-Dizang-sutra, M-dbv-visitor-known-dead, M-dbv-visitor-unknow
 counter: none
 countable: no
 status: reviewed
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # Lady Zhang sees who has come for her — a dying woman in Qing China says she sees "those who went before", and is dismayed that her guides are her husband's kin (China, before 1793)
@@ -52,7 +52,7 @@ There is no claim of verified information. Everyone who appeared to her was know
 
 Two features make the entry more than a moral anecdote. First, the dying woman herself names the belief: "I have heard that the dying see those who went before them." The idea of the deathbed vision was already common knowledge in her household. Second, what she saw went against what she said she expected. She had expected her own kin and her own daughter. She saw her husband's kin and her daughter-in-law. She drew the rule from it herself: "those of one line belong together". That is the patrilineal order of her society, so the vision did not escape cultural expectation. But it was not her personal wish either.
 
-As to independence, the question is whether this structure could have been borrowed from another culture. Two routes stay open. Christian books on death and the soul had been printed in Chinese since 1603, and Ji Yun's own editorial office reviewed them for the imperial library catalogue in the 1770s and 1780s. And the Chinese Buddhist canon contains a sutra in which the dying see demons "changed into parents and other kin" who come to lead them away. That sutra is presented as a translation from an Indian language, and whether it really is one is disputed. Neither route is shown to have reached this household, and neither is ruled out. The record is therefore graded **I1**: not counted, but kept as the first East Asian entry and as a guide to where an independent record would have to be looked for.
+As to independence, the question is whether this structure could have been borrowed from another culture. One route stays open. Christian books on death and the soul had been printed in Chinese since 1603, and Ji Yun's own editorial office reviewed them for the imperial library catalogue in the 1770s and 1780s. Nothing shows that they reached this household, and nothing rules it out. A second route was open when the card was first published and has since been closed. The Chinese Buddhist canon contains a sutra in which the dying see demons "changed into parents and other kin" who come to lead them away, and it is presented as a translation from an Indian language. But the Tang catalogues of 730 and 800, which list every work of its supposed translator, do not contain it, and where the Indian scriptures in the canon describe deathbed visions, as far as a search could find, they are of other kinds (the Buddha Amitābha coming to welcome the dying, or signs of the next birth), not dead kin. The idea of dead kin coming for the dying is therefore East Asia's own, not an import from South Asia (§11, checked 2026-11-06). Because the Christian route stays open, the record is still graded **I1**: not counted, but kept as the first East Asian entry and as a guide to where an independent record would have to be looked for.
 
 ## Other ways to explain it
 
@@ -64,8 +64,8 @@ As to independence, the question is whether this structure could have been borro
 
 The record is compatible with survival of consciousness and with every ordinary explanation. Its value is as an East Asian record of the structure, made a century before the baseline year of this study, with a named witness and a dying woman who named the belief herself.
 
-![Diagram of the record's path and of the two routes of possible borrowing, 1603 to 1800](../assets/DBV-CN-1793-zhang--routes.svg)
-*How the record reached paper, and the two routes that keep its independence at I1, drawn from §3, §4 and §11 of this card. A diagram by William, **it is not a record** · generating code `tools/diagrams/DBV-CN-1793-zhang.py`*
+![Diagram of the record's path, the route of possible borrowing that stays open and the one ruled out, 1603 to 1800](../assets/DBV-CN-1793-zhang--routes.svg)
+*How the record reached paper, the route that keeps its independence at I1 (②) and the route ruled out on 2026-11-06 (③), drawn from §3, §4 and §11 of this card. A diagram by William, **it is not a record** · generating code `tools/diagrams/DBV-CN-1793-zhang.py`*
 
 ---
 
@@ -101,6 +101,8 @@ Christian books in Chinese reviewed by the Siku catalogue (route ②): Matteo Ri
 
 The Buddhist passage (route ③): in the *Sutra of the Fundamental Vows of Ksitigarbha* (地藏菩薩本願經, Taishō no. 412, "translated by Śikṣānanda of the Tang"): "是閻浮提行善之人，臨命終時，亦有百千惡道鬼神，或變作父母，乃至諸眷屬，引接亡人，令落惡道" ("even people of this world who do good, when their life is ending, have hundreds and thousands of ghosts and spirits of the evil paths who change into their parents and other kin, lead the dying person away, and make him fall into the evil paths") [#5]. "No Sanskrit manuscripts of this text have been found", and "some scholars suspected that instead of being translated, this text may have originated in China" [#6, citing Buswell 1990, not opened].
 
+Checks of the attribution and of Indian doctrine (route ③, 2026-11-06). The two Tang catalogues of the Buddhist canon, the *Kaiyuan shijiao lu* (開元釋教錄, 730) and the *Zhenyuan xinding shijiao mulu* (貞元新定釋教目錄, 800), each list Śikṣānanda (實叉難陀) with "一十九部一百七卷" (nineteen works in 107 fascicles); the title 地藏菩薩本願 does not occur anywhere in either catalogue [#12, #13]. The CBETA edition of no. 412 collates its text only against Ming canons (洪武南藏 of 1372, 永樂南藏, 北藏, 嘉興藏) [#5]. In the translated scriptures of Taishō vols. 1–21, phrase searches for dead kin at a deathbed (見亡父, 見亡母, 見亡妻, 見先亡, 父母來迎, 眷屬來迎, 親屬來迎, 引接亡人 and others) find the kin-shaped visitors only in no. 412 [#14]. Indian doctrine on what the dying see is of other kinds: the *Saddharmasmṛtyupasthāna* (正法念處經, translated 539) lists the visions that announce the next birth (coloured light, a mountain, one's future parents) and notes that "親族兄弟說言病人兩手攬空" ("the kin say the sick man is grasping at the air with both hands") [#15]; the *Larger Sukhāvatīvyūha* (無量壽經) promises that at death Amitābha will appear "與大眾圍遶現其人前" ("surrounded by a great assembly, before the person") [#16].
+
 ## 4. Sources
 
 | # | Type (primary/secondary/tertiary) | Reference | Opened | Link | Notes |
@@ -110,12 +112,17 @@ The Buddhist passage (route ③): in the *Sutra of the Fundamental Vows of Ksiti
 | 3 | primary (author's preface) | Ji Yun, preface to 《姑妄聽之》, dated 乾隆癸丑七月二十五日 | **Confirmed** (page scans, images 2–3, 2026-11-02) | https://archive.org/details/02099123.cn | Date of the record; the author's own account of his sources and purpose |
 | 4 | primary (official catalogue), as transcribed | 《四庫全書總目提要》 卷一百二十五, 子部 雜家類存目: entries 天主實義, 畸人十篇, 七克, 靈言蠡勺, 西學凡 | Confirmed (Wikisource transcription, 2026-11-02); no scan opened | https://zh.wikisource.org/wiki/四庫全書總目提要/卷125 | Route ② only. Ji Yun's role: his own preface (#3) |
 | 5 | primary (canonical text) | 地藏菩薩本願經, Taishō no. 412, CBETA electronic edition (T13n0412) | Confirmed (CBETA XML, 2026-11-02) | https://github.com/cbeta-org/xml-p5/blob/master/T/T13/T13n0412.xml | The deathbed passage is in the chapter 閻羅王眾讚歎品 |
-| 6 | tertiary (lead) | Wikipedia, "Kṣitigarbha Sūtra" (citing Buswell RE, *Chinese Buddhist Apocrypha*, 1990, p. 178; Schopen G, *T'oung Pao* 70, 1984) | Confirmed read (2026-11-02); Buswell and Schopen **unverified** (not opened) | https://en.wikipedia.org/wiki/Kṣitigarbha_Sūtra | Used only to mark route ③ "unknown" |
+| 6 | tertiary (lead) | Wikipedia, "Kṣitigarbha Sūtra" (citing Buswell RE, *Chinese Buddhist Apocrypha*, 1990, p. 178; Schopen G, *T'oung Pao* 70, 1984) | Confirmed read (2026-11-02); Buswell and Schopen **unverified** (not opened) | https://en.wikipedia.org/wiki/Kṣitigarbha_Sūtra | Lead only. Route ③ is now judged from #12–#16 |
 | 7 | tertiary (dates) | Wikidata Q711989, Ji Yun: born 1724-07-26, died 1805-03-14 | Confirmed (API) | https://www.wikidata.org/wiki/Q711989 | |
 | 8 | tertiary (lead) | Wikipedia, "Siku Quanshu" (commissioned 1772, completed 1782); "Notes of the Thatched Abode of Close Observations" (about 1,200 entries, mostly from friends and colleagues); search summary: five collections 1789–1798, printed together 1800 | Confirmed read (2026-11-02); underlying sources not opened | https://en.wikipedia.org/wiki/Siku_Quanshu | Background dates only |
 | 9 | secondary (same collection) | 《閱微草堂筆記》 卷四 (陳執禮's servant), 卷九 (a secretary sees two ghosts), 卷十三 (the servant 宋遇 sees his two dead wives and dies) | Confirmed (Wikisource transcription) | https://zh.wikisource.org/wiki/閱微草堂筆記 | Not carded; §12 |
 | 10 | secondary | Chen Qiyuan 陳其元, 《庸閒齋筆記》, entries on 錢慎庵 (died 1871) and on a secretary summoned by the dead governor 吳少村 | Confirmed (Wikisource transcription of 《庸閑齋筆記》, 2026-11-02); no scan | https://zh.wikisource.org/wiki/庸閑齋筆記 | Not carded; motif ledger only |
 | 11 | secondary | Osis K, Haraldsson E. "Deathbed observations by physicians and nurses: a cross-cultural survey". *JASPR* 1977;71:237–259; and *At the Hour of Death*, 1977 | **Unverified** (not openable: archive.org holds only contents and index volumes of JASPR for 1970–1990; the book is borrow-only; Haraldsson's archived bibliography lists no full text) | https://web.archive.org/web/2021/https://notendur.hi.is/erlendur/english/svid.htm | Why this was not card 5 (§12) |
+| 12 | primary (canon catalogue) | 智昇 Zhisheng, 《開元釋教錄》, 730, Taishō no. 2154, ch. 8 (Śikṣānanda: 19 works, 107 fascicles) | **Confirmed** (CBETA XML, full-text search, 2026-11-06) | https://github.com/cbeta-org/xml-p5/blob/master/T/T55/T55n2154.xml | The title 地藏菩薩本願 is absent from the whole catalogue |
+| 13 | primary (canon catalogue) | 圓照 Yuanzhao, 《貞元新定釋教目錄》, 800, Taishō no. 2157 | **Confirmed** (CBETA XML, 2026-11-06) | https://github.com/cbeta-org/xml-p5/blob/master/T/T55/T55n2157.xml | Same result |
+| 14 | tertiary (search tool) | CBETA full-text search API, phrase queries, results limited to Taishō vols. 1–21 | Confirmed (2026-11-06) | https://cbdata.dila.edu.tw/stable/search?q=引接亡人 | Phrase search only; not proof of absence beyond the phrases tried. Queries listed in `sources/ea-route3-2026-11.md` |
+| 15 | primary (canonical text, translation of 539) | 《正法念處經》 卷三十四, Taishō 17 no. 721, p. 198a19 and p. 200c19 | **Confirmed** (CBETA XML, 2026-11-06) | https://github.com/cbeta-org/xml-p5/blob/master/T/T17/T17n0721.xml | Deathbed signs of the next birth; the reaching gesture seen by kin |
+| 16 | primary (canonical text) | 《佛說無量壽經》, Taishō 12 no. 360, p. 268b01 (the nineteenth vow) | **Confirmed** (CBETA XML, 2026-11-06) | https://github.com/cbeta-org/xml-p5/blob/master/T/T12/T12n0360.xml | Amitābha's welcome at death. Its Indian origin is the general view; the Sanskrit text was not opened |
 
 ## 5. Scores and grades
 
@@ -154,7 +161,7 @@ None. Every visitor named (her husband's kin, her dead daughter-in-law) was know
 |---|---|---|
 | H1 Survival after death | compatible | No verified information; nothing separates it from H4 |
 | H2 Psi without survival | compatible | Nothing to explain by psi |
-| H3 Cultural transmission | compatible | She knew the belief; routes ② and ③ to other clusters are open (§11) |
+| H3 Cultural transmission | compatible | She knew the belief. Within the cluster it was common lore; from other clusters route ② is open and route ③ is ruled out (§11) |
 | H4 Neurophysiology, psychology | compatible | Terminal crisis; bystanders suspected delirium. That the content went against her stated wish does not tell against H4: unexpected content is common in hallucinations, and the content agrees with her society's norms |
 | H5 Memory distortion, embellishment | compatible | Decades between event and record |
 | H6 Fraud | compatible | No motive, but no cross-checking |
@@ -176,7 +183,7 @@ Search: 2026-11-02 / Wikisource full text of 《閱微草堂筆記》 (24 chapte
 | Target `[[id]]` | Relation (R-*) | Verdict | Grade | Reason |
 |---|---|---|---|---|
 | [[P-Ji-Yun]] | R-INV | neutral | confirmed | The recorder; great-nephew of the experiencer, nephew of the witness (#1) |
-| [[T-Dizang-sutra]] | R-TXT | undecided | inferred | The canonical Chinese statement that the dying see parents and kin coming to lead them (#5). No evidence that this household read or heard it; it shows the idea was in the cluster's religious literature, of disputed origin (#6) |
+| [[T-Dizang-sutra]] | R-TXT | neutral | inferred | The canonical Chinese statement that the dying see parents and kin coming to lead them (#5). No evidence that this household read or heard it; it shows the idea was in the cluster's religious literature. Not attested in the Tang catalogues of its supposed translator (#12, #13), so on present evidence composed in China: the cluster's own doctrine |
 | [[M-dbv-visitor-known-dead]] | R-MOT | undecided | confirmed | First East Asian entry of the S-layer motif ledger. Undecided because independence is I1 |
 | [[M-dbv-visitor-unknown-dead]] | R-MOT | neutral | confirmed | Sibling motif (V element). Not present: all visitors were known to be dead |
 | [[DBV-GB-1883-browning]] | R-MOT | recurrence | inferred | The same structure ninety years later in London, with no contact between the two households. This entry was not translated into English before 1883 as far as is known, so card 4's route ② is unaffected |
@@ -191,11 +198,11 @@ Cluster: EA (Qing China) / record year 1793 vs baseline year 1900 (CA·DBV, prov
 |---|---|---|
 | ① Direct contact | ruled out | A Chinese gentry household of the recorder's kin (#1); no connection to any record of another cluster in this study |
 | ② Translation, publication | **unknown** | Christian books on the soul and on death were in print in Chinese from 1603–1608, and the Siku catalogue that Ji Yun's office compiled (1772–1782) reviewed them (#4, #3, #8). Whether any Chinese Christian text recorded the dying seeing visitors, and whether any reached this household, was not checked |
-| ③ Missionary, religious transmission | **unknown** | The idea that the dying see parents and kin coming to lead them stands in a Chinese Buddhist sutra presented as a translation from an Indian language (#5). If it was translated, the idea entered East Asia from South Asia through doctrine; if it was composed in China, it is the cluster's own tradition and belongs under §7 E. The question is open (#6, lead only) |
+| ③ Missionary, religious transmission | ruled out (2026-11-06; was "unknown") | Judged on the element the record is counted for, the dead-kin visitor (METHOD §5, clarification of 2026-11-06). The only canonical text with kin-shaped visitors at the deathbed (#5) is absent from both Tang catalogues that list all nineteen works of its supposed translator (#12, #13) and is collated only against Ming canons (#5), so on present evidence it is a Chinese composition: the cluster's own tradition, scored under §7 E. Indian doctrine in translation describes other deathbed visions, signs of the next birth (#15) and Amitābha's welcome (#16), and phrase searches of the translated scriptures found no dead-kin visitors (#14). Reopens if an Indic or Central Asian source, or a pre-Ming witness showing translation, is found |
 | ④ Mass media | ruled out | Record year 1793 is before the baseline year 1900: automatically ruled out |
 | ⑤ Same investigating body | ruled out | No investigating body; no other card from this recorder |
 
-→ Independence grade: **I1**. Not counted in the S layer; a reason for "undecided" only. What would make it I2: showing that no Christian text in Chinese before 1793 recorded the structure (or that none could have reached the household), and showing that the Ksitigarbha sutra was composed in China. The second question applies to every East Asian dead-relative record that could have drawn on that sutra.
+→ Independence grade: **I1** (unchanged). Not counted in the S layer; a reason for "undecided" only. What would make it I2: showing that no Christian text in Chinese before 1793 recorded the structure, or that none could have reached the household. The route ③ result applies to every East Asian dead-kin record; route ② does not arise for Chinese records made before Christian books in Chinese existed (the first Catholic catechism in Chinese is usually dated 1584; not yet checked) or for records made where they were not accessible.
 
 ## 12. Notes
 
@@ -206,7 +213,7 @@ Cluster: EA (Qing China) / record year 1793 vs baseline year 1900 (CA·DBV, prov
 - **The pattern of visitors.** The dying woman saw her husband's kin and her husband's family's daughter-in-law, not her natal kin or her own daughter, and read it as a rule ("those of one line belong together"). The record itself sets husband's kin (夫族) against mother's kin (母族); that a married woman's ancestral rites belonged to her husband's line is general background, not sourced in this card. The visitors follow the social order of her afterlife as she understood it, not her preferences. This is a datum for the synthesis on how cultures shape the identity of the visitor while the structure stays the same. It is not evidence for or against survival.
 - **Other Chinese records found and not carded.** In the same collection (#9): the servant Song Yu, at his crisis, says he dimly sees his two dead wives, whom he had wronged, and dies; the servant of Chen Zhili, in Ürümqi, says a woman (the ghost of a hanged woman) has invited him to be her husband, and dies. Both are anonymous or unwitnessed → D, existence evidence; and as entries by the same recorder they would be I0 by route ⑤. In Chen Qiyuan's notebook (#10): Qian Shen'an (錢德承), a prefect who died in Shanyin in the sixth month of 1871, said that four officials had come to escort him to a post as a god, fixed the day and hour of his death and died at it, as reported by the author's son, who came to the funeral; family hearsay with a reputational motive (the story makes him a city god) → D. Recorded in [[M-dbv-visitor-known-dead]].
 - **Why not Osis and Haraldsson's Indian survey (the first choice in the plan).** Neither the 1977 paper nor the book could be opened for free (#11). Even if it could, the Indian cases were collected by the same investigators as their American cases, and Osis had published the motif in 1961, so they would be I0 by route ⑤ and by the precedent of card DBV-GB-1924-doris.
-- **Where an East Asian I2 record could come from.** A record made where Christian books were not accessible, for example in Japan after Christian books were banned in the seventeenth century (date and scope of the ban to be verified), with a visitor that does not depend on the Ksitigarbha sutra, or after its origin is settled. Japan's National Diet Library full-text search of Meiji reprints of Edo-period essays was opened and works with phrase queries (`sources/ji-yun-1793-yuewei.md`).
+- **Where an East Asian I2 record could come from.** Route ③ is settled for dead-kin visitors (§11). What remains is route ②: a Chinese record made before Christian books existed in Chinese, a Japanese record made before 1549 or after the seventeenth-century ban (date and scope to be verified), or a Korean record made before such books reached Korea. The search of 2026-11-06 (`sources/ea-route3-2026-11.md`) found that in Chinese and Japanese Buddhist deathbed records the one who comes is usually Amitābha with his host or an officer of the underworld; dead kin are rare. One Japanese case was found and not carded: a boy of nine who died in 1660 said he had met his dead father on a bridge in the Pure Land before Amitābha came for him (了智, 《緇白往生傳》, compiled after 1687), without a named witness → D, existence evidence.
 
 ## 13. Materials
 
@@ -214,7 +221,7 @@ Cluster: EA (Qing China) / record year 1793 vs baseline year 1900 (CA·DBV, prov
 |---|---|---|---|
 | `DBV-CN-1793-zhang--yuewei-j17-leaf38.jpg` | ① record copy | 《閱微草堂筆記》 ch. 17, leaf 38: the whole entry | archive.org `02099125.cn`, image 76 (Peking University Library via CADAL), reduced to 1600 px · public domain work |
 | `DBV-CN-1793-zhang--guwang-preface-1793.jpg` | ① record copy | End of the preface of 《姑妄聽之》 with the date 乾隆癸丑七月二十五日 | archive.org `02099123.cn`, image 3 · public domain work |
-| `DBV-CN-1793-zhang--routes.svg` · `--routes-ko.svg` | ④ diagram | The record's path and the two open routes (②, ③), 1603–1800, with the grades. Not a record | William · code `tools/diagrams/DBV-CN-1793-zhang.py` |
+| `DBV-CN-1793-zhang--routes.svg` · `--routes-ko.svg` | ④ diagram | The record's path, route ② (open) and route ③ (ruled out 2026-11-06), 1603–1800, with the grades. Not a record. Redrawn 2026-11-06 | William · code `tools/diagrams/DBV-CN-1793-zhang.py` |
 | `DBV-CN-1793-zhang--ji-yun-portrait.jpg` | ③ person (reference) | Portrait identified on Commons as Ji Yun, eighteenth century, painter unknown. The recorder; not a witness | Wikimedia Commons `File:Ji Yun.jpg` · public domain |
 
 - Not included: no portrait or record of Lady Zhang or of the witness exists in the sources opened. The Wikisource transcription is linked, not copied.

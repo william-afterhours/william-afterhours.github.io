@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1240" height="600" viewBox="0 0 1240 600" font-family="'Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif">
 <rect width="1240" height="600" fill="#faf8f8"/>
-<text x="40" y="38" font-size="19" font-weight="700" fill="#2b2b2b">Lady Zhang, China, before 1793 — how the record reached paper, and the two routes of borrowing that stay open</text>
-<text x="40" y="60" font-size="11.5" fill="#6b6b6b">Facts from §3, §4 and §11 of card DBV-CN-1793-zhang (Ji Yun, Guwang tingzhi, preface dated 1793; Siku catalogue ch. 125; Taishō no. 412). This is a</text>
-<text x="40" y="75" font-size="11.5" fill="#6b6b6b">diagram by William, not a record.</text>
+<text x="40" y="38" font-size="19" font-weight="700" fill="#2b2b2b">Lady Zhang, China, before 1793 — how the record reached paper, the route of borrowing that stays open, and the one ruled out</text>
+<text x="40" y="60" font-size="11.5" fill="#6b6b6b">Facts from §3, §4 and §11 of card DBV-CN-1793-zhang (Ji Yun, Guwang tingzhi, preface 1793; Siku catalogue ch. 125; Taishō nos. 412, 2154, 2157, 721,</text>
+<text x="40" y="75" font-size="11.5" fill="#6b6b6b">360). A diagram by William, not a record.</text>
 <rect x="40" y="102" width="76" height="118" rx="4" fill="#284b63"/>
 <text x="78.0" y="166.0" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">RECORD</text>
 <rect x="126" y="102" width="258" height="118" rx="6" fill="#fbf1ea" stroke="#284b63" stroke-width="1"/>
@@ -87,21 +87,21 @@
 <path d="M658,429.0 L667,429.0" stroke="#284b63" stroke-width="1.5"/>
 <path d="M663,425.0 L668,429.0 L663,433.0" fill="none" stroke="#284b63" stroke-width="1.5"/>
 <rect x="670" y="370" width="258" height="118" rx="6" fill="#e4ebe4" stroke="#284b63" stroke-width="1"/>
-<text x="680" y="390" font-size="12.5" font-weight="700" fill="#b5541c">Origin disputed</text>
-<text x="680" y="408" font-size="12" fill="#2b2b2b">No Sanskrit original found;</text>
-<text x="680" y="424" font-size="12" fill="#2b2b2b">some scholars think it was</text>
-<text x="680" y="440" font-size="12" fill="#2b2b2b">composed in China (lead only:</text>
-<text x="680" y="456" font-size="12" fill="#2b2b2b">Buswell 1990, not opened)</text>
+<text x="680" y="390" font-size="12.5" font-weight="700" fill="#b5541c">730 and 800</text>
+<text x="680" y="408" font-size="12" fill="#2b2b2b">The Tang catalogues list 19</text>
+<text x="680" y="424" font-size="12" fill="#2b2b2b">works by Śikṣānanda; this</text>
+<text x="680" y="440" font-size="12" fill="#2b2b2b">sutra is not among them. CBETA</text>
+<text x="680" y="456" font-size="12" fill="#2b2b2b">collates only Ming canons (1372–)</text>
 <path d="M930,429.0 L939,429.0" stroke="#284b63" stroke-width="1.5"/>
 <path d="M935,425.0 L940,429.0 L935,433.0" fill="none" stroke="#284b63" stroke-width="1.5"/>
 <rect x="942" y="370" width="258" height="118" rx="6" fill="#e4ebe4" stroke="#284b63" stroke-width="1"/>
-<text x="952" y="390" font-size="12.5" font-weight="700" fill="#b5541c">In the record itself</text>
-<text x="952" y="408" font-size="12" fill="#2b2b2b">'I have heard that the dying</text>
-<text x="952" y="424" font-size="12" fill="#2b2b2b">see those who went before' —</text>
-<text x="952" y="440" font-size="12" fill="#2b2b2b">the idea was already a saying</text>
-<text x="952" y="456" font-size="12" fill="#2b2b2b">in her household → unknown</text>
+<text x="952" y="390" font-size="12.5" font-weight="700" fill="#b5541c">Indian scriptures</text>
+<text x="952" y="408" font-size="12" fill="#2b2b2b">Deathbed visions there are</text>
+<text x="952" y="424" font-size="12" fill="#2b2b2b">Amitābha's welcome or signs</text>
+<text x="952" y="440" font-size="12" fill="#2b2b2b">of the next birth, not dead</text>
+<text x="952" y="456" font-size="12" fill="#2b2b2b">kin → route ③ ruled out</text>
 <rect x="40" y="514" width="1160" height="66" rx="6" fill="#ffffff" stroke="#b5541c" stroke-width="1"/>
 <text x="52" y="534" font-size="12" fill="#2b2b2b">Grades: S1 1 (a collector who heard the witness in person) · S2 1 (one named witness, present) · S3 0 (decades; undated) · S4 0 · S6 1 (collector with a family</text>
-<text x="52" y="550" font-size="12" fill="#2b2b2b">interest, no checking) · S7 2 (Qing woodblock edition, scan opened) → 3/10 → R C · no verified information (V—) · independence I1 (routes ② and ③ unknown; ① ④ ⑤</text>
-<text x="52" y="566" font-size="12" fill="#2b2b2b">ruled out)</text>
+<text x="52" y="550" font-size="12" fill="#2b2b2b">interest, no checking) · S7 2 (Qing woodblock edition, scan opened) → 3/10 → R C · no verified information (V—) · independence I1 (route ② unknown; ① ③ ④ ⑤ ruled</text>
+<text x="52" y="566" font-size="12" fill="#2b2b2b">out)</text>
 </svg>
