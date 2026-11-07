@@ -1,6 +1,6 @@
 ---
 title: Timeline
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # Timeline (generated)
@@ -14,6 +14,7 @@ Columns: event year → year of the first record · card · phenomenon code and 
 | Years | Card | Type | Cluster | Investigator | Grades | Status |
 |---|---|---|---|---|---|---|
 | before 1793 → 1793 | [[DBV-CN-1793-zhang\|Lady Zhang sees who has come for her (China, before 1793)]] | DBV ·  | EA · CN | [[P-Ji-Yun]] | C · V— · I1 · no | reviewed |
+| 1864 → 1894 | [[DBV-US-1864-dryden\|Daisy Dryden: \"Allie has come for me\" (San Jose, 1864)]] | DBV · V | EU-W · US | [[O-ASPR]] | C · V0 · I2 · no | reviewed |
 | 1883 → 1883 | [[DBV-GB-1883-browning\|Louisa Browning calls her sister's name (London, 1883)]] | DBV ·  | EU-W · GB | [[O-ASPR]] | C · V— · I2 · no | reviewed |
 | 1924 → 1926 | [[DBV-GB-1924-doris\|Doris sees Vida (London, 1924)]] | DBV · V | EU-W · GB | [[P-Barrett-WF]] | B · V1 · I0 · V | reviewed |
 | 1979 → 1991 | [[NDE-NL-1979-dentures\|The man with the dentures (Nijmegen, 1979)]] | NDE · V | EU-W · NL | [[O-Merkawah]] | C · V1 · I0 · V | reviewed |
@@ -40,13 +41,13 @@ Columns: event year → year of the first record · card · phenomenon code and 
 | 1991 (operation) | [[L-Barrow-Neurological-Institute\|Barrow Neurological Institute, St Joseph's Hospital and Medical Center, Phoenix, Arizona]] | place ·  | [[NDE-US-1991-reynolds]], [[P-Spetzler-RF]], [[P-Reynolds-Pam]] |
 | 2004-2012 (JNDS publications) | [[P-Woerlee-GM\|Gerald M. Woerlee]] | person · author | [[NDE-NL-1979-dentures]], [[NDE-US-1991-reynolds]], [[O-Merkawah]], [[P-Sabom-MB]], [[P-Augustine-K]] |
 | 2007 (JNDS) | [[P-Augustine-K\|Keith Augustine]] | person · author | [[NDE-US-1991-reynolds]], [[P-Sabom-MB]], [[P-Woerlee-GM]] |
-|  | [[M-dbv-visitor-known-dead\|In a deathbed vision, the dying person sees, greets or calls a dead relative who seems to have come for them]] | motif ·  | [[DBV-GB-1883-browning]], [[DBV-GB-1924-doris]], [[DBV-CN-1793-zhang]], [[M-dbv-visitor-unknown-dead]], [[P-Barrett-WF]], [[P-Hyslop-JH]], [[P-Ji-Yun]], [[T-Dizang-sutra]] |
+|  | [[M-dbv-visitor-known-dead\|In a deathbed vision, the dying person sees, greets or calls a dead relative who seems to have come for them]] | motif ·  | [[DBV-GB-1883-browning]], [[DBV-US-1864-dryden]], [[DBV-GB-1924-doris]], [[DBV-CN-1793-zhang]], [[M-dbv-visitor-unknown-dead]], [[P-Barrett-WF]], [[P-Hyslop-JH]], [[P-Ji-Yun]], [[T-Dizang-sutra]] |
 |  | [[M-dbv-visitor-unknown-dead\|In a deathbed vision, a person whose death the patient did not know of appears as the visitor]] | motif ·  | [[DBV-GB-1924-doris]], [[P-Barrett-WF]], [[M-dbv-visitor-known-dead]], [[P-Hyslop-JH]] |
 |  | [[M-obe-veridical-resuscitation\|During resuscitation or surgery the experiencer reports events around them from an out-of-body viewpoint, and staff or records confirm them]] | motif ·  | [[NDE-NL-1979-dentures]], [[NDE-US-1991-reynolds]], [[NDE-INTL-2014-aware]] |
 
 ## Link check
 
-- 298 wikilinks in 48 files checked on 2026-11-06.
+- 322 wikilinks in 50 files checked on 2026-11-07.
 - 4 link(s) point to pages that do not exist yet (planned cards count as leads, not records):
   - `cases/NDE-NL-1979-dentures.md` → `NDE-INTL-2014-aware`
   - `entities/M-obe-veridical-resuscitation.md` → `NDE-INTL-2014-aware`

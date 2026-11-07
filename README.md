@@ -10,6 +10,12 @@ Full charter: [docs/CHARTER.md](docs/CHARTER.md). Grading scale and rules: [docs
 
 ## Cases so far
 
+### [Daisy Dryden: "Allie has come for me" (San Jose, 1864)](cases/DBV-US-1864-dryden.md)
+
+![Page 53 of the 1909 edition of "Daisy Dryden: A Memoir", with the words "Allie has come for me" and "Come, Allie"](assets/DBV-US-1864-dryden--memoir-1909-p53.jpg)
+
+A ten-year-old girl dying of fever in California said for three days that her brother Allie, dead seven months, was with her. At half past eight on her last evening she said he would come for her at half past eleven. At about a quarter past eleven she said "Allie has come for me", and at half past eleven she lifted her arms, said "Come, Allie" and died. Her mother, who was there, wrote it from her notes thirty years later. One check goes against the memoir: the ideas it puts in the child's mouth are those of her father's book of 1872, which does not mention her. Record grade **C** (one named witness, but thirty years to the record), a claim of unknown information that was written down only afterwards (**V0**), independence **I2**. With the 1883 Browning letter it makes the first pair of C records: **the Western cluster of the deathbed-vision count is now filled**, the first cluster filled in this study.
+
 ### [Lady Zhang sees who has come for her (China, before 1793)](cases/DBV-CN-1793-zhang.md)
 
 ![The entry on Lady Zhang in a Qing woodblock edition of Ji Yun's notebooks, chapter 17, leaf 38](assets/DBV-CN-1793-zhang--yuewei-j17-leaf38.jpg)

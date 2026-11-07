@@ -14,11 +14,11 @@ grade_R: C
 grade_V: "V—"
 cap: "③"
 unfavorable: [H5, H8]
-links: [P-Browning-Louisa, P-Chute-Ellen, P-Hyslop-JH, O-ASPR, P-Barrett-WF, M-dbv-visitor-known-dead, M-dbv-visitor-unknown-dead, DBV-GB-1924-doris]
+links: [DBV-US-1864-dryden, P-Browning-Louisa, P-Chute-Ellen, P-Hyslop-JH, O-ASPR, P-Barrett-WF, M-dbv-visitor-known-dead, M-dbv-visitor-unknown-dead, DBV-GB-1924-doris]
 counter: none
 countable: no
 status: reviewed
-updated: 2026-10-31
+updated: 2026-11-07
 ---
 
 # Louisa Browning calls her sister's name — a woman of seventy-eight, unconscious after a fall, says "Oh Amelia! Amelia!", reaches out her hand and dies; her niece writes it down eight days later (London, 1883)
@@ -192,7 +192,7 @@ Cluster: EU-W / record year 1883 vs baseline year 1900 (CA·DBV, provisional) / 
 | ④ Mass media | ruled out | Record year 1883 is before the baseline year 1900: automatically ruled out |
 | ⑤ Same investigating body | ruled out | No investigating body produced the record; the ASPR received it twenty-six years later and printed it with declared omissions only |
 
-→ Independence grade: **I2**. First I2 record in this study. Note the limit: I2 says only that the structure was not borrowed from another cluster; the record's own quality is C (cap ③), so it does not enter the S-layer count alone (`countable: no`). Two C cards with S7 = 2 and I2 in the same cluster may be converted into one B (METHOD §8); this card is the first half of such a pair for EU-W.
+→ Independence grade: **I2**. First I2 record in this study. Note the limit: I2 says only that the structure was not borrowed from another cluster; the record's own quality is C (cap ③), so it does not enter the S-layer count alone (`countable: no`). Two C cards with S7 = 2 and I2 in the same cluster may be converted into one B (METHOD §8); this card is the first half of such a pair for EU-W. **Pair completed 2026-11-07** by [[DBV-US-1864-dryden]] (San Jose 1864, memoir of 1894; C, I2, S7 = 2, another recorder): the EU-W cluster of the DBV structural layer is filled. Both records reached print through Hyslop (ASPR), so the pair counts as one investigating body.
 
 ## 12. Notes
 
